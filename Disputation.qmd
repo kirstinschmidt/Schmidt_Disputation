@@ -590,6 +590,36 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 
 ## Ergebnisse {.smaller}
 
+:::: {.columns}
+
+::: {.column width='50%'}
+
+* Lehrpersonen nehmen statistische Signifikanz, Cohen's *U<sub>3</sub>* und das kombinierte Statement aus Inferenzstatistik und Effektstärke als  informativ wahr
+<center> ![Adaptiert von Schmidt et al. (2023)](img/study1_informativity_product_plot.png){width="150"} </center>
+
+
+* Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärken 
+<center> ![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="150"} </center>
+
+:::
+
+::: {.column width='50%'}
+
+* Die Informativitätseinschätzungen sind mit dem Selbstvertrauen von Lehrpersonen in ihre statistischen Interpretationen assoziiert
+<center> ![Schmidt et al. (2023)](img/study1_confidence_plot.png){width="200"} </center>
+<br>
+* Lehrpersonen können in vier Interpretationsprofile eingeteilt werden, wobei drei verschiedene Fehlinterpretationen umfassen
+<center>![](img/LatentProfiles.jpeg){width=150} </center> 
+
+:::
+
+:::
+
+
+
+
+## Ergebnisse {.smaller}
+
 ::: {style="font-size: 0.70em"} 
 
 |  	| Akkuratheit 	| Sensitivität 	| Aufgabenschwierigkeit 	| Effizienz 	| Informativität 	| Praktischer Wert 	| Fehlkonzept 	|
