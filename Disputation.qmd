@@ -1,0 +1,615 @@
+---
+title: "Teachers' Engagement With Educational Science"
+subtitle: "How to Communicate Findings From Educational Science in a User-Friendly Way to Teachers"
+author: Disputationsvortrag von Kirstin Schmidt
+footer: "Kirstin Schmidt | <br> Pädagogische Hochschule Karlsruhe"
+institute: Institut für Schul- und Unterrichtsentwicklung
+logo: img/PH_logo.png
+picture: img/KA.jpeg
+date: today
+lang: de
+date-format: "[Dienstag den] 23. Juli, 2024"
+embed-resources: false
+format: rlille-revealjs
+lightbox: true
+bibliography: references.bib
+csl: apa.csl
+---
+
+
+
+## Inhaltlicher und organisatorischer Überblick {.smaller}
+
+```{r }
+#| label: libraries
+#| echo: false
+
+# z.B. library(tidyverse)
+
+```
+
+
+| {{< iconify fa6-solid fluent-emoji-high-contrast:newspaper >}}  | Einführung   |
+|-------------------------------------------:|:---------------------------------|
+| {{< iconify fa6-solid fa-solid:school >}}  | Evidenzinformierte Schulpraxis  <br> - Begriffsklärungen <br> - Ablauf <br> - Barrieren und Bedingungen |
+| {{< iconify fa6-solid comments >}}  | Wissenschaftskommunikation <br> - Definition, Ziele und Formate <br> - Kommunikation von statistischen Ergebnissen |
+| {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} | Eigene Forschungstätigkeiten <br> - Studie 1: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 2: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 3: Visuelle Kommunikation von Effektstärken   |
+| {{< iconify fa6-solid bxs:directions >}} | Diskussion und Ausblick  |
+
+: {#tbl-agenda tbl-colwidths="[15,85]"}
+
+<!-- style the agenda table -->
+<style>
+#tbl-agenda table th {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda table td {
+font-weight: normal !important;
+border: none !important;
+}
+</style>
+
+
+
+::: footer
+{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter https://bit.ly/XXX
+:::
+
+::: notes
+
+- sehr geehrter Prüfungsvorsitzende, Frau Schäfer-Koch, liebe Prüfer:innen und Kolleginnen und Kollegen – liebe Freunde
+
+- 
+
+::: 
+
+
+## Schlagzeilen 
+
+
+::: notes
+
+- Pressemitteilungen
+  - zu Corona: Anfänge meiner Diss stark zu von diesem Thema gepräft
+  - Beispiel aus eine PM zu bildungswissenschaftlichem Thema
+  - Primärstudie
+  - Clearinghouse 
+  
+::: 
+
+
+
+# Evidenzinformierte Schulpraxis {{< iconify fa6-solid fa-solid:school >}} 
+
+::: notes
+
+- aber im Sinne der sogenannten Evidenzinformierten Schulpraxis wird genau das gefordert 
+
+::: 
+
+## Begriffsklärungen
+
+- Evidenz 
+- Evidenzbasierte vs. -informierte Praxis
+
+
+## Ablaufschema
+
+<center>
+![](img/Groß_Ophoff et al (2023)_adaptiert.png){width=900}
+
+Eigene Adapation des Ablaufmodells nach [@grossophoff2023] </center>
+
+
+## Barrieren und Bedingungen 
+
+- Basierend auf systematischen Reviews von [@hemsley-brown2003; @dagenais2012; @schaik2018] und einem eigenen Update neuerer empirischer Studien sind vier Ebenen von Barrieren und Bedingungen zu identifizieren
+  - Individuelle Lehrperson
+  - Schule
+  - Wissenschaftliches Wissen
+  - Kommunikation
+  
+
+
+|Ebene | Tackling|
+|:-----------------------|:---------|
+|Individuelle Lehrperson | Barrieren | Bedingungen |
+|Schule                   | Barrieren | Bedingungen |
+|Wissenschaftliches Wissen | Barrieren | Bedingungen |
+|Kommunikation | Barrieren | Bedingungen |
+
+
+# Wissenschafts- <br> kommunikation {{< iconify fa6-solid comments >}} 
+
+
+## Definition, Ziele und Formate
+
+
+## Kommunikation von statistischen Ergebnissen 
+
+
+
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="margin-top: 30px;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=450} 
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {style="margin-top: 30px;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=450} 
+:::
+:::
+
+::::
+
+
+<center> 
+
+::: {style="margin-top: 10px;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=450} 
+:::
+
+<center> 
+
+## {auto-animate=true}
+
+
+::: {style="margin-top: 50px; font-size: 3em;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=600} 
+:::
+
+
+
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.center}
+1) Nehmen Lehrpersonen unterschiedliche statistische Beschreibungen in Pressemitteilungen unterschiedlich informativ wahr?
+3) Sind die Informativitätseinschätzungen der Lehrpersonen assoziert mit ihrem Selbstvertrauen in statistische Interpretationen?
+2) Wie interpretieren Lehrpersonen unterschiedliche statistische Beschreibungen in Pressemitteilungen? Unterscheiden sie bei ihrer Interpretation zwischen Inferenzstatistik und Effektstärke?
+
+
+::: notes
+- in der ersten Studie den Fragen nachgegangen 
+  - wie informativ Lehrpersonen verschiedene generische statistische Beschreibungen einschätzen
+  - wie diese interpretiert werden und zwischen Inf und Eff unterscheiden, da Zweifel bestehen, ob wissenschaftliche Laien hierzu in der Lage sind (vgl. Goodman, 2008; Sotos et al., 2007)
+  - konfirmatorische Studie: verschiedene Hypothesen präregistriert, erst bei den Ergebnissdarstellung näher benennen
+  
+::: 
+
+
+
+## Repräsentative Stichprobe {{< iconify fa6-solid users>}}  {.smaller}
+
+* *N* = 414 Lehrpersonen in Deutschland 
+* 66,91% weiblich
+* 94,93% ohne Migrationshintergrund
+* *M<sub>Alter</sub>* = 47,70 Jahre (*SD* = 10,82)
+* *M<sub>Lehrerfahrung</sub>* = 17,37 Jahre (*SD* = 11,13)
+* Verschiedene Schularten (z.B. 27,29 % Gymnasiallehrpersonen; 26,09% Grundschullehrpersonen; 18,60 % Gesamtschullehrpersonen)
+* Verschiedene Unterrichtsfächer (z.B. 58,45 % unterrichten ein geistes- oder sozialwissenschaftliches Fach; 54,83 % mind. eine Sprache; 43,72 % ein mathematisches oder naturwissenschaftliches Fach)
+
+(vgl. Statistisches Bundesamt [Destatis], 2019)
+
+
+::: notes
+- hierfür haben wir 414 aktive Lehrpersonen in DE
+- ausführliche Infos zur Stichprobenbeschreibung hier entnehmen
+- zentrale Message: Stichprobe der Lehrpersonen kann als annähernd repräsentativ für Lehrpersonen in DE gewertet werden 
+:::
+
+
+## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
+ 
+* unvollständig 5x6 rotiertes Within-Design 
+  * Within-Faktor 1: Thema
+    * G8
+    * Motivationsförderung in Mathematik 
+    * Faktenboxen
+    * PISA
+    * Untertitel in Filmen
+    <center> ![](img/study1_vignette.png){width=400 .lightbox} </center>
+  * Within-Faktor 2: statistische Beschreibung
+    * Standard Signifikanz-Aussage
+    * Definition des *p* Wertes
+    * Beschreibung des Bayes Faktors
+    * Beschreibung von Cohen's *d*
+    * Beschreibung von Cohen's *U<sub>3</sub>*
+    * Kombinierte Aussage aus Inferenzstatistik und Effektstärke
+    
+| | | |
+|---|---|---|
+|![](img/study1_sig.png){width=400 .lightbox}| ![](img/study1_pval.png){width=400 .lightbox}| ![](img/study1_bf.png){width=400 .lightbox} |
+|![](img/study1_cohensd.png){width=400 .lightbox}| ![](img/study1_u3.png){width=400 .lightbox}| ![](img/study1_kombi.png){width=400 .lightbox} |
+
+
+::: notes
+- within-between Design
+- 4 Faktoren: zwei between, zwei within
+- within auf der nächsten Folie
+
+- Experimentalgruppen zeigen
+- Lehrpersonen erhielten eine Studienvignette zu einem bildungswissenschaftlichen Thema, zufällig aus 4 verschiedenen Themen ausgewählt: Beispiel Lesen auf Tablet vs. Paper
+- diese Studienvignette kontextualisierte insgesamt 20 Effektstärke-Visualisierungen
+
+
+- diese Visualierung variierten innerhalb der Person in der präsentierten Effektstärke und Visualisierungsart
+
+:::
+
+## Abhängige Variablen {.smaller .scrollable}
+
+- __Wahrgenommene Informativität__  
+  ![](img/study1_item_informativity.png){width=300 .lightbox} 
+- __Selbstvertrauen in statistische Interpretation__
+  ![](img/study1_item_confidence.png){width=300 .lightbox} 
+- __Interpretation als Inferenstatistik__
+- __Interpretation als Effektstärke__ 
+  ![](img/study1_items_iinf-ieff.png){width=300 .lightbox} 
+
+
+## {auto-animate=true}
+
+
+::: {style="margin-top: 50px; font-size: 3em;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=600} 
+:::
+
+
+
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="margin-top: 30px;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=450} 
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {style="margin-top: 30px;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=450} 
+:::
+:::
+
+::::
+
+
+<center> 
+
+::: {style="margin-top: 10px;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=450} 
+:::
+
+<center> 
+## {auto-animate=true}
+
+
+::: {style="margin-top: 50px; font-size: 3em;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=600} 
+:::
+
+
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.center}
+
+1) Können individuelle Unterschiede in den Interpretationen von Lehrpersonen bezüglich Aussagen, die statistische Signifikanz und Cohen's *U<sub>3</sub>* becshreiben, in verschiedene Interpretationsprofile zusammengefasst / kategorisiert werden?
+
+2) Inwieweit hängen Charakterstika der Lehrpersonen (z.B. Geschlecht, Alter, Unterrichtserfahrung, Unterrichtsfach), Selbstvertrauen der Lehrpersonen in die statistische Interpretation, Überzeugungen und Motivationen bezüglich (Biludngs-)Wissenschaft mit den Profilen zusammen? 
+
+
+::: notes
+
+- explorativer Ansatz
+- keine Hypothesen
+:::
+
+## Substichproben aus Studie 1 {{< iconify fa6-solid users>}}
+
+::: {style="font-size: 0.60em"}
+* Signifikanz-Stichprobe: *N* = 138 Lehrpersonen 
+  * 66,67 % weiblich
+  * *M<sub>Alter</sub>* = 47,04 Jahre (*SD* = 11,15)
+  * *M<sub>Lehrerfahrung</sub>* = 17,07 Jahre (*SD* = 11,59)
+  * Verschiedene Schularten (z.B. 28,99 % Gymnasiallehrpersonen)
+  * Verschiedene Unterrichtsfächer (z.B. XX,XX % unterrichten ein geistes- oder sozialwissenschaftliches Fach; XX,XX % mind. eine Sprache; XX,XX % ein mathematisches oder naturwissenschaftliches Fach)
+* Cohen's *U<sub>3</sub>*-Stichprobe: *N* = 124 Lehrpersonen
+  * 65,32 % weiblich
+  * *M<sub>Alter</sub>* = 48,35 Jahre (*SD* = 10,11)
+  * *M<sub>Lehrerfahrung</sub>* = 16,94 Jahre (*SD* = 10,27)
+  * Verschiedene Schularten (z.B. 28,22 % Gymnasiallehrpersonen)
+  * Verschiedene Unterrichtsfächer (z.B. XX,XX % unterrichten ein geistes- oder sozialwissenschaftliches Fach; XX,XX % mind. eine Sprache; 42,74 % ein mathematisches oder naturwissenschaftliches Fach)
+
+:::
+
+## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
+ 
+* unvollständig 5x6 rotiertes Within-Design in Studie 1 &rarr; 4 x 2 Between-Design 
+  * Between-Faktor 1: Thema
+    * G8
+    * Motivationsförderung in Mathematik 
+    * Faktenboxen
+    * PISA
+    * Untertitel in Filmen
+    <center> ![](img/study1_vignette.png){width=400 .lightbox} </center>
+  * Between-Faktor 2: statistische Beschreibung
+    * Standard Signifikanz-Aussage
+    * Beschreibung von Cohen's *U<sub>3</sub>*
+    
+| | |
+|---|---|
+|![](img/study1_sig.png){width=400 .lightbox}| ![](img/study1_u3.png){width=400 .lightbox}| 
+
+
+
+## Abhängige Variablen {.smaller}
+
+- __Interpretation als Inferenstatistik__
+- __Interpretation als Effektstärke__ 
+
+  ![](img/study1_items_iinf-ieff.png){width=300 .lightbox} 
+
+## {auto-animate=true}
+
+
+::: {style="margin-top: 50px; font-size: 3em;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=600} 
+:::
+
+
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="margin-top: 30px;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=450} 
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {style="margin-top: 30px;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=450} 
+:::
+:::
+
+::::
+
+
+<center> 
+
+::: {style="margin-top: 10px;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=450} 
+:::
+
+<center> 
+
+## {auto-animate=true}
+
+
+::: {style="margin-top: 100px; font-size: 3em;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png)
+:::
+
+
+## Stichprobe {{< iconify fa6-solid users>}}  {.smaller}
+
+* Stichprobenziehung via Panel Provider Prolific
+* *N* = 220 englischsprachige Lehrpersonen 
+* 64,5% weiblich
+* 55% mit Wohnsitz im Vereinigten Königreich
+* *M<sub>Alter</sub>* = 41,80 Jahre (*SD* = 11,40)
+* *M<sub>Lehrerfahrung</sub>* = 13,58 Jahre (*SD* = 9,22)
+* Verschiedene Schularten (z.B. 38,64% Grundschullehrpersonen; 31,36% Lehrpersonen aus Sekundarschulen)
+* Verschiedene Unterrichtsfächer (z.B. 22,27% unterrichten ein geistes- oder sozialwissenschaftliches Fach)
+
+
+::: notes
+- und 220 englischsprachige Lehrpersonen via panel provider prolific befragt
+- ausführliche Infos zur Stichprobenbeschreibung hier aufgelistet
+- wie sind wir dann vorgegangen?
+:::
+
+
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller}
+
+1) Beeinflusst die Visualisierung 
+* die Akkuratheit (AV 1), 
+* die Sensitivität (AV 2), 
+* die wahrgenommene Aufgabenschwierigkeit (AV 3), 
+* die Effizienz/Dauer (AV 4), 
+* die wahrgenommene Informativität (AV 5) 
+* den wahrgenommenen Wert für die Praxis (AV 6) wenn Lehrpersonen Effektstärken beurteilen ? 
+
+2) Welche Visualisierung führen bei AV1 - AV6 zu den wünschenswertesten Ergebnissen?
+
+3) Beeinflussen Anreicherungen (Signaling und Benchmarking) in Visualisierungen AV1- AV6 positiv?
+
+
+
+
+::: notes
+
+- diese Studie umfasste 3 verschiedene Teilstudien - eine Delphi, explorative und konfirmatorische Stude - , um die folgenden Fragen zu beantworten 
+
+- Fokus heute vor allem auf die Ergebnisse der konfirmatorischen Studie zur FF 3 
+- wie Anreicherungen konkret aussehen, zeige ich später
+
+- um die 3 Teilstudie zu verstehen, ist aber der Ablauf der vorherigen Studien wichtig 
+
+- Wenn es um das Erstellen von Visualisierungen geht, viele Freiheitsgrade
+- welchen Visualisierungstyp und wie man wiederum das Design dieser Visualisierung festlegt (z.B. Gruppen überlappend, nicht überlappend darstellen)
+- bisher wenig systematisch erforscht und Forschungsstand eher eklektisch, daher Delphi-Studie mit Visualisierungs- und Clearinghouse-Experten durchgeführt
+
+:::
+
+## Ablauf des Forschungsprojektes {.scrollable}
+
+<center> ![](img/Tüdibase_Studies.png) </center>
+
+## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
+ 
+* 4x4x10x2 between-within Design 
+  * Between-Faktor 1: Experimentalbedingung
+    * Kontrollgruppe
+    * Benchmark 
+    * Signaling Cohen's *U<sub>3</sub>* 
+    * Signaling Overlap  
+    ![](img/benchmarking.jpg){width=30 .lightbox} ![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
+  * Between-Faktor 2: Thema
+    * Lesen auf Papier vs. Tablet
+    * Lernen anhand eines Live-Vortrags vs. Video
+    * Lernen mittels Experimentieren vs. Computersimulation
+    * Lernen mittels Erklärvideo mit Untertitel vs. Erklärvideo ohne Untertitel
+<center> ![](img/study2_vignette.png){width=400 .lightbox} </center>
+  * Within-Faktor 3: präsentierte Effektstärke   
+  *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
+  * Within-Faktor 4: Visualisierungsart
+    * Halfeye plots mit Gruppen auf der x-Achse
+    * Halfeye plots mit Gruppen auf der y-Achse
+
+
+
+::: notes
+- within-between Design
+- 4 Faktoren: zwei between, zwei within
+- within auf der nächsten Folie
+
+- Experimentalgruppen zeigen
+- Lehrpersonen erhielten eine Studienvignette zu einem bildungswissenschaftlichen Thema, zufällig aus 4 verschiedenen Themen ausgewählt: Beispiel Lesen auf Tablet vs. Paper
+- diese Studienvignette kontextualisierte insgesamt 20 Effektstärke-Visualisierungen
+
+
+- diese Visualierung variierten innerhalb der Person in der präsentierten Effektstärke und Visualisierungsart
+
+:::
+
+
+## Abhängige Variablen {.smaller .scrollable}
+
+- __Akuratheit (AV 1)__
+  - Abstrakte Metrik  
+  ![](img/study3_item_am.png){width=300 .lightbox} 
+  - Cohen's *U<sub>3</sub>* Metrik  
+  ![](img/study3_item_u3.png){width=300 .lightbox} 
+  - Overlap Metrik
+    ![](img/study3_item_overlap.png){width=300 .lightbox} 
+- __Sensitivität (AV 2)__
+  ![](img/study3_item_sensitivity.png){width=300 .lightbox} 
+- __Wahrgenommene Aufgabenschwierigkeit (AV 3)__
+  ![](img/study3_item_difficulty.png){width=300 .lightbox} 
+- __Effizienz/Dauer (AV 4):__ Zeit bis zum ersten Akkuratheits- oder Sensitivitätsrating 
+- __Wahrgenommene Informativität (AV 5)__
+  ![](img/study3_item_informativity.png){width=300 .lightbox} 
+- __Wahrgenommener praktischer Wert (AV 6)__
+  ![](img/study3_item_value.png){width=300 .lightbox} 
+- __Cohen's *U<sub>3</sub>* Fehlkonzept__: Median des *U<sub>3</sub>* Rating < 21.2% (kleinster plausibler Wert, der *d* = −.8 entspricht)
+
+
+::: notes
+- AVs
+  - Informativität: wie informativ sie die Information in der Visualisierung fanden (7stufige Likertskala)
+  - Verständnis wurde zufällig nach den ersten 10 oder letzten 10 Visualisierung mit folgenden drei Fragen operationalisiert. Aber heute nur zwei relevant:
+    - abstrakte Metrik: wie stark sich die Gruppen auf einer Skala von -1 bis +1 unterscheiden (abstrakte Metrik); -1 die Gruppe mit Paper total unterlegenl +1 Gruppe mit Papier komplett überlegen
+    - U3: wie viel Prozent der einen Gruppe über dem Mittelwert der anderen Gruppe liegt
+    (U3-Metrik)
+    - Fehlkonzept: Personen, die grundsätzlich im Median plausible U3 Ratings angaben (- U3 Fehlkonzept: Median des U3 Ratings kleiner als 21.2% (kleinster plausibler Wert, der d = −.8 entspricht)
+  
+
+ergänzende Info bei Rückfragen:
+  - Thema variierte zwischen den Personen, um zusätzlichen kognitiven Load zu verringern
+  - zu wieviel Prozent sich beide Gruppen überschneiden (Overlap-Metrik)
+
+  
+:::
+
+## {auto-animate=true}
+
+
+::: {style="margin-top: 100px; font-size: 3em;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png)
+:::
+
+
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="margin-top: 30px;"}
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=450} 
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {style="margin-top: 30px;"}
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![Link zum Preprint](img/Auszug_Studie_2.png){width=450} 
+:::
+:::
+
+::::
+
+
+<center> 
+
+::: {style="margin-top: 10px;"}
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=450} 
+:::
+
+<center> 
+
+## Ergebnisse {.smaller}
+
+::: {style="font-size: 0.70em"} 
+
+|  	| Akkuratheit 	| Sensitivität 	| Aufgabenschwierigkeit 	| Effizienz 	| Informativität 	| Praktischer Wert 	| Fehlkonzept 	|
+|-- |---	          |---          	|---	                    |---	        |---	            |---	              |---            |
+| Visualisierungsart 	| {{<iconify fa6-solid dashicons:no>}} 	| {{<iconify fa6-solid streamline:check-solid>}} <br> höhere Sensitivität bei Halfeye plots 	| {{<iconify fa6-solid streamline:check-solid>}} <br> geringere Schwierigkeit bei Halfeye plots 	| {{<iconify fa6-solid streamline:check-solid>}} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots 	| {{<iconify fa6-solid streamline:check-solid>}} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) 	| {{<iconify fa6-solid streamline:check-solid>}} <br> höherer praktischer Wert bei Halfeye plots 	|  |
+
+:::
+
+
+
+## Diskussion und Ausblick {{< iconify fa6-solid bxs:directions >}} 
+
+
+## Literatur {{< iconify fa6-solid ion:book >}} {.scrollable}
+::: footer
+<!-- Leerer footer - sonst überlagern nsich floating refernces und der footer  -->
+:::
+
+<!-- nicht in das scss integrierbares css -->
+<style>
+div.callout-tip {border-left-color: #267326 !important;}
+</style>
+
