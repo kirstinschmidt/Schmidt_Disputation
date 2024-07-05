@@ -611,9 +611,11 @@ Studie 3 {{< iconify fa6-solid  chart-area >}} <br>
 
 ::: {style="margin-top: 50px; font-size: 3em;"}
 Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=600}  <br>
-Link zum Preprint
+![](img/Auszug_Studie_2.png){width=600} <br>
 :::
+
+Link zum Preprint
+
 
 ::: notes
 
@@ -728,10 +730,12 @@ Unvollständig 5x6 rotiertes Within-Within-Design in Studie 1
 
 :::
 
+<!--
 ## Statistische Analysen {{< iconify fa6-solid laptop-code >}}
 
 * latente Profilanalysen mit Mplus
 
+-->
 
 ## {auto-animate=true}
 
@@ -741,7 +745,13 @@ Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
 ![](img/Auszug_Studie_2.png){width=600} 
 :::
 
-Link zum Preprint:
+Link zum Preprint: XXX
+
+::: notes
+
+nun thematischer Wechsel 
+
+:::
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
 
@@ -784,6 +794,11 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 ![](img/Auszug_Studie_3.png)
 :::
 
+::: notes
+
+- jetzt Fokus auf Effektstärkenvisualisierungen
+
+:::
 
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller}
 
@@ -808,16 +823,11 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 
 ::: notes
 
-- diese Studie umfasste 3 verschiedene Teilstudien - eine Delphi, explorative und konfirmatorische Stude - , um die folgenden Fragen zu beantworten 
+- drei verschiedene FF
 
-- Fokus heute vor allem auf die Ergebnisse der konfirmatorischen Studie zur FF 3 
-- wie Anreicherungen konkret aussehen, zeige ich später
+- hierfür drei verschiedene aufeinander aufbauende Teilstudien
+- Aufbau kurz erläutern ohne dabei detailliert auf die Einzelstudien einzugehen
 
-- um die 3 Teilstudie zu verstehen, ist aber der Ablauf der vorherigen Studien wichtig 
-
-- Wenn es um das Erstellen von Visualisierungen geht, viele Freiheitsgrade
-- welchen Visualisierungstyp und wie man wiederum das Design dieser Visualisierung festlegt (z.B. Gruppen überlappend, nicht überlappend darstellen)
-- bisher wenig systematisch erforscht und Forschungsstand eher eklektisch, daher Delphi-Studie mit Visualisierungs- und Clearinghouse-Experten durchgeführt
 
 :::
 
@@ -828,9 +838,38 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 <center> ![](img/Tüdibase_Studies.png) </center>
 
 
+::: notes
+
+- Wenn es um das Erstellen von Visualisierungen geht, viele Freiheitsgrade
+- welchen Visualisierungstyp und wie man wiederum das Design dieser Visualisierung festlegt (z.B. Gruppen überlappend, nicht überlappend darstellen)
+- bisher wenig abgesichertes Wissen, daher Delphi-Studie mit Visualisierungs- und Clearinghouse-Experten durchgeführt
+  + Delphi-Studie mehrschrittig: welche Visualisierung sich für die Kommunikation mit Lehrpersonen eignen
+    - aus 44 Visualisierungen
+    - halfeye plots
+    - raincloud plot 
+    - gardner altman
+  + explorative Studie: Halfeye plots   
+    - FF1 und FF2
+  + konfirmatorische: Anreicherungen
+    - FF3
+
+::: 
+
 ## Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
 
 * Stichprobenziehung via Panel Provider Prolific
+
+__Explorative Studie__ 
+* *N* = 40 englischsprachige Lehrpersonen 
+* 67,5% weiblich
+* 35% mit Wohnsitz im Vereinigten Königreich
+* *M<sub>Alter</sub>* = 37,83 Jahre (*SD* = 12,05)
+* *M<sub>Lehrerfahrung</sub>* = 10,15 Jahre (*SD* = 8,66)
+* verschiedene Schularten (z.B. n = 9 Grundschullehrpersonen; n = 7 Lehrpersonen aus Sekundarschulen)
+* verschiedene Unterrichtsfächer (z.B. n = 20 unterrichten ein Geistes- oder Sozialwissenschaftliches Fach)
+
+
+__Konfirmatorische Studie__
 * *N* = 220 englischsprachige Lehrpersonen 
 * 64,5% weiblich
 * 55% mit Wohnsitz im Vereinigten Königreich
