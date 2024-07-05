@@ -98,54 +98,55 @@ border: none !important;
 
 <!--
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/Evidenzverständnis_quer_RCTs.png){.lightbox} </center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/Evidenzverständnis_quer_eng.png){.lightbox} </center> 
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/Evidenzverständnis_quer_moderat.png){.lightbox} </center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/Evidenzverständnis_quer_breit.png){.lightbox} </center>
 
 -->
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
+::: {.fragment}
 <center> ![](img/Evidenzverständnis_quer_umfassend.png){.lightbox} </center>
+:::
 
-
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based_RCTs.png){.lightbox}</center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based_eng.png){.lightbox}</center>
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based_moderat.png){.lightbox}</center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based_breit.png){.lightbox}</center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based_umfassend.png){.lightbox}</center>
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based.png){.lightbox width=970} </center>
 
 
-## Begrifflichkeiten
+## Begriffsklärungen
 
 <center> ![](img/evidence-based.png){.lightbox width=650} </center>
 
@@ -183,10 +184,10 @@ presented.
 
 :::
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_phase1.png){width=890}
@@ -200,7 +201,7 @@ Prozessmodell um Ablauf zu beschreiben
 
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_phase2.png){width=890}
@@ -213,7 +214,7 @@ Prozessmodell um Ablauf zu beschreiben
 ::: 
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_phase3.png){width=890}
@@ -225,7 +226,7 @@ Eigene Adapation des Prozessmodell nach [@grossophoff2023] </center>
 Prozessmodell um Ablauf zu beschreiben
 ::: 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_phase4.png){width=890}
@@ -238,7 +239,7 @@ Prozessmodell um Ablauf zu beschreiben
 ::: 
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){width=890}
@@ -250,7 +251,7 @@ Eigene Adapation des Prozessmodell nach [@grossophoff2023] </center>
 Prozessmodell um Ablauf zu beschreiben
 ::: 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_context.png){width=890}
@@ -263,7 +264,7 @@ Prozessmodell um Ablauf zu beschreiben
 ::: 
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_user.png){width=890}
@@ -276,7 +277,7 @@ Prozessmodell um Ablauf zu beschreiben
 ::: 
 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted_evidence.png){width=890}
@@ -288,32 +289,39 @@ Eigene Adapation des Prozessmodell nach [@grossophoff2023] </center>
 Prozessmodell um Ablauf zu beschreiben
 ::: 
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
 
-<center>
-![](img/Dominoeffekt.png){width=890}
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
+<center> {{< video video/EIP_funktional.mp4 width="800" height="400" >}}<br>
+Gelingender Ablauf </center>
 
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
-
-<center>
-![](img/Dominoeffekt.gif){width=890}
-
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
-
-<center>
-![](img/Dominoeffekt.png){width=890}
-
-LIEGEND
-
-## Prozessmodell EISP {{< iconify uit:process >}} {.smaller}
-
-<center>
-![](img/Dominoeffekt_stoppt.gif){width=890}
 
 ::: notes
 
 Prozessmodell um Ablauf zu beschreiben
+
+Bedingungen
+::: 
+
+
+## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
+
+<center> 
+Misslingender Ablauf 
+
+{{< video video/EIP_phase3_dysfunktional1.mp4 width="350" height="150" >}}<br>
+
+{{< video video/EIP_phase3_dysfunktional2.mp4 width="350" height="150" >}}<br>
+
+{{< video video/EIP_phase4_dysfunktional.mp4 width="350" height="150" >}}<br>
+
+</center>
+
+::: notes
+
+Prozessmodell um Ablauf zu beschreiben
+
+Barrieren 
 ::: 
 
 
@@ -341,24 +349,12 @@ Prozessmodell um Ablauf zu beschreiben
 
 ADD Beispiele
 
-## Kommunikation von statistischen Ergebnissen {.smaller}
 
-::: {style="font-size: 0.60em"}
-__Methodischer Zugang__
+## Kommunikation von statistischen Ergebnissen {.smaller .scrollable}
 
-- Fehlkonzepte bezüglich gängiger statistischer Signifikanz
-- Alternativen:
-  + Bayes Faktoren
-  + Konfidenzintervalle
-  + Effektstärken
+<center> __Interdisziplinäres Forschungsfeld__ </center>
 
-:::
-
-
-## Kommunikation von statistischen Ergebnissen {.smaller}
-
-::: {style="font-size: 0.60em"}
-__Methodischer Zugang__
+__Methodische Perspektive__
 
 - Fehlkonzepte bezüglich gängiger statistischer Signifikanz
 - Alternativen:
@@ -366,29 +362,26 @@ __Methodischer Zugang__
   + Konfidenzintervalle
   + __Effektstärken__
 
+__Rezeption durch Zielgruppe__
+
+- Within- und Between-Subjects Experimente
+- Eklektischer Forschungsstand 
+  + Ausprägungen der unabhängigen Variablen
+  + Operationalisierungen der unabhängigen Variable
+  + Operationalisierung der abhängigen Variablen
+
+
+::: notes 
+
+-  interdisziplinär: Psychologie, BiWi, Comupter science, Medizin
 :::
 
-
-## Kommunikation von statistischen Ergebnissen {.smaller}
-
-::: {style="font-size: 0.60em"}
-__Methodischer Zugang__
-
-- Fehlkonzepte bezüglich gängiger statistischer Signifikanz
-- Alternativen:
-  + Bayes Faktoren
-  + Konfidenzintervalle
-  + __Effektstärken__
-
-__Perspektive der Zielgruppe(n)__
-
-- Disziplinen: Bildungswissenschaften, Psychologie, Comupter science, Medizin 
-- Eklektischer Forschungsstand verschiedener within- und between-subjects Experimente
+<!-- 
   + Ausprägungen der unabhängigen Variablen (z.B. Cohen's *U<sub>3</sub>* wird verglichen mit 1) generischen Maßen wie Cohen's *d* vs. 2) intuitiver interpretierbaren und kontextspezifischen Effektstärken z.B. Months of Progress) 
   + Operationalisierungen der unabhängigen Variable (z.B. Probability of Superiority dargestellt in Prozent vs. in natürlichen Häufigkeiten; überlappende vs. nicht-überlappende Normalverteilung)
   + Operationalisierung der abhängigen Variablen (z.B. Verständnis erfasst über einen Slider von -1 bis +1 vs. Overlap vs. Probability of Superiority)
-
-:::
+  
+-->
 
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
@@ -399,7 +392,7 @@ __Perspektive der Zielgruppe(n)__
 
 ::: {style="margin-top: 30px;"}
 Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=420} 
+![](img/Auszug_Studie_1.png){width=420} 
 :::
 :::
 
@@ -407,7 +400,7 @@ Studie 1 {{< iconify fa6-solid file-lines >}} <br>
 ::: {.column width="50%"}
 ::: {style="margin-top: 30px;"}
 Studie 2 {{< iconify fa6-solid file-lines >}} <br>
-![Link zum Preprint](img/Auszug_Studie_2.png){width=420} 
+![](img/Auszug_Studie_2.png){width=420} 
 :::
 :::
 
@@ -418,7 +411,7 @@ Studie 2 {{< iconify fa6-solid file-lines >}} <br>
 
 ::: {style="margin-top: 10px;"}
 Studie 3 {{< iconify fa6-solid chart-area >}} <br>
-![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=420} 
+![](img/Auszug_Studie_3.png){width=420} 
 :::
 
 <center> 
@@ -426,27 +419,37 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 
 ::: notes
 
-- drei experimentelle Studien vorstellen: research interest in how to communicate inferential statistics and
-effect sizes to elicit perceptions of relevance to teaching practice (e.g., perceived informativity)
-while also facilitating understanding (e.g., accurate and efficient interpretations)
-and considering teachers’ cognitive processing (e.g., cognitive load).
-- zunächst den Aufbau, immer gleich
+- aus theoretischen Hintergrund Forschungsinteresse abgeleitet: 
+  - wie könenn Inferenzstatistiken und Effektstärken kommuniziert werden, damit Lehrpersonen die Evidenz als relevant für die Unterrichtspraxis einschätzen,
+  - gleichzeitig das Verstehen der Infos erleichtert wird
+  - und kognitive Prozesse von Lehrpersonen berücksichtigt werden
+
+- drei unterschiedliche Studien mit Daten von Experimenten, entweder auf textliche oder visuelle Aufbereitung beziehen 
+- Aufbau, immer gleich
   - FF
   - Stichprobe
   - Design 
   - AVs
+  - statistische Analysen
 
 :::
+
 
 ## {auto-animate=true}
 
-
 ::: {style="margin-top: 50px; font-size: 3em;"}
+
 Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=600}
+![](img/Auszug_Studie_1.png){width=600} <br>
 :::
 Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
+
+::: notes
+
+- erste Studie fokussiert die textliche Aufbereitung von Infernzstatistiken und Effektstärken
+
+::: 
 
 ## Forschungsfragen {{< iconify fa6-solid:circle-question >}} {.center}
 
@@ -459,9 +462,11 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
 ::: notes
 - in der ersten Studie den Fragen nachgegangen 
-  - wie informativ Lehrpersonen verschiedene generische statistische Beschreibungen einschätzen
-  - wie diese interpretiert werden und zwischen Inf und Eff unterscheiden, da Zweifel bestehen, ob wissenschaftliche Laien hierzu in der Lage sind (vgl. Goodman, 2008; Sotos et al., 2007)
-  - konfirmatorische Studie: verschiedene Hypothesen präregistriert, erst bei den Ergebnissdarstellung näher benennen
+  - wie informativ Lehrpersonen verschiedene generische statistische Beschreibungen in PM einschätzen
+  - inwieweit ihre Informativitätseinschätzungen mit ihrem Selbstvertrauen in ihre statistische Interpretationen korrelieren
+  - wie Lehrpersonen diese interpretiert werden und zwischen Inf und Eff unterscheiden, da Zweifel bestehen, ob wissenschaftliche Laien hierzu in der Lage sind (vgl. Goodman, 2008; Sotos et al., 2007)
+
+- konfirmatorische Studie: verschiedene Hypothesen präregistriert, erst bei den Ergebnissdarstellung näher benennen
   
 ::: 
 
@@ -483,7 +488,8 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 ::: notes
 - hierfür haben wir 414 aktive Lehrpersonen in DE
 - ausführliche Infos zur Stichprobenbeschreibung hier entnehmen
-- zentrale Message: Stichprobe der Lehrpersonen kann als annähernd repräsentativ für Lehrpersonen in DE gewertet werden 
+- zentrale Message: Stichprobe der Lehrpersonen wurde über Forsa rekrutiert und kann als annähernd repräsentativ für die Population Lehrpersonen in DE gewertet werden 
+
 :::
 
 
@@ -512,20 +518,15 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
 
 ::: notes
-- within-between Design
-- 4 Faktoren: zwei between, zwei within
-- within auf der nächsten Folie
 
-- Experimentalgruppen zeigen
-- Lehrpersonen erhielten eine Studienvignette zu einem bildungswissenschaftlichen Thema, zufällig aus 4 verschiedenen Themen ausgewählt: Beispiel Lesen auf Tablet vs. Paper
-- diese Studienvignette kontextualisierte insgesamt 20 Effektstärke-Visualisierungen
-
-
-- diese Visualierung variierten innerhalb der Person in der präsentierten Effektstärke und Visualisierungsart
+- jede Lehrperson insgesamt 2 PM erhalten, die jeweils zwei experimentelle Faktoren enthielten
+  - 1. Within-Faktor Thema G8
+  - 2. statistische Beschreibung: --unsere zentrale UV-- Signifikanz und U3 zeigen
+- Unvollständig 5x6 rotiertes Within-Within-Design 
 
 :::
 
-## Abhängige Variablen {.smaller .scrollable}
+## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
 
 - __Wahrgenommene Informativität__  
   ![](img/study1_item_informativity.png){width=300 .lightbox} 
@@ -537,22 +538,40 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 <br>
 ![](img/study1_item_ieff.png){width=300 .lightbox} 
 
-## Statistische Analysen
 
-* bain-Framework zum Testen informativer Hypothesen (REF) 
+::: notes
+
+- wie informativ statistische Beschreibung - Likert-Item
+- wie sicher sie sich sind, die Beschreibung korrekt zu interpretieren - Likert-Item
+- wie sicher es ist, dass der Unterschied tatsächlich exisitert - Interpretation als Inferenzstatistik - auch Likert Item
+- wie groß der Unterschied ist - auch Likert Item um Interpretation als Effektstärke zu erfassen
+
+:::
+
+<!--
+
+## Statistische Analysen {{< iconify fa6-solid laptop-code >}}
+
+* Testen informativer Hypothesen (REF) mit dem R-Paket bain
   + Bayesianische ANOVA Modelle mit Messwiederholung
   + Pfadmodell
+  
+ ggf. Beispiel einfügen --> 
 
-## . {auto-animate=true}
-
+## {auto-animate=true}
 
 ::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 1 {{< iconify file-lines >}} <br>
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
 ![](img/Auszug_Studie_1.png){width=600} 
 :::
 
 Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
+::: notes
+
+- das war die Methode von Studie 1
+
+::: 
 
 ## Eigene Forschungstätigkeiten {{< iconify file-lines >}} {{< iconify chart-area >}} {auto-animate=true}
 
@@ -561,16 +580,18 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 ::: {.column width="50%"}
 
 ::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify file-lines >}} <br>
-![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=420} 
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![](img/Auszug_Studie_1.png){width=420}
+
 :::
 :::
 
 
 ::: {.column width="50%"}
 ::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify file-lines >}}  <br>
-![Link zum Preprint](img/Auszug_Studie_2.png){width=420} 
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![](img/Auszug_Studie_2.png){width=420}
+
 :::
 :::
 
@@ -580,21 +601,28 @@ Studie 2 {{< iconify file-lines >}}  <br>
 <center> 
 
 ::: {style="margin-top: 10px;"}
-Studie 3 {{< iconify chart-area >}} <br>
-![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=420} 
+Studie 3 {{< iconify fa6-solid  chart-area >}} <br>
+![](img/Auszug_Studie_3.png){width=420} 
 :::
 
 <center> 
-## .{auto-animate=true}
+## {auto-animate=true}
 
 
 ::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 2 {{< iconify file-lines >}}  <br>
-![Link zum Preprint](img/Auszug_Studie_2.png){width=600} 
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![](img/Auszug_Studie_2.png){width=600}  <br>
+Link zum Preprint
 :::
 
+::: notes
 
-## Forschungsfragen {{< iconify circle-question >}} {.center}
+- kommen wir zu Studie 2, die eine Reanalyse der 1 Studie darstellt
+
+::: 
+
+
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.center}
 
 ::: {.incremental}
 
@@ -606,8 +634,12 @@ Studie 2 {{< iconify file-lines >}}  <br>
 
 ::: notes
 
+- FF nachgegangen, ob individuelle Unterschiede in den Interpretationen von Lehrpersonen bezüglich statistischer Signifikanz-Aussagen und Cohen's *U<sub>3</sub>*-Aussagen, in verschiedene Interpretationsprofile zusammengefasst werden können
+- falls ja, inweit diese mit bestimmten Eigenschaften von Lehrpersonen zusammenhängen
+  + wie demografische Eigenschaften, 
+  + aber auch spezifisch für den Kontext: Selbstvertrauen in Interpretation, Überzeugungen und Motivation bezüglich Bildungs-Wissenschaft
 - explorativer Ansatz
-- keine Hypothesen
+
 :::
 
 ## Substichproben aus Studie 1 {{< iconify fa-solid:users>}}
@@ -618,15 +650,29 @@ Studie 2 {{< iconify file-lines >}}  <br>
   * *M<sub>Alter</sub>* = 47,04 Jahre (*SD* = 11,15)
   * *M<sub>Lehrerfahrung</sub>* = 17,07 Jahre (*SD* = 11,59)
   * Verschiedene Schularten (z.B. 28,99 % Gymnasiallehrpersonen)
-  * Verschiedene Unterrichtsfächer (z.B. XX,XX % unterrichten ein geistes- oder sozialwissenschaftliches Fach; XX,XX % mind. eine Sprache; XX,XX % ein mathematisches oder naturwissenschaftliches Fach)
+  * Verschiedene Unterrichtsfächer (z.B. 52,90 % mind. eine Sprache; 50,00 % ein mathematisches oder naturwissenschaftliches Fach)
 * Cohen's *U<sub>3</sub>*-Stichprobe: *N* = 124 Lehrpersonen
   * 65,32 % weiblich
   * *M<sub>Alter</sub>* = 48,35 Jahre (*SD* = 10,11)
   * *M<sub>Lehrerfahrung</sub>* = 16,94 Jahre (*SD* = 10,27)
   * Verschiedene Schularten (z.B. 28,22 % Gymnasiallehrpersonen)
-  * Verschiedene Unterrichtsfächer (z.B. XX,XX % unterrichten ein geistes- oder sozialwissenschaftliches Fach; XX,XX % mind. eine Sprache; 42,74 % ein mathematisches oder naturwissenschaftliches Fach)
+  * Verschiedene Unterrichtsfächer (z.B. 52,42 % mind. eine Sprache; 42,74 % ein mathematisches oder naturwissenschaftliches Fach)
 
 :::
+
+
+::: notes
+
+zwei Substichproben aus Studie 1
+
+-  138 Lehrpersonen, denen die Signifikanz-Aussage präsentiert wurden
+-  124 Lehrpersonen, denen die Cohen's U3-Aussage präsentiert wurden
+
+vergleichbare Verteilung der Stichprobeneigenschaften wie in Studie 1
+
+::: 
+
+
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
 
@@ -636,7 +682,7 @@ Unvollständig 5x6 rotiertes Within-Within-Design in Studie 1
 ::: 
 
 ::: {.fragment}
-&rarr; 4 x 2 Between-Between-Design 
+&rarr; 5 x 2 Between-Between-Design 
 
   * Between-Faktor 1: Thema
     * G8
@@ -655,7 +701,18 @@ Unvollständig 5x6 rotiertes Within-Within-Design in Studie 1
 
 :::
 
-## Abhängige Variablen {.smaller}
+
+::: notes
+
+- Materialien aus Studie 1, aber dennoch ein Unterschied
+- Design anders, eher als 4x2 between between zu verstehen
+- warum 1 PM angeschaut, 
+  + die zufällig ein Thema aus 5 Themen präsentierte (1 between Faktor)
+  + 2 between Faktor: entweder statistische Signifikanz enthielt oder U3
+
+:::
+
+## Abhängige Variablen {{< iconify gis:measure >}} {.smaller}
 
 - __Interpretation als Inferenstatistik__
 
@@ -664,38 +721,45 @@ Unvollständig 5x6 rotiertes Within-Within-Design in Studie 1
 
   ![](img/study1_item_ieff.png){width=300 .lightbox} 
 
-## Statistische Analysen
+
+::: notes
+
+- nun aber nur die zwei AVs zu Interpretation als Inferenzstatistik und Effektstärke
+
+:::
+
+## Statistische Analysen {{< iconify fa6-solid laptop-code >}}
 
 * latente Profilanalysen mit Mplus
 
 
-## .{auto-animate=true}
+## {auto-animate=true}
 
 
 ::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 2 {{< iconify   file-lines >}}  <br>
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
 ![](img/Auszug_Studie_2.png){width=600} 
 :::
 
 Link zum Preprint:
 
-## Eigene Forschungstätigkeiten {{< iconify file-lines >}} {{< iconify   chart-area >}} {auto-animate=true}
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
 ::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify file-lines >}} <br>
-![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=420} 
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![](img/Auszug_Studie_1.png){width=420} 
 :::
 :::
 
 
 ::: {.column width="50%"}
 ::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify file-lines >}}  <br>
-![Link zum Preprint](img/Auszug_Studie_2.png){width=420} 
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![](img/Auszug_Studie_2.png){width=420} 
 :::
 :::
 
@@ -705,8 +769,9 @@ Studie 2 {{< iconify file-lines >}}  <br>
 <center> 
 
 ::: {style="margin-top: 10px;"}
-Studie 3 {{< iconify chart-area >}} <br>
-![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=420} 
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![](img/Auszug_Studie_3.png){width=420} <br>
+Link zum Manuskript:
 :::
 
 <center> 
@@ -715,31 +780,12 @@ Studie 3 {{< iconify chart-area >}} <br>
 
 
 ::: {style="margin-top: 100px; font-size: 3em;"}
-Studie 3 {{< iconify chart-area >}} <br>
-![Link zum Paper: XXX](img/Auszug_Studie_3.png)
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![](img/Auszug_Studie_3.png)
 :::
 
 
-## Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
-
-* Stichprobenziehung via Panel Provider Prolific
-* *N* = 220 englischsprachige Lehrpersonen 
-* 64,5% weiblich
-* 55% mit Wohnsitz im Vereinigten Königreich
-* *M<sub>Alter</sub>* = 41,80 Jahre (*SD* = 11,40)
-* *M<sub>Lehrerfahrung</sub>* = 13,58 Jahre (*SD* = 9,22)
-* Verschiedene Schularten (z.B. 38,64% Grundschullehrpersonen; 31,36% Lehrpersonen aus Sekundarschulen)
-* Verschiedene Unterrichtsfächer (z.B. 22,27% unterrichten ein geistes- oder sozialwissenschaftliches Fach)
-
-
-::: notes
-- und 220 englischsprachige Lehrpersonen via panel provider prolific befragt
-- ausführliche Infos zur Stichprobenbeschreibung hier aufgelistet
-- wie sind wir dann vorgegangen?
-:::
-
-
-## Forschungsfragen {{< iconify circle-question >}} {.smaller}
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller}
 
 
 ::: {.incremental}
@@ -775,9 +821,30 @@ Studie 3 {{< iconify chart-area >}} <br>
 
 :::
 
+
+
 ## Ablauf des Forschungsprojektes {.scrollable}
 
 <center> ![](img/Tüdibase_Studies.png) </center>
+
+
+## Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
+
+* Stichprobenziehung via Panel Provider Prolific
+* *N* = 220 englischsprachige Lehrpersonen 
+* 64,5% weiblich
+* 55% mit Wohnsitz im Vereinigten Königreich
+* *M<sub>Alter</sub>* = 41,80 Jahre (*SD* = 11,40)
+* *M<sub>Lehrerfahrung</sub>* = 13,58 Jahre (*SD* = 9,22)
+* Verschiedene Schularten (z.B. 38,64% Grundschullehrpersonen; 31,36% Lehrpersonen aus Sekundarschulen)
+* Verschiedene Unterrichtsfächer (z.B. 22,27% unterrichten ein geistes- oder sozialwissenschaftliches Fach)
+
+
+::: notes
+- und 220 englischsprachige Lehrpersonen via panel provider prolific befragt
+- ausführliche Infos zur Stichprobenbeschreibung hier aufgelistet
+- wie sind wir dann vorgegangen?
+:::
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
  
@@ -817,7 +884,7 @@ Studie 3 {{< iconify chart-area >}} <br>
 :::
 
 
-## Abhängige Variablen {.smaller .scrollable}
+## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
 
 - __Akuratheit (AV 1)__
   - Abstrakte Metrik  
@@ -856,7 +923,7 @@ ergänzende Info bei Rückfragen:
 :::
 
 
-## Statistische Analysen
+## Statistische Analysen {{< iconify fa6-solid laptop-code >}}
 
 * verschiedene Bayesianische Mehrebenenmodelle mit R Paket brms
 * Modellvergleiche 
@@ -872,29 +939,29 @@ estimation
 
 
 ::: {style="margin-top: 100px; font-size: 3em;"}
-Studie 3 {{< iconify chart-area >}} <br>
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 ![](img/Auszug_Studie_3.png)
 :::
 
 Link zum Paper: XXX
 
-## Eigene Forschungstätigkeiten {{< iconify file-lines >}} {{< iconify chart-area >}} {auto-animate=true}
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
 ::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify file-lines >}} <br>
-![Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134](img/Auszug_Studie_1.png){width=420} 
+Studie 1 {{< iconify fa6-solid file-lines >}} <br>
+![](img/Auszug_Studie_1.png){width=420} 
 :::
 :::
 
 
 ::: {.column width="50%"}
 ::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify file-lines >}}  <br>
-![Link zum Preprint](img/Auszug_Studie_2.png){width=420} 
+Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
+![](img/Auszug_Studie_2.png){width=420} 
 :::
 :::
 
@@ -904,8 +971,8 @@ Studie 2 {{< iconify file-lines >}}  <br>
 <center> 
 
 ::: {style="margin-top: 10px;"}
-Studie 3 {{< iconify chart-area >}} <br>
-![Link zum Paper: XXX](img/Auszug_Studie_3.png){width=420} 
+Studie 3 {{< iconify fa6-solid chart-area >}} <br>
+![](img/Auszug_Studie_3.png){width=420} 
 :::
 
 <center> 
@@ -942,31 +1009,31 @@ Studie 3 {{< iconify chart-area >}} <br>
 --> 
 
 
-## Ergebnisse {{< iconify file-lines >}}  {.smaller}
+## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
 
-* unterschiedlich informative statistische Beschreibungen {{< iconify streamline:check-solid >}}
+* unterschiedlich informative statistische Beschreibungen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
 <center> ![Adaptiert von Schmidt et al. (2023)](img/study1_informativity_product_plot.png){width="50" .lightbox} </center>
 
-* Informativitätseinschätzungen korrelieren mit Selbstvertrauen in statistische Interpretationen {{< iconify streamline:check-solid >}}
+* Informativität korreliert mit Selbstvertrauen in statistische Interpretationen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
 <center> ![Schmidt et al. (2023)](img/study1_confidence_plot.png){width="50" .lightbox} </center>
 
-* Differenzierung zwischen Inferenzstatistik und Effektstärken {{< iconify dashicons:no >}} 
+* Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify dashicons:no >}}]{style="color:#96412D;"} 
 <center> ![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="50" .lightbox} </center>
 
 
-* verschiedene Interpretationsprofile {{< iconify streamline:check-solid >}}
+* verschiedene Interpretationsprofile sind [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
 <center>![](img/LatentProfiles.jpeg){width=50 .lightbox} </center> 
 
 
 
-## Ergebnisse {{< iconify chart-area >}} {.smaller}
+## Ergebnisse {{< iconify fa6-solid chart-area >}} {.smaller}
 
 ::: {style="font-size: 0.70em"} 
 
 |  	| Akkuratheit 	| Sensitivität 	| Aufgabenschwierigkeit 	| Effizienz 	| Informativität 	| Praktischer Wert 	| Fehlkonzept 	|
 |-- |---	          |---          	|---	                    |---	        |---	            |---	              |---            |
-| Visualisierungsart 	| {{<iconify   dashicons:no>}} 	| {{<iconify   streamline:check-solid>}} <br> höhere Sensitivität bei Halfeye plots 	| {{<iconify   streamline:check-solid>}} <br> geringere Schwierigkeit bei Halfeye plots 	| {{<iconify   streamline:check-solid>}} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots 	| {{<iconify   streamline:check-solid>}} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) 	| {{<iconify   streamline:check-solid>}} <br> höherer praktischer Wert bei Halfeye plots 	|  |
-| Anreicherungsart 	| {{<iconify   dashicons:no>}} 	| {{<iconify   streamline:check-solid>}} <br> XXX | {{<iconify   dashicons:no>}}	| {{<iconify   streamline:check-solid>}} <br> XXX	| {{<iconify   dashicons:no>}} | {{<iconify   dashicons:no>}}	| {{<iconify   streamline:check-solid>}} <br> XXX |
+| Visualisierungsart 	| [{{<iconify   dashicons:no>}}]{style="color:#96412D;"}  	| [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Halfeye plots | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Schwierigkeit bei Halfeye plots 	| [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots 	| [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) 	| [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höherer praktischer Wert bei Halfeye plots 	| <center> / </center> |
+| Anreicherungsart 	| [{{<iconify   dashicons:no>}}]{style="color:#96412D;"}  	| [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> XXX | [{{<iconify dashicons:no>}}]{style="color:#96412D;"} 	| [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> XXX	| [{{<iconify dashicons:no>}}]{style="color:#96412D;"}  | [{{<iconify dashicons:no>}}]{style="color:#96412D;"}	| [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> XXX |
 :::
 
 
@@ -1016,10 +1083,14 @@ Studie 3 {{< iconify chart-area >}} <br>
 $\Rightarrow$ informative Effektstärken <br>
 $\nRightarrow$ weitgehend/allgemein verständliche Effektstärken
 * Effektstärke und Effektunsicherheit werden oft verwechselt
-* Annotation (Signaling) reduziert Fehlkonzepte deutlich#
-* Kombi Vorwissen und Aufbereitung / kombinierte Aufbereitungen
+* Annotation (Signaling) reduziert Fehlkonzepte deutlich
+* Kombi Vorwissen und Aufbereitung 
+* kombinierte Aufbereitungen
+* Lehrpersonen als *Competent Outsiders*
 * {{< iconify fluent:puzzle-cube-piece-20-filled  size=60px >}}
 
+
+<!-- 
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
@@ -1062,7 +1133,7 @@ teachers’ understanding of the effect size visualization.
 
 :::
 
-
+-->
 
 ## Literatur {{< iconify ion:book >}} {.scrollable}
 ::: footer
