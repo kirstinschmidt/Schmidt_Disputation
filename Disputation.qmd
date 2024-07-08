@@ -76,6 +76,8 @@ border: none !important;
 
 ## Schlagzeilen {{< iconify fluent-emoji-high-contrast:newspaper >}} 
 
+![](img/Welt_PISA.png){.lightbox width=200}
+
 
 ::: notes
 
@@ -84,6 +86,8 @@ border: none !important;
   - Beispiel aus eine PM zu bildungswissenschaftlichem Thema
   - Primärstudie
   - Clearinghouse
+  
+- KMK Kompetenzen?
   
 - und genau dazu werden Lehrpersonen angehalten 
 - in ihrem professionellen Handeln sollen sie  solche Forschungsergebnisse und Daten - auch als Evidenz bezeichnet - bei ihrem professionellen Handeln berücksichtigen
@@ -94,6 +98,20 @@ border: none !important;
   - letztlich Schüler:innenleistung zu steigern
   
 ::: 
+
+
+## 
+
+:::{.callout-tip collapse=false appearance="#8CD000" icon=false}
+
+## {{< iconify akar-icons:book-open >}} Auszug der KMK-Standards für die Lehrerbildung
+* *Die Absolventinnen und Absolventen kennen Grundlagen und Ergebnisse der Schul- und Unterrichtsforschung und können diese anwendungsbezogen reflektieren*
+* *Die Absolventinnen und Absolventen rezipieren und bewerten Ergebnisse der Bildungs- und Schulforschung*
+
+:::
+
+[@KMK2014]
+
 
 # Evidenz und Schulpraxis {{< iconify fa-solid:school >}} 
 
@@ -532,6 +550,7 @@ Misslingender Ablauf
   - verschiedene Ansätze um Lehrpersonen diese Phase zu erleichtern: 
   - Schulung der (angehenden) Lehrpersonen
   - Gestaltung der Wissenschaftskommunikation: Evidenz nutzerfreundlich aufbereiten, sodass sie verständlicher ist, aber dennoch akkurat im wissenschaftlichen Sinne, und für die Praxis relevant erscheint
+  -> kostengünstiger und weniger zeitaufwendig als beispielsweise 
 
 
   
@@ -561,6 +580,30 @@ ergänzend:
 -->
 
 # Wissenschafts- <br> kommunikation {{< iconify fa-solid:comments >}} 
+
+::: notes
+
+- super breites Feld, nicht alles abgedeckt werden kann
+  - Museen
+  - wissenschaftliche Veröffentlichungen
+::: 
+
+
+## Wissenschafts- <br> kommunikation {{< iconify fa-solid:comments >}} 
+![](img/Zeitschriftenartikel.png){width=200}
+
+![](img/Pressemitteilung.png){width=200}
+![](img/Twitter.png){width=200} 
+
+![](img/Podcast.png){width=200}
+
+![](img/WWC.png){width=200}
+
+![](img/Toolkit.png){width=200}
+![](img/CHU.png){width=200}
+![](img/Tüdibase.png){width=200}
+
+# Ergebnisaufbereitung {{< iconify fa-solid:comments >}} 
 
 <center> ![Beispiele aus Clearing Houses [@backfisch2021; @wiesbeck2018]](img/CHU_Beispiele.png){width=400} </center>
 
