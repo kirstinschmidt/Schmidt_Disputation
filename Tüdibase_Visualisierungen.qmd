@@ -380,32 +380,65 @@ skim(sociodemographics)
 
 ## Wahrgenommene Informativität
 ```{r}
-plot_informativity <- data_w |> 
-    mutate(group = recode_factor(group,
-                  `cg` = "Kontrollgruppe\nN=55",
-                  `eg_benchmark` = "Benchmark\nN=55",
-                  `eg_signaling_overlap` = "Signaling Overlap\nN=57",
-                  `eg_signaling_u3` = "Signaling Cohen's U3\nN=53")) |> 
- ggplot(aes(infor, group)) +
-    geom_violin() +
-    geom_jitter(alpha = .05,
-                color = "#8CD000") +
-    stat_summary(fun.data = mean_sdl, 
-                 fun.args = list(mult = 1)) +
-    theme_minimal() +
+data_informativity_product_plot <-
+  data_w %>% 
+  select(infor, group) %>%
+  rename("Informativität" = infor) %>%
+        mutate(group = recode_factor(group,
+                       `cg` = "Kontrollgruppe\nN=55",
+                       `eg_benchmark` = "Benchmark\nN=55",
+                       `eg_signaling_overlap` = "Signaling Overlap\nN=57",
+                       `eg_signaling_u3` = "Signaling Cohen's U3\nN=53")) %>%
+         gather(var, val, -group) %>%
+         mutate(var = fct_relevel(var,
+                "Informativität")) %>%
+         group_by(group, var, val) %>%
+         dplyr::summarize(freq = n()) %>%
+         mutate(Häufigkeit = freq)
+
+
+
+plot_informativity <- data_informativity_product_plot |> 
+  ggplot(aes(var, val)) + 
+  geom_point(aes(size = Häufigkeit, color = Häufigkeit),
+             shape = 15) +
+  scale_size_continuous(range = c(2,10)) + 
+  scale_color_gradient(low = "#66ff0d", high = "#006d00") +
+  stat_summary(data = data_w %>% 
+                 select(infor, group) %>%
+                 rename("Informativität" = infor) %>%
+        mutate(group = recode_factor(group,
+                       `cg` = "Kontrollgruppe\nN=55",
+                       `eg_benchmark` = "Benchmark\nN=55",
+                       `eg_signaling_overlap` = "Signaling Overlap\nN=57",
+                       `eg_signaling_u3` = "Signaling Cohen's U3\nN=53")) %>%
+         gather(var, val, -group) %>%
+         mutate(var = fct_relevel(var,
+                "Informativität")), 
+                 aes(var, val),
+                 fun.data = "mean_sdl", fun.args = list(mult = 1),
+               color = "black") + 
+  theme_ipsum_ps(axis_text_size = "15") + 
+  scale_y_continuous(breaks = c(1,2,3,4,5,6,7)) +
+  theme(panel.grid.major.x = element_blank(), panel.grid.minor.y =  element_blank(),
+        text = element_text(size=20),
+        plot.title = element_text(size=20),
+        plot.caption = element_text(size=15),
+        strip.text = element_text(size = 14)) + 
+  guides(color=guide_legend(), size = guide_legend()) +
+  facet_wrap(~group) + 
     labs(title = "Wahrgenommene Informativität",
          subtitle = "per Experimentalbedingung",
          caption = "Mittelwert ± 1*SD;
-         BFsignaling/control = 0.20; 
-         BFbenchmark/control = 0.45") + 
-    xlab("Wahrgenommene Informativität") +
-    ylab("Experimetalbedingungen")
+         BFsignaling/control = 0.20") + 
+    ylab("") +
+    xlab("")
 
 plot_informativity
 
-ggsave("study2_plot_informativity.svg",
-      width = 8,
-      height = 8,
+ggsave("study3_plot_informativity.png",
+      width = 9,
+      height = 9,
       dpi = 1200)
 ```
 
@@ -436,7 +469,7 @@ plot_diff_am <- data_w  |>
 
 plot_diff_am 
 
-ggsave("study2_plot_diff_am.svg",
+ggsave("study3_plot_diff_am.png",
       width = 8,
       height = 8,
       dpi = 1200)
@@ -468,7 +501,7 @@ plot_diff_u3 <- data_w  |>
 
 plot_diff_u3 
 
-ggsave("study2_plot_diff_u3.svg",
+ggsave("study3_plot_diff_u3.png",
       width = 8,
       height = 8,
       dpi = 1200)
@@ -499,7 +532,7 @@ plot_u3_misconceptions <- data_w |>
 
 plot_u3_misconceptions
 
-ggsave("study2_plot_u3_misconceptions.svg",
+ggsave("study3_plot_u3_misconceptions.png",
       width = 8,
       height = 8,
       dpi = 1200)
