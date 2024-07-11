@@ -110,7 +110,7 @@ border: none !important;
 [@KMK2004]
 
 
-# Evidenz und Schulpraxis {{< iconify fa-solid:school >}} 
+# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} 
 
 
 ::: notes
