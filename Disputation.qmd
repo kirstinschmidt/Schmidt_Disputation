@@ -41,7 +41,7 @@ title-slide-attributes:
 | {{< iconify fluent-emoji-high-contrast:newspaper >}}  | Einführung   |
 |-------------------------------------------:|:---------------------------------|
 | {{< iconify fa-solid:school >}}  | Evidenz und Schulpraxis  |
-| {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation <br> - Definition, Ziele und Formate <br> - Kommunikation von statistischen Ergebnissen |
+| {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation |
 | {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} | Eigene Forschungstätigkeiten <br> - Studie 1: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 2: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 3: Visuelle Kommunikation von Effektstärken   |
 | {{< iconify bxs:directions >}} | Diskussion und Ausblick  |
 
@@ -86,17 +86,9 @@ border: none !important;
   - Primärstudie
   - Clearinghouse
   
-- Wie gehen Lehrpersonen mit solchen Infos um? Wie verstehen sie wissenschaftliche Ergebnisse? wie informativ finden Sie die Informationen? wie praktisch relevant schätzen sie diese ein?
+- Wie gehen Lehrpersonen mit solchen Infos um? Wie interpretieren sie diese und inwieweit sehen sie diese als praktisch relevant an?
 
-  
-- grundsätzlich werden sie dazu angehalten, solche Forschungsergebnisse in ihr Handeln einfließen zu lassen
-  + Evidenz eine systamtisch gewonnene und eher objektive Infoquelle darstellt, die im Vergleich zu eigenen Erfahrungen weniger durch kognitiven Verzerrungen z.B. durch Überzeugungen beeinflusst ist
-- dadurch das Potenzial zugeschrieben wird, die 
-  + Professionalisierung von Lehrpersonen zu stärken
-  + Unterrichts- und Schulqualität
-  + letztlich Schüler:innenleistung zu steigern
-  + auch erste empirische Belege
-  
+- grundsätzlich werden sie dazu angehalten, solche Forschungsergebnisse - auch als Evidenz bezeichnet- in ihr Handeln einfließen zu lassen  
 - kann für ganz unterschiedlich komplexe Anliegen verwendet werden - eigene Unterrichtspraxis innovieren z.B. Forschendes Lernen oder Ratschläge für Schüler:innen, wie sie Vokabeln am besten lernen oder ob erste Antwort bei Klassenarbeit nochmals abgeändert werden sollte
 
 
@@ -105,7 +97,7 @@ border: none !important;
 ::: 
 
 
-## Formale Verortung
+## Formale Begründung
 
 :::{.callout-tip collapse=false appearance="#8CD000" icon=false}
 
@@ -123,20 +115,24 @@ border: none !important;
 
 ::: notes
 
-- das Ganze wird in einem eher jüngeren Diskurs seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert beispielsweise als evidenzbasierte, evidenzinformierter oder evidenzorientierte Praxis bezeichnet
+- das Ganze wird in einem eher jüngeren Diskurs seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert beispielsweise als  evidenzinformierter Praxis bezeichnet
 
 
 
 :::
 
 
-## Evidenz und Schulpraxis {.smaller}
+## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
 
 
 ::: {.fragment}
-* Arbeitsdefinition {{< iconify maki:construction >}}:
-  + evidenzinformierte Schulpraxis ![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=100}
-  + wissenschaftliche Evidenz (inklusive Theorien) ![](img/Evidenzverständnis_quer_moderat_schmal.png){.lightbox width=200}
+* wissenschaftliche Evidenz und Theorien situationsangemessen im professionellen Handeln berücksichtigen (Bauer et al., 2015) <br>
+![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=100}
+
+:::
+
+::: {.fragment} 
+&rarr; Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung (Refs)
 
 :::
 
@@ -148,19 +144,28 @@ border: none !important;
 
 ::: notes
 
-- legt nahe, dass der Diskurs durch heterogene Begrifflichkeiten geprägt ist, unterschiedliche Begrifflichkeiten evidenzbasiert vs. -informiert vs. -orientiert, beziehen sich auf gleiche Veständnisse, unter gleichen Begrifflichkeiten - Evidenz - werden unterschiedlich verstanden
+- evidenzinformierte Schulpraxis, in der Evidenz eine Informationsquelle ist, die vor dem Hintergrund der eigenen Erfahrungen und des Kontextes reflektiert wird, also keine direkte Anwendung in einem eher technischen Sinne
+- Evidenz eine systamtisch gewonnene und eher objektive Infoquelle darstellt, die im Vergleich zu eigenen Erfahrungen weniger durch kognitiven Verzerrungen beeinflusst ist
+- dadurch das Potenzial zugeschrieben wird, die 
+  + Professionalisierung von Lehrpersonen zu stärken
+  + Unterrichts- und Schulqualität
+  + letztlich Schüler:innenleistung zu steigern
+  + auch erste empirische Belege
+
+<!--  
+- diese Begrifflichkeiten lassen schon eine heterogene Begriffsverwendung vermuten 
+  + unterschiedliche Begrifflichkeiten evidenzbasiert vs. -informiert vs. -orientiert, beziehen sich auf gleiche Veständnisse, unter gleichen Begrifflichkeiten - Evidenz - werden unterschiedlich verstanden
   + Arbeitsdefinition, die zum eigenen Forschungsinteresse passt
-    - evidenzinformierte Schulpraxis, in der Evidenz eine Informationsquelle ist, die vor dem Hintergrund der eigenen Erfahrungen und des Kontextes reflextiert wird, also keine direkte Anwendung in einem eher technischen Sinne
   + unter Evidenz ausschließlich wissenschaftliche Evidenz, also empirische Studien, die von Wissenschaftler:innen durchgeführt und Theorien, die von Wissenschaftler:innen aufgestellt werden
+--> 
 
-
-- und wie muss das idealerweise Ablaufen, um Potenzial evidenzinformierter Praxis zu entfalten? 
-  - Prozessmodell von Groß Ophoff auf das vorliegende Verständnis evidenzinformierter Praxis angepasst
+- wie muss das Ganze ablaufen, um Potenziale zu entfalten?
+- Prozessmodell von Groß Ophoff auf das vorliegende Verständnis evidenzinformierter Praxis angepasst, um idealen Ablauf zu skizzieren
   - umfasst EIP fünf Phasen
-    + 1. Phase: konzeptuelle Phase, in der ein Anlass formuliert wird z.B. ein Ziel, das erreicht werden soll
+    + 1. Phase: konzeptuelle Phase, in der ein Anlass formuliert wird
     + 2. Phase: Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert und ausgewählt 
     + 3. Phase: Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse gelesen, verstanden und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
-    + 4. Phase Anwendungsphase: wird das Wissen in die Praxis transferiert und kann auf unterschiedliche Art und Weise genutzt werden 
+    + 4. Phase Anwendungsphase: wird das Wissen in die Praxis transferiert und kann auf unterschiedliche Art und Weise (direkt oder eher indirekt) genutzt werden 
 
 <!--
       + instrumentelle Nutzung: direkte Nutzung in der Praxis
@@ -169,7 +174,7 @@ border: none !important;
       
 --> 
     + 5. Phase: idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass/Ziel erfüllt wurde
-  - verschiedene Faktoren, die den Prozess positiv oder negativ beeinflussen können, d.h. die als Bedingungen oder Barrieren in jedem der einzelnen Schritte wirken können
+  - verschiedene Faktoren, die den Prozess positiv oder negativ beeinflussen können d.h. die als Bedingungen oder Barrieren in jedem der einzelnen Schritte wirken können
     + Charakteristika der Kontexte z.B. Organisationstrukturen einer Schule
     + Charakteristika der Nutzenden, also der Lehrpersonen, z.B. methodisches Wissen
     + Charakteristika der Evidenz z.B. Zugänglichkeit der Evidenz
@@ -191,35 +196,18 @@ Gelingender Ablauf </center>
 
 - Stellen wir uns diesen Prozess einmal als Dominosteine vor und einen gelingenden Prozess würde so aussehen, dass ein Dominostein nach dem anderen umfällt
 
-- stellen wir uns jetzt aber Barrieren vor
+- in vielen unterschiedlichen sytematischen Reviews zeigt sich aber, dass primäre Barrieren vorherschen und eine Kluft zwischen der theoretischen Forderung evidenzinformiert zu handeln und der praktishen Umsetzung herrscht
   
-- eine häufig empirisch belegte Barriere kommt in der 3. Phase - der Schlussfolgerungsphase -  zum Tragen kommen
+- eine häufig empirisch belegte Barriere kommt  dabei in der 3. Phase - der Schlussfolgerungsphase -  zum Tragen kommen
   + Lehrpersonen Schwierigkeiten haben wissenschaftliche Evidenz zu verstehen, komplex mit vielen Fachbegriffen, wirklich praktisch relevant? 
     
-<!--
-- nehmen wir jetzt eine der häufigsten Barrieren, die von Lehrpersonen selbst genannt werden, als Beispiel - die fehlende Zeit, würde keiner der Steine umfallen - warum, es scheitert schon daran, dass Lehrpersonen die Zeit haben ein Anlass zu formulieren 
-
-- empirisch gestützte Gelingensbedingungen können beispielsweise 
--->
-
-<!-- 
-  + für die erste Phase geschaffene Strukturen an der Schule sein, bestimmte Zeitfenster in denen Lehrpersonen z.B. in gemeinsamen Lerngruppen (learning communities) sich mit Evidenz auseinander setzendie 
- 
-
-  + in der 2. Phase können Open Access Artikel oder Wissenschaftskommunikationsformate, die explizit für Praktiker:innen wissenschaftliche Evidenz zusammenfassen, die Zugänglichkeit von Evidenz erhöhen und somit das Gelingen dieser Phase steigern
-
---> 
-
-
-<!-- würden die vorher genannte Phasen möglicherweise nicht ablaufen, wenn die Faktoren nicht erfüllt sind 
-  - Artikel sich hinter einer Paywall verstecken --> 
 
 ::: 
 
 ## Prozessmodell EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center> {{< video video/EIP_phase3_dysfunktional2.mp4 width="800" height="400">}}<br>
-Gelingender Ablauf </center>
+Misslingender Ablauf </center>
 
 
 ::: notes
@@ -228,13 +216,13 @@ Gelingender Ablauf </center>
 - Sie sieht keine praktische Relevanz in der Information und beschließt daher die Evidenz nicht zu nutzen, obwohl sie praktisch relevant wäre und sich positiv auf die Schüler:innenleistung auswirken könnte -> Prozess gestoppt und Wissen nicht in Praxis transferiert 
 
 - daher Schlussfolgerungsphase notwendig, wenn auch nicht hinreichende Bedingung, evidenzinformiertes Wissen in Praxis zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
-  - nicht hinreichend: Barrieren können beispielsweise auch in der folgenden Phase auftreten, aber um überhaupt die nächste Phase zu aktivieren, oder die Möglichkeit zu bieten, diese adäquat umzusetzen, die Schlussfolgerungsphase zentral
+  - nicht hinreichend: Barrieren können beispielsweise auch in der folgenden Phase auftreten, aber um überhaupt die nächste Phase zu aktivieren, oder die Möglichkeit zu bieten, diese adäquat umzusetzen, udie Schlussfolgerungsphase zentral
   - daher Fokus hierauf
 
 - verschiedene Ansätze um Lehrpersonen diese Phase zu erleichtern: 
   - Schulung der (angehenden) Lehrpersonen: notwendigen Kompetenzen auszustatten
   - Gestaltung der Wissenschaftskommunikation: Evidenz nutzerfreundlich aufbereiten, sodass sie verständlicher ist, aber dennoch akkurat im wissenschaftlichen Sinne, und für die Praxis relevant erscheint
-  -> gibt bereits WK-Formate, die immer stärker im Kommen sind, aber nicht evidenzbasiert gestaltet
+  -> gibt bereits WK-Formate, die immer stärker im Kommen sind, aber noch wenig Kenntnisse darüber wie Lehrpersonen diese Infos rezipieren
   -> kostengünstiger und weniger zeitaufwendig Variante als z.B. RP Partnerships
 
   
@@ -300,7 +288,7 @@ ergänzend:
 - sehr breites, praktisches und wissenschaftliches, sowie interdisziplinäres Feld
   + verschiedene Formate, 
   + verschiedene Theorien: Defizit Modell und reziproker Austausch
-  + Themen: Komplexitätsgrad der Information, Unsicherheitsinformationen, Widersprüchlichkeit an Ergebnissen
+  + Themen: Komplexitätsgrad der Information, Forschungsergebnisse: Unsicherheiten und Widersprüchlichkeiten kommunizieren? 
 - direkt relativ eng auf mein Forschungsinteresse zugeschnitten
 
 ::: 
@@ -323,33 +311,37 @@ ergänzend:
   - sogenannte Clearinghouses
 
 - immer stärker wird aber der Ansatz der CHs verfolgt
-- knowledge brokers, indem Forschungsstudien für Lehrpersonen themenspezifisch zusammengefasst, die von wissenschaftlichen Expert:innen bereits als qualitativ hochwertig und praktisch relevant eingestuft werden
-- je nach Ansatz werden unterschiedliche Studien z.B. nur Meta-Analysen oder Einzelstudien, aber bisher quanitativer Natur zusammengefasst 
-- auch die Forschungsergebnisse werden unterschiedlich aufbereitet
+- knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities zu vermitteln 
+- indem Forschungsstudien für Lehrpersonen themenspezifisch zusammengefasst, die von wissenschaftlichen Expert:innen bereits als qualitativ hochwertig und praktisch relevant eingestuft werden
+- je nach Ansatz werden unterschiedliche Studien z.B. nur Meta-Analysen (CHU) oder Einzelstudien (WWC) zusammengefasst
+- aber bisher quanitativer Natur zusammengefasst 
+- auch die statistischen Ergebnisse werden unterschiedlich aufbereitet
 
 
 :::
 
 
-## Ergebnisaufbereitung {{< iconify fa-solid:comments >}} 
+## Ergebnisdarstellungen in Clearing Houses {{< iconify fa-solid:comments >}} 
 
 <center> ![Beispiele aus Clearing Houses [@backfisch2021; @wiesbeck2018]](img/CHU_Beispiele.png){width=400} </center>
 
 
 ::: notes
 - hier Beispiele mitgebracht
+  - direkt erkennbar: textbasierte und visuelle Aufbereitung
   - statistische Signifkanz enthalten, obwohl häufig fehlinterpretiert von wissenschaftlichen Laien aber auch Expert:innen
-  - standardisierte Effektstärken z.B. Cohen's d, Cohen's U3, textlich und visuell, transformierte Effektstärken Month of Progress
-  - Effektstärken, als zusätzliches Maß um Fehlinterpretationen entgegen zu wirken
-    + informieren die über die Größe eines Zusammenhangs oder Unterschieds informiert
-    + bieten zentrale Grundlage, um praktische Implikationen aus den Ergebnissen abzuleiten
+  - aber auch standardisierte Effektstärken, die der Theorie nach vor allem als Ergänzung eingesetzt werden, um Fehlkonzepten entgegenzuwirken und als Grundlage dienen etwas über die praktische Relevanz des Ergebnisses auszusagen zu können, da Sie z.B. hier über die Grüße von Unterschieden informieren
+    + Beispiele z.B. Cohen's d, Cohen's U3, textlich und visuell, transformierte Effektstärken Month of Progress
 
 - da Lehrpersonen und wissenschaftliche Laien im allgemeinen Zielgruppe der WK sind, die Frage, wie Lehrpersonen solche statistischen Ergebnisse rezipieren
 
-- sehr interdisziplinäres Feld: Psychologie, BiWi, Comupter x human interaction science / computer science, Medizin
+- sehr interdisziplinäres Feld: Psychologie, BiWi, Comupter x human interaction science / computer science, Medizin, wenig Forschung in BiWi
 
 - in hoher Qualität - meiner Recherche nach ausschließlich experimentelle Studie mit hoher interner Validität
 - aber eklektischer Forschungsstand z.B. verschiedene Ausprägungen der UVs
+  + U3 mal mit Cohen's d 
+  + U3 mal mit Month of Progress
+  -> U3 zwar in beiden Studien, aber keine weiteren gleichen Vergleichsbedingungen
 
 - Aufbereitung dieser Ergebnisse noch nicht evidenzbasiert, daher
 
@@ -441,13 +433,13 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 ::: notes
 
 - habe ich mich in meinen eigenen Forschungstätigkeiten dem Forschungsinteresse gewidmet: 
-  - wie Inferenzstatistiken und Effektstärken an Lehrpersonen kommuniziert werden können, damit diese
+  - wie Inferenzstatistiken und Effektstärken an Lehrpersonen textbasiert und visuell kommuniziert werden können, damit diese
     + die __Evidenz als relevant für die Unterrichtspraxis einschätzen__,
     + gleichzeitig ihnen das  __Verstehen__ der statistischen Infos __erleichtert wird__
     + und ihre __kognitive Prozesse__ berücksichtigt werden
 
-- drei experimentelle Studien vorstellen, die sich entweder auf textliche Aufbereitung von Inferenzstatistiken und Effektstärken oder visuelle Aufbereitung von Effektstärken beziehen und Teile des Forschungsinteresses adressieren
-- zunächst Methode für jede Studie erläutern, aber nur ausgewählte Teile, dann Ergebnisse gemeinsam präsentieren
+- drei experimentelle Studien vorstellen, die Teile des Forschungsinteresses adressieren und 
+- nur ausgewählte FF und Ergebnisse
   
 :::
 
@@ -1054,7 +1046,7 @@ __Konfirmatorische Studie__
   * Signaling Overlap  
     ![](img/benchmarking.jpg){width=30 .lightbox} ![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
     
-* Within-Faktor 4: präsentierte Effektstärke   
+* Within-Faktor 3: präsentierte Effektstärke   
   *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
   
 * Within-Faktor 4: Visualisierungsart
@@ -1353,9 +1345,10 @@ __weiteres Ergebnis:__
   - mit Bayesianischen ANOVA Modellen mit Messwiederholung inferenzstatistisch abgesichert
 
 - Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  - __Annotation nutzen__
+<!-- 
  - Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
- - Effektstärken - Cohen's d - im Mittel eher als Effektstärke
- - aber Mittelwerte liegen nah beieinander, obwohl eigentlich - außer Kombi - entweder Inferenzstatistik oder Effektstärke abbilden und daher so aussehen müsste __Annotation__
+ - Effektstärken - Cohen's d - im Mittel eher als Effektstärke --> 
+ - Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden und daher so aussehen müsste __Annotation__
  - ebenfalls inferenzstatistisch abgesichert
  
 - explorativ festgestellt, dass es durchaus Lehrpersonen gibt, die im Durchschnitt Signifikanz oder U3 korrekt interpretieren 
@@ -1394,8 +1387,9 @@ __weiteres Ergebnis:__
   + rotes x bedeutet Evidenz für die Nullhypothese also keine Unterschiede zwischen Visualisierungsarten oder Visualisierungen mit vs. ohne Anreicherungen
  + grünes Häckchen bedeuten Evidenz für Unterschiede
  ? inkonklusive Ergebnisse
-- Signaling U3 im Vergleich zu ohne Anreicherung keinen Unterschied bei Akkuratheit, inkonklusive Ergebnisse bei Informativität aber besonders deutlich: Signaling U3 reduziert U3 Fehlkonzepte drastisch
-- Ergebnisse zur Akkuratheit herausgreifen, da hier noch interessante Unterschiede zwischen den Operationalisierungen zu erkennen
+- ich möchte zwei Ergebnisse hervorheben: 
+  + Signaling U3 reduziert U3 Fehlkonzepte deutlich
+  + und auch interessant, zeigte sich auch in der explorativne Studie: 
   - während es Lehrpersonen erstaunlich gut gelingt, die Effektgröße in der abstrakten Metrik einzuschätzen, sieht man hier, dass sich in allen Bedingungen, Werte um 0 tummeln, Differenzvariable aus wahrer und geschätzter Effektstärke
   - Verzerrungen in der U3 Metrik ersichtlich, hier Bias, weil von Null abweichend (Ergebnisse ohne Personen mit U3 Fehlkonzpet)
 
@@ -1411,24 +1405,9 @@ __weiteres Ergebnis:__
 * Signaling reduziert Fehlkonzepte deutlich
 
 
-## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
-> Informative Wissenschaftskommunikation: Cohen's U3, statistische Signifikanz mit oder ohne Effektgröße, Halfeye plots
-
-::: {.fragment}
-
-<center> ![](img/Informativität_Prädiktor_informativity){width=900 .lightbox} </center>
-
-:::
-
-::: notes
-
-- gute Neuigkeiten, dass wir Wissenschaftskommunikation informativ gestalten kann und es hierfür verschiedene Möglichkeiten gibt: U3, Signifikanz alleine oder in Kombi + halfeye plots
-- limitierend zu berücksichten, dass wir nur Informativität erfasst hat, auch wenn theoretisch diese Variable als Indikator für Handeln gesehen wird, Handeln nicht erfasst
-- fraglich ob statistische Information, die als informativ eingeschätzt wird, auch dazu führt, dass Evidenz im allgemeinen informativ wahrgenommen wird,
-
-::: 
   
+<!--
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
 > Informative Wissenschaftskommunikation: Cohen's U3, statistische Signifikanz mit oder ohne Effektgröße, Halfeye plots
@@ -1460,7 +1439,7 @@ __weiteres Ergebnis:__
 
 > Informative Wissenschaftskommunikation: Cohen's U3, statistische Signifikanz mit oder ohne Effektgröße, Halfeye plots
 
-<center> ![](img/Informativität_Prädiktor_action){width=900 .lightbox} {{< iconify pajamas:question >}} </center>
+--> 
 
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
@@ -2046,3 +2025,44 @@ wobei mitgedacht wird, dass wissenschaft Evidenz, die mittels verschiedener Meth
 :::
 
 --> 
+
+
+<!-- 
+
+## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
+
+> Informative Wissenschaftskommunikation: Cohen's U3, statistische Signifikanz mit oder ohne Effektgröße, Halfeye plots
+
+::: {.fragment}
+
+<center> ![](img/Informativität_Prädiktor_action){width=900 .lightbox} {{< iconify pajamas:question >}} </center>
+
+:::
+
+::: notes
+
+- gute Neuigkeiten, dass wir Wissenschaftskommunikation informativ gestalten kann und es hierfür verschiedene Möglichkeiten gibt: U3, Signifikanz alleine oder in Kombi + halfeye plots
+- limitierend zu berücksichten, dass wir nur Informativität erfasst hat, auch wenn theoretisch diese Variable als Indikator für Handeln gesehen wird, Handeln nicht erfasst
+- fraglich ob statistische Information, die als informativ eingeschätzt wird, auch dazu führt, dass Evidenz im allgemeinen informativ wahrgenommen wird,
+
+::: 
+
+--> 
+
+<!--
+- nehmen wir jetzt eine der häufigsten Barrieren, die von Lehrpersonen selbst genannt werden, als Beispiel - die fehlende Zeit, würde keiner der Steine umfallen - warum, es scheitert schon daran, dass Lehrpersonen die Zeit haben ein Anlass zu formulieren 
+
+- empirisch gestützte Gelingensbedingungen können beispielsweise 
+-->
+
+<!-- 
+  + für die erste Phase geschaffene Strukturen an der Schule sein, bestimmte Zeitfenster in denen Lehrpersonen z.B. in gemeinsamen Lerngruppen (learning communities) sich mit Evidenz auseinander setzendie 
+ 
+
+  + in der 2. Phase können Open Access Artikel oder Wissenschaftskommunikationsformate, die explizit für Praktiker:innen wissenschaftliche Evidenz zusammenfassen, die Zugänglichkeit von Evidenz erhöhen und somit das Gelingen dieser Phase steigern
+
+--> 
+
+
+<!-- würden die vorher genannte Phasen möglicherweise nicht ablaufen, wenn die Faktoren nicht erfüllt sind 
+  - Artikel sich hinter einer Paywall verstecken --> 
