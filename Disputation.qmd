@@ -137,7 +137,7 @@ border: none !important;
 :::
 
 ::: {.fragment}
-* idealisierter Ablauf ![](img/Groß_Ophoff et al (2023)_adapted_evidence.png){.lightbox width=200} [@großophoff2023]
+* idealisierter Ablauf ![](img/Groß_Ophoff et al (2023)_adapted_1.png){.lightbox width=200} [@großophoff2023]
 
 :::
 
@@ -376,6 +376,7 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
 ::: 
 
+<!--
 
 ## Repräsentative Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
 
@@ -397,6 +398,7 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
 :::
 
+--> 
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
  
@@ -423,7 +425,8 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 
 
 ::: notes
-- Unvollständig rotiertes 5x6 Within-Within-Design 
+- hierfür repräsentative Stichprobe von 414 aktive Lehrpersonen in DE
+- um FF zu beantworten, unvollständig rotiertes 5x6 Within-Within-Design 
 - jede Lehrperson insgesamt 2 PM erhalten, die experimentell manipuliert wurden
   - einmal wurder der Thema als Within-Faktor angelegt
     - z.B. Einfluss von G8 und G9 auf Schüler:innenleistungen
@@ -533,7 +536,7 @@ Können individuelle Unterschiede in den Interpretationen von Lehrpersonen bezü
 :::
 
 
-
+<!-- 
 ## Substichproben aus Studie 1 {{< iconify fa-solid:users>}}
 
 ::: {style="font-size: 0.60em"}
@@ -551,7 +554,7 @@ Können individuelle Unterschiede in den Interpretationen von Lehrpersonen bezü
   * Verschiedene Unterrichtsfächer (z.B. 52,42 % mind. eine Sprache; 42,74 % ein mathematisches oder naturwissenschaftliches Fach)
 
 :::
-
+--> 
 
 ::: notes
 
@@ -577,6 +580,7 @@ vergleichbare Verteilung der Stichprobeneigenschaften wie in Studie 1 und daher 
 
 ::: notes
 - Materialien aus Studie 1, daher nicht mehr aufgeführt, unterschied nur Signifikanz und U3 Aussage
+- also nur die 138 Lehrpersonen analysiert, die Signifikanz-Aussage erhalten und die 124 die mit Cohen's U3 Aussage konfrontiert waren
 
 - und auch nur bestimmte AVs aus Studie 1 betrachtet: 
   + die Interpretation als Inferenzstatistik
@@ -750,6 +754,7 @@ Freiheitsgrade
     
 ::: 
 
+<!-- 
 ## Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
 
 Stichprobenziehung via Panel Provider Prolific 
@@ -771,7 +776,7 @@ __Konfirmatorische Studie__
 
 :::
 
-
+--> 
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
 
@@ -788,10 +793,11 @@ __Konfirmatorische Studie__
 
 * Between-Faktor 2: Experimentalbedingung
   * Kontrollgruppe
-  * Benchmark 
   * Signaling Cohen's *U<sub>3</sub>* 
   * Signaling Overlap  
-    ![](img/benchmarking.jpg){width=30 .lightbox} ![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
+  * Benchmark 
+  ![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
+  ![](img/benchmarking.jpg){width=30 .lightbox} 
     
 * Within-Faktor 3: präsentierte Effektstärke   
   *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
@@ -802,7 +808,7 @@ __Konfirmatorische Studie__
 
 
 ::: notes
-
+- 220 englischsprachige Lehrpersonen
 - in dieser Studie Thema between Faktor und andere Ausprägungen z.B. Beispiel Lesen auf Tablet vs. Paper
   + kontextualisierten alle insgesamt 20 Effektstärkenvisualisierungen 
 - diese variiereten wiederum in der präsentierte Effektstärke 
@@ -1061,7 +1067,7 @@ Adaptiertes Modell nach [@kriz2007]
 
 ::: {.fragment}
 
-<center> ![](img/Groß_Ophoff et al (2023)_adapted_evidence.png){width=600 .lightbox}  
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_1.png){width=600 .lightbox}  
 
 
 Eigene Adapation des Prozessmodell nach [@grossophoff2023] 
