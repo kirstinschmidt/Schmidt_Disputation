@@ -239,8 +239,8 @@ Misslingender Ablauf </center>
 
 |      |      |       |         |
 |------|------|-------|----------|
-| ![](img/Zeitschriftenartikel.png){width=100} |![](img/Pressemitteilung.png){width=100} |![](img/Twitter.png){width=100} |![](img/Podcast.png){width=100} |
-![](img/WWC.png){width=100} |![](img/Toolkit.png){width=100} |![](img/CHU.png){width=100} |![](img/Tüdibase.png){width=100}|
+| ![](img/Zeitschriftenartikel.png){.lightbox width=100} |![](img/Pressemitteilung.png){.lightbox width=100} |![](img/Twitter.png){.lightbox width=100} |![](img/Podcast.png){.lightbox width=100} |
+![](img/WWC.png){.lightbox width=100} |![](img/Toolkit.png){.lightbox width=100} |![](img/CHU.png){.lightbox width=100} |![](img/Tüdibase.png){.lightbox width=100}|
 
 ::: notes
 
@@ -264,7 +264,7 @@ Misslingender Ablauf </center>
 
 ## Ergebnisdarstellungen in Clearing Houses {{< iconify fa-solid:comments >}} 
 
-<center> ![Beispiele aus Clearing Houses [@backfisch2021; @wiesbeck2018]](img/CHU_Beispiele.png){width=400} </center>
+<center> ![Beispiele aus Clearing Houses [@backfisch2021; @wiesbeck2018]](img/CH_Beispiele.png){.lightbox width=600} </center>
 
 
 ::: notes
