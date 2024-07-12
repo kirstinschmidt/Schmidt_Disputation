@@ -74,29 +74,46 @@ border: none !important;
 ::: 
 
 
-## Schlagzeilen {{< iconify fluent-emoji-high-contrast:newspaper >}} 
+## Schlagzeilen der Bildungsforschung {{< iconify fluent-emoji-high-contrast:newspaper >}} 
 
+::: {.fragment}
 |               |                    |       |
 |---------------|--------------------|-------|
 |![](img/Welt_PISA.png){.lightbox width=200}| ![](img/CHU_Forschendes Lernen.png){.lightbox width=200}| ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=400} | 
 
+:::
 
 ::: notes
 
+- Lehrpersonen werden sowohl formal - in DE z.B. durch die KMK-Kompetenzen - aber auch von Wissenschaftler:innen dazu angehalten bildungswissenschaftliche Forschungsergebnisse in ihrem professionellen Handeln zu berücksichtigen
+- Bildungswissenschaftliche Forschungsergebnisse sind vielfältig
+  - thematisch - Kompetenzen von 15-Jährigen Schüler:innen - PISA, Einfluss von Forschendem Lernen auf Leistung, von Sitzposition im Klassenzimmer, Methoden zum Vokabellernen etc.,
+  - unterschiedliche Methoden - deskriptive, experimentelle Studien
+  - auch, in den Quellen in denen sie berichtet werden
+  - klassische wissenschaftliche Artikel
+  - Medien - sehr prominent immer die PISA Studie
+  - Pressemitteilungen
+  - aber auch Formate, die Forschungsergebnisse extra für Praktiker:innen aufbereiten und auf öffentlichen Webseiten zugänglich machen
+
+<!--
 - Pressemitteilungen
   - Beispiel aus eine PM zu bildungswissenschaftlichem Thema
   - Primärstudie
   - Clearinghouse: Die Vergleiche wurden mithilfe experimenteller und quasi-experimenteller Studiendesigns angestellt.
 
 - ja warum zeig ich Ihnen das, weil grundsätzlich Lehrpersonen dazu angehalten werden, solche Forschungsergebnisse - auch als Evidenz bezeichnet- in ihr Handeln einfließen zu lassen  
-- kann für ganz unterschiedlich komplexe Anliegen verwendet werden - eigene Unterrichtspraxis innovieren z.B. Forschendes Lernen oder Ratschläge für Schüler:innen, wie sie Vokabeln am besten lernen oder ob erste Antwort bei Klassenarbeit nochmals abgeändert werden sollte
+-->
+
+- kann für ganz unterschiedlich komplexe Anliegen verwendet werden - eigene Unterrichtspraxis innovieren z.B. Forschendes Lernen oder Ratschläge für Schüler:innen, wie sie Vokabeln am besten lernen 
+<!-- oder ob erste Antwort bei Klassenarbeit nochmals abgeändert werden sollte 
 
 
 - formal ist dies auch in den KMK-Kompetenzen festgehalten
+-->
 
 ::: 
 
-
+<!--
 ## Formale Begründung
 
 :::{.callout-tip collapse=false appearance="#8CD000" icon=false}
@@ -109,6 +126,7 @@ border: none !important;
 
 [@KMK2004]
 
+-->
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} 
 
@@ -255,14 +273,14 @@ Misslingender Ablauf </center>
 
 ::: notes
 
-- Hier können Sie ganz verschiedene WK-Formate sehen, aber vor allem auf die letzte Reihe, denn dieser Ansatz wird immer stärker Verfolgt 
+- wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen, nun vor allem auf die letzte Reihe, denn dieser Ansatz wird immer stärker Verfolgt 
 
 - sogenannte Clearinghouses wie der Vorreiter WWC oder das in Deutschland vermutlich bekannteste CHU
 - knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities zu vermitteln 
-- indem Forschungsstudien für Lehrpersonen themenspezifisch zusammengefasst, die als qualitativ hochwertig und praktisch relevant eingestuft werden
-- je nach Ansatz werden unterschiedliche Studien z.B. nur Meta-Analysen (CHU) oder Einzelstudien (WWC) zusammengefasst
+- indem Forschungsstudien für Lehrpersonen themenspezifisch zusammengefasst, die anhand von Kriterien als qualitativ hochwertig und von Expert:innen für praktisch relevant eingestuft werden
+- je nach Ansatz werden unterschiedliche Studienarten z.B. nur Meta-Analysen (CHU) oder Einzelstudien (WWC) zusammengefasst
 - aber bisher quanitativer Natur zusammengefasst 
-- auch die statistischen Ergebnisse werden unterschiedlich aufbereitet
+- aber schaut man sich die Zusammenfassungen oder Synthesen an, fällt auf, dass auch die statistischen Ergebnisse ganz unterschiedlich aufbereitet werden
 
 
 :::
@@ -275,22 +293,23 @@ Misslingender Ablauf </center>
 
 ::: notes
 - hier Beispiele mitgebracht
-  - direkt erkennbar: textbasierte und visuelle Aufbereitung
+  - direkt erkennbar: vor allem textbasierte, aber auch visuelle Aufbereitung
   - statistische Signifkanz enthalten,
   
 <!-- obwohl häufig fehlinterpretiert von wissenschaftlichen Laien aber auch Expert:innen
 --> 
 
   - aber vor allem Effektstärken,  standardisierte Effektstärken, wie Hedges g (ähnlich wie Cohen's d), Cohen's U3 visuell oder textlich, transformierte Effektstärken Month of Progress oder Percentil Gain
-  - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses auszusagen zu können, da Sie z.B. hier über die Grüße von Unterschieden informieren
+  - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses ausagen zu können, da Sie z.B. hier über die Grüße von Unterschieden zwischen zwei Gruppen informieren
 - aber Sie sehen schon, ganz unterschiedliche Ansätze und man fragt sich wie Lehrpersonen  Zielgruppe der WK sind, die Frage, wie Lehrpersonen solche statistischen Ergebnisse rezipieren
 
 - sehr interdisziplinäres Feld:
   - wenig Forschung in BiWi
   - aber mehr Forschung wie allgemein wissenschaftliche Laien solche statistischen Infos rezipieren aus Psychologie,Comupter x human interaction science / computer science, Medizin
 
-- in hoher Qualität - meiner Recherche nach ausschließlich experimentelle Studie mit hoher interner Validität
-- Verständnis und Wahrnehumg wie z.B. wahrgenommene Informativität berückssichtigen, aber dennoch eklektischer Forschungsstand z.B. verschiedene Ausprägungen der UVs
+- in hoher Qualität - meiner Recherche nach ausschließlich experimentelle Studie mit hoher interner Validität, die also kausale Rückschlüsse von Präsentationsformaten auf Verständnis und Wahrnehumg wie z.B. wahrgenommene Informativität erlauben
+
+-aber eklektischer Forschungsstand z.B. verschiedene Ausprägungen der UVs
   + U3 mal mit Cohen's d 
   + U3 mal mit Month of Progress
   -> U3 zwar in beiden Studien, aber keine weiteren gleichen Vergleichsbedingungen
@@ -463,7 +482,8 @@ Link zum Paper: https://doi.org/10.1016/j.tate.2023.104134
 ::: notes
 
 - verschiedene AVs: 
-  + wie informativ statistische Beschreibung - Likert-Item
+<!--  + wie informativ statistische Beschreibung - Likert-Item --> 
+
   + wie sicher es ist, dass der Unterschied tatsächlich exisitert - Interpretation als Inferenzstatistik - auch Likert Item
   + wie groß der Unterschied ist - auch Likert Item um Interpretation als Effektstärke zu erfassen
 
@@ -584,13 +604,16 @@ vergleichbare Verteilung der Stichprobeneigenschaften wie in Studie 1 und daher 
 
 --> 
 
-## Materialien {{< iconify fa6-solid file-lines >}} & abhängige Variablen {{< iconify gis:measure >}} {.smaller}
+## Unabhängige & abhängige Variablen {{< iconify gis:measure >}} {.smaller}
 
-__{{< iconify fa6-solid file-lines >}}__
+
+__Unabhängige Variable__
 
 ![](img/study1_sig.png){width=400 .lightbox} ![](img/study1_u3.png){width=400 .lightbox}
 
-__{{< iconify gis:measure >}}__
+<br>
+
+__Abhängige Variablen__
 
 - __Interpretation als Inferenstatistik__
 
@@ -606,7 +629,7 @@ __{{< iconify gis:measure >}}__
   + 138 Lehrpersonen aus Studie 1, denen in PM die die Signifikanz-Aussage
   + 124 Lehrpersonen denen die U3 Aussage präsentiert wurde
 
-- und die gleichen AVs
+- aber die gleichen AVs
 
 <!--
 - und auch nur bestimmte AVs aus Studie 1 betrachtet: 
@@ -842,12 +865,15 @@ __Konfirmatorische Studie__
 - diese variiereten wiederum in der präsentierte Effektstärke 
 - und in der Art der Visualisierung
 - zentrale UV Experimentalbedingungen Between-Faktor, also ob Anreicherung vorhanden oder nicht
-  + Kontrollgruppe: halfeye plots ohne Anreicherung wie in explorativer Stuide
-  + Benchmark: Vergleichsgrafik - Ergebnisse zu einem vergleichbaren Thema inkl. Interpretation wie Wissenschaftler:innen das Ergebnis interpretieren würden
-  + Experimentalgruppen, in denen relevante Informationen in den Visualisierungen hervorgehoben wurden (signaling)
-    + Signaling U3 und overlap, heute nur U3 anschauen
+  + Kontrollgruppe: halfeye plots ohne Anreicherung wie in explorativer Studie
+  + verschiedene Exerimentalbedingungen, jetzt nur Fokus auf Signaling U3
     + Unterschiede im Sinne von Cohen's U3 hervorgehoben
 
+
+ergänzend: 
+- Benchmark: Vergleichsgrafik - Ergebnisse zu einem vergleichbaren Thema inkl. Interpretation wie Wissenschaftler:innen das Ergebnis interpretieren würden
+- Experimentalgruppen, in denen relevante Informationen in den Visualisierungen hervorgehoben wurden (signaling)
+  
 :::
 
 
@@ -1008,8 +1034,9 @@ __weiteres Ergebnis:__
 
 ::: notes
 
+<!-- 
 - Lehrpersonen schätzen unterschiedliche statistische Beschreibungen unterschiedlich informativ ein  __Annotationen nutzen__
-<!--  - im Mittel die erste Reihe informativer als die zweite Reihe
+ - im Mittel die erste Reihe informativer als die zweite Reihe
   - entsprach unserer Hypothese, dass Signifikanz, U3 und Kombi informativer wahrgenommen werden, aber dennoch nur etwas informativ
   - mit Bayesianischen ANOVA Modellen mit Messwiederholung inferenzstatistisch abgesichert
 --> 
@@ -1048,14 +1075,14 @@ __weiteres Ergebnis:__
 
 - alle abgetragenen Ergebnisse basieren auf baysianischen Mehrebenenmodellen
   + Waage bedeutet Evidenz für die Nullhypothese also keine Unterschiede zwischen Visualisierungen mit vs. ohne Anreicherung bei Akkuratheit
+  + interessant ist aber während es Lehrpersonen - über alle untersuchten Bedingungen auch in explortiver Studie hinweg - erstaunlich gut gelingt, die Effektgröße in der abstrakten Metrik einzuschätzen, sieht man hier, dass sich in allen Bedingungen, Werte um 0 tummeln, Differenzvariable aus wahrer und geschätzter Effektstärke
+  + Verzerrungen in der U3 Metrik ersichtlich, hier Bias, weil von Null abweichend (Ergebnisse ohne Personen mit U3 Fehlkonzpet)
   
 <!-- ? inkonklusive Ergebnisse bei Informativität--> 
 
-- ich möchte zwei Ergebnisse hervorheben: 
-  + Signaling U3 reduziert U3 Fehlkonzepte deutlich
-  + und auch interessant, zeigte sich auch in der explorativen Studie: 
-  - während es Lehrpersonen - über alle untersuchten Bedingungen hinweg - erstaunlich gut gelingt, die Effektgröße in der abstrakten Metrik einzuschätzen, sieht man hier, dass sich in allen Bedingungen, Werte um 0 tummeln, Differenzvariable aus wahrer und geschätzter Effektstärke
-  - Verzerrungen in der U3 Metrik ersichtlich, hier Bias, weil von Null abweichend (Ergebnisse ohne Personen mit U3 Fehlkonzpet)
+- zudem:Signaling U3 reduziert U3 Fehlkonzepte deutlich
+
+
 
 
 ::: 
