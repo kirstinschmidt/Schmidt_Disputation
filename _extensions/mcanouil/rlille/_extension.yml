@@ -10,7 +10,7 @@ contributes:
         - mcanouil/iconify
       template-partials:
         - title-slide.html
-      slide-number: false
+      slide-number: true
       menu: true
       highlight-style: github-dark
       theme: phka.scss
