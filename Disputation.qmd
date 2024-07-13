@@ -35,6 +35,7 @@ title-slide-attributes:
 
 # z.B. library(tidyverse)
 
+
 ```
 
 
@@ -132,7 +133,7 @@ border: none !important;
 ::: {.fragment}
 * wissenschaftliche Evidenz und Theorien im professionellen Handeln berücksichtigen (Bauer et al., 2015, Refs) <br>
 <center>
-![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=100} <br> 
+![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=90} <br> 
 @rochnia2020 
 
 </center> 
@@ -148,7 +149,7 @@ border: none !important;
 * idealisierter Ablauf evidenzinformierter Schulpraxis (EISP)<br>
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_1.png){.lightbox width=200} <br> Eigene Adapation des Prozessmodell nach @grossophoff2023
+![](img/Groß_Ophoff et al (2023)_adapted_1.png){.lightbox width=190} <br> Eigene Adapation des Prozessmodell nach @grossophoff2023
 </center>
 
 :::
@@ -305,7 +306,7 @@ ergänzend:
 * Zeitungsartikel
 * Pressemitteilungen
 * Podcasts  
-* __Clearinghouses__ 
+* __Clearinghouses (CHs)__ 
 * ... 
 
 :::
@@ -334,35 +335,34 @@ ergänzend:
 :::
 
 
-## Ergebnisaufbereitungen in Clearing Houses {{< iconify fa-solid:comments >}} 
+## Ergebnisaufbereitungen in CHs {{< iconify fa-solid:comments >}} 
 
+
+:::: {.columns}
+
+::: {.column width="50%"}
 __Textliche Aufbereitung__
 
-:::: {.columms}
+![](img/CHU_sig.png){.lightbox width=300}
+![](img/CHU_d_U3.png){.lightbox width=300}
+![](img/WWC_pg.png){.lightbox width=300}
+![](img/Toolkit_mop.png){.lightbox width=300}
 
-::: {.column width="50%"}
-
-::: {style="font-size: 0.60em"}
-* "Die durchschnittlichen Effektstärken liegen nach der üblichen Einteilung nach Cohen (1988) im mittleren Bereich für die Wiedergabe von Wissen __(g = 0.53)__ (...). Die Größe dieser Effekte bedeuten, dass ca. __70 % der SchülerInnen, die mit Lernmaterialien mit Hervorhebungen gearbeitet haben, Lerninhalte besser wiedergeben (...) als der Durchschnitt der Kontrollgruppe__" [@wiesbeck2018, S.5, eigene Hervorhebungen]
-
-* "Basierend auf den 55 Einzelstudien ergibt die Metaanalyse einen __signifikanten positiven__ Gesamteffekt von Peer Assessment auf die Leistung: g = 0.31" [@diery2021, S.3, eigene Hervorhebungen]
-
-:::
 :::
 
 ::: {.column width="50%"}
 
-::: {style="font-size: 0.60em"}
-* "The average impact of metacognition and self-regulation strategies (on learning) is an __additional seven month's progress over the course of a year__" [REF, S.X, eigene Hervorhebungen]
+__Visuelle Aufbereitungen__
+<br>
+<br>
+<br>
+![](img/Tüdibase_U3_vis.png){.lightbox width=400}
+![](img/WWC_pg_vis.png){.lightbox width=250}
 
-:::
 :::
 
 ::::
 
-
-
-__Visuelle Aufbereitungen__
 
 ::: notes
 - hier Beispiele mitgebracht
@@ -372,7 +372,7 @@ __Visuelle Aufbereitungen__
 <!-- obwohl häufig fehlinterpretiert von wissenschaftlichen Laien aber auch Expert:innen
 --> 
 
-  - aber vor allem Effektstärken, standardisierte Effektstärken, wie Hedges g (ähnlich wie Cohen's d), Cohen's U3 visuell oder textlich, übersetzte (translated) Effektstärken Month of Progress oder Percentil Gain
+  - aber vor allem Effektstärken, standardisierte Effektstärken, wie Hedges g (ähnlich wie Cohen's d), intuitivere Effsizes Cohen's U3 visuell oder textlich, übersetzte (translated) Effektstärken Month of Progress oder Percentil Gain
   - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses ausagen zu können, da Sie z.B. hier über die Grüße von Unterschieden zwischen zwei Gruppen informieren
 - aber Sie sehen schon, ganz unterschiedliche Ansätze und man fragt sich wie Lehrpersonen  Zielgruppe der WK sind, die Frage, wie Lehrpersonen solche statistischen Ergebnisse rezipieren
 
@@ -396,14 +396,59 @@ ergänzend:
 ::: 
 
 
-## Forschungsinteresse
+## Forschungsinteresse {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} 
 
-Wie können Inferenzstatistiken und Effektstärken an Lehrpersonen textbasiert und visuell kommuniziert werden können, damit diese
+Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen kommunizieren, damit ...
 
-- die __die wahrgenommene praktische Relevanz (z.B. wahrgenommene Informativität)__ gesteigert wird,
-- die statistischen Informationen __leichter verständlich sind__
-- die  __kognitive Prozesse__ von Lehrpersonen berücksichtigt werden?
+- *praktische Relevanz* (z.B. wahrgenommene Informativität) induziert wird,
+- statistischen Informationen *leichter verständlich* sind
+- die  *kognitive Prozesse* von Lehrpersonen berücksichtigt werden
 
+## Forschungsinteresse {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+
+__Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen kommunizieren, damit ...__
+
+- *praktische Relevanz* (z.B. wahrgenommene Informativität) induziert wird,
+- __statistischen Informationen *leichter verständlich* sind__
+- die *kognitive Prozesse* von Lehrpersonen berücksichtigt werden
+
+
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="margin-top: 25px;"}
+
+<center>__Studie 1__ {{< iconify fa6-solid file-lines >}} <br>![](img/Auszug_Studie_1.png){width=200}
+
+Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?
+</center>
+
+:::
+:::
+
+::: {.column width="50%"}
+::: {style="margin-top: 25px;"}
+
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+
+Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
+</center>
+:::
+:::
+::::
+
+::: {style="margin-top: 5px;"}
+<center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
+
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
+
+</center> 
+:::
+
+<!--
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
 
@@ -437,7 +482,7 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 
 </center> 
 
-
+-->
 ::: notes
 
 - habe ich mich in meinen eigenen Forschungstätigkeiten dem Forschungsinteresse gewidmet: 
@@ -452,13 +497,17 @@ Studie 3 {{< iconify fa6-solid chart-area >}} <br>
 :::
 
 
-## {auto-animate=true}
+## Studie 1 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
-::: {style="margin-top: 50px; font-size: 3em;"}
 
-Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=600} <br>
+::: {style="margin-top: 50px; font-size: 1.3em;"}
+![](img/Auszug_Studie_1.png){width=700}
+
+__Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?__
 :::
+
+<br>
+
 Link zum publizierten Artikel: https://doi.org/10.1016/j.tate.2023.104134
 
 
@@ -468,11 +517,11 @@ Link zum publizierten Artikel: https://doi.org/10.1016/j.tate.2023.104134
 
 ::: 
 
+<!--
 ## Forschungsfragen {{< iconify fa6-solid:circle-question >}} {.center}
 
 
-<!-- 1) Nehmen Lehrpersonen unterschiedliche statistische Beschreibungen in Pressemitteilungen unterschiedlich informativ wahr?
---> 
+1) Nehmen Lehrpersonen unterschiedliche statistische Beschreibungen in Pressemitteilungen unterschiedlich informativ wahr?
 
 Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitteilungen als Inferzenstatistik und Effektstärke?
 
@@ -480,11 +529,12 @@ Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitte
 
 ::: notes
 
-<!-- - wie informativ Lehrpersonen verschiedene statistische Beschreibungen in __PM__ einschätzen --> 
-
+- wie informativ Lehrpersonen verschiedene statistische Beschreibungen in __PM__ einschätzen 
 - inwieweit Lehrpersonen statistische Beschreibungen __in PM__ tatsächlich als Inf und Eff interpretieren 
 
 ::: 
+
+-->
 
 <!--
 
@@ -512,7 +562,7 @@ Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitte
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
  
-* {{< iconify fa-solid:users>}} *N* = 414 Lehrpersonen in Deutschland 
+* *N* = 414 Lehrpersonen in Deutschland 
 * Unvollständig rotiertes 5x6 Within-Within-Design 
   * Within-Faktor 1: Thema
     * G8
@@ -521,7 +571,7 @@ Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitte
     * PISA
     * Untertitel in Filmen
     <center> ![](img/study1_vignette.png){width=400 .lightbox} </center>
-  * Within-Faktor 2: statistische Beschreibung
+  * Within-Faktor 2 & unabhängige Variable: statistische Beschreibung
     * Standard Signifikanz-Aussage
     * Definition des *p* Wertes
     * Beschreibung Bayes Faktor
@@ -569,12 +619,15 @@ Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitte
 :::
 
 
-## {auto-animate=true}
+## Studie 1 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
-::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=600} 
+::: {style="margin-top: 50px; font-size: 1.3em;"}
+![](img/Auszug_Studie_1.png){width=700}
+
+__Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?__
 :::
+
+<br>
 
 Link zum publizierten Artikel: https://doi.org/10.1016/j.tate.2023.104134
 
@@ -584,48 +637,52 @@ Link zum publizierten Artikel: https://doi.org/10.1016/j.tate.2023.104134
 
 ::: 
 
-## Eigene Forschungstätigkeiten {{< iconify file-lines >}} {{< iconify chart-area >}} {auto-animate=true}
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=420}
+::: {style="margin-top: 25px;"}
+
+<center>__Studie 1__ {{< iconify fa6-solid file-lines >}} <br>![](img/Auszug_Studie_1.png){width=200}
+
+Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?
+</center>
 
 :::
 :::
-
 
 ::: {.column width="50%"}
-::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=420}
+::: {style="margin-top: 25px;"}
 
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+
+Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
+</center>
 :::
 :::
-
 ::::
 
+::: {style="margin-top: 5px;"}
+<center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-<center> 
-
-::: {style="margin-top: 9px;"}
-Studie 3 {{< iconify fa6-solid  chart-area >}} <br>
-![](img/Auszug_Studie_3.png){width=420} 
-:::
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
-## {auto-animate=true}
-
-
-::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=600} <br>
 :::
 
-Link zum Preprint, der im Review-Verfahren bei <br> Learning & Instruction ist: 
+## Studie 2 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
+
+
+::: {style="margin-top: 50px; font-size: 1.2em;"}
+![](img/Auszug_Studie_2.png){width=700}
+
+__Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?__
+:::
+
+<br>
+Link zum Preprint, der im Review-Verfahren bei Learning & Instruction ist: 
 
 
 ::: notes
@@ -635,7 +692,7 @@ Link zum Preprint, der im Review-Verfahren bei <br> Learning & Instruction ist:
 
 ::: 
 
-
+<!--
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.center}
 
 
@@ -649,6 +706,7 @@ Können individuelle Unterschiede in den Interpretationen von Lehrpersonen bezü
 
 :::
 
+--> 
 
 <!-- 
 ## Substichproben aus Studie 1 {{< iconify fa-solid:users>}}
@@ -728,15 +786,16 @@ ergänzend:
 :::
 
 
-## {auto-animate=true}
+## Studie 2 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
+::: {style="margin-top: 50px; font-size: 1.2em;"}
+![](img/Auszug_Studie_2.png){width=700}
 
-::: {style="margin-top: 50px; font-size: 3em;"}
-Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=600} 
+__Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?__
 :::
 
-Link zum Preprint, der im Review-Verfahren bei <br> Learning & Instruction ist: XXX
+<br>
+Link zum Preprint, der im Review-Verfahren bei Learning & Instruction ist: XXX
 
 ::: notes
 
@@ -744,45 +803,52 @@ nun thematischer Wechsel
 
 :::
 
-## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=420} 
-:::
-:::
+::: {style="margin-top: 25px;"}
 
+<center>__Studie 1__ {{< iconify fa6-solid file-lines >}} <br>![](img/Auszug_Studie_1.png){width=200}
+
+
+Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?
+</center>
+
+:::
+:::
 
 ::: {.column width="50%"}
-::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=420} 
-:::
-:::
+::: {style="margin-top: 25px;"}
 
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+
+Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
+</center>
+:::
+:::
 ::::
 
+::: {style="margin-top: 5px;"}
+<center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-<center> 
-
-::: {style="margin-top: 11px;"}
-Studie 3 {{< iconify fa6-solid chart-area >}} <br>
-![](img/Auszug_Studie_3.png){width=420} <br>
-:::
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
-
-## {auto-animate=true}
-
-
-::: {style="margin-top: 100px; font-size: 3em;"}
-Studie 3 {{< iconify fa6-solid chart-area >}} <br>
-![](img/Auszug_Studie_3.png){width=600}
 :::
+
+## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
+
+
+::: {style="margin-top: 50px; font-size: 1.2em;"}
+![](img/Auszug_Studie_3.png){width=700}
+
+__Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?__
+:::
+
+<br>
 
 Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie:
 
@@ -792,23 +858,24 @@ Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie:
 
 :::
 
+
+<!--
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller} 
 
 
 
 ::: {.fragment}
 
-1) <!-- Wenn Lehrpersonen Effektstärken beurteilen, --> Inwieweit beeinflusst die Visualisierung wie akkurat Lehrpersonen Effektstärken interpretieren? 
-<!--
+1) Wenn Lehrpersonen Effektstärken beurteilen, Inwieweit beeinflusst die Visualisierung wie akkurat Lehrpersonen Effektstärken interpretieren? 
     + die Akkuratheit (AV1), 
     + die wahrgenommene Informativität (AV2) ?
--->
+
 
 :::
 
 
 ::: {.fragment}
-2) Welche Visualisierung <!-- führen bei AV1 & AV2 zu den wünschenswertesten Ergebnissen--> führt zu den akkuratesten Interpretationen?
+2) Welche Visualisierung führen bei AV1 & AV2 zu den wünschenswertesten Ergebnissen führt zu den akkuratesten Interpretationen?
 
 ::: 
 
@@ -818,7 +885,7 @@ Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie:
 ::: 
 
 
-
+--> 
 
 ::: notes
 
@@ -830,31 +897,34 @@ Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie:
 3) 
 
 - drei verschiedene, aufeinander aufbauende Teilstudien
+- Fokus auf FF 3 oder anders formuliert auf Teilstudie 3 
+- vorherigen Ergebnisse aus Studie 1 also die Visualisierung, die am wünscheswertesten war in Studie 3 eingeschlossen um FF entsprechend zu beantworten
 
 :::
 
+<!-- 
 
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller}
 
-1) <!-- Wenn Lehrpersonen Effektstärken beurteilen, --> Inwieweit beeinflusst die Visualisierung wie akkurat Lehrpersonen Effektstärken interpretieren? 
-<!--
+1) Wenn Lehrpersonen Effektstärken beurteilen, Inwieweit beeinflusst die Visualisierung wie akkurat Lehrpersonen Effektstärken interpretieren? 
+
     + die Akkuratheit (AV1), 
     + die wahrgenommene Informativität (AV2) ?
--->
 
 
-2) Welche Visualisierung <!-- führen bei AV1 & AV2 zu den wünschenswertesten Ergebnissen--> führt zu den akkuratesten Interpretationen?
+
+2) Welche Visualisierung führen bei AV1 & AV2 zu den wünschenswertesten Ergebnissen führt zu den akkuratesten Interpretationen?
 
 __3. Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?__
+
 
 
 ::: notes
 - Fokus auf FF 3 oder anders formuliert auf Teilstudie 3 
 - vorherigen Ergebnisse aus Studie 1 also die Visualisierung, die am wünscheswertesten war in Studie 3 eingeschlossen um FF entsprechend zu beantworten
 
-
-
 :::
+-->
 
 ::: notes
 
@@ -907,9 +977,9 @@ __Konfirmatorische Studie__
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
 
-* {{< iconify fa-solid:users>}} *N* = 220 englischsprachige Lehrpersonen 
+* *N* = 220 englischsprachige Lehrpersonen 
 
-4x4x10x2 Between-Between-Within-Within Design 
+4x10x2x4 Between-Within-Within-Between Design 
 
 * Between-Faktor 1: Thema
   * Lesen auf Papier vs. Tablet
@@ -918,22 +988,21 @@ __Konfirmatorische Studie__
   * Lernen mittels Erklärvideo mit Untertitel vs. Erklärvideo ohne Untertitel
 <center> ![](img/study3_vignette.png){width=400 .lightbox} </center>
 
-* Between-Faktor 2: Experimentalbedingung
+* Within-Faktor 2: präsentierte Effektstärke   
+  *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
+  
+* Within-Faktor 3: Visualisierungsart
+  * Halfeye plot mit Gruppen auf der x-Achse
+  * Halfeye plot mit Gruppen auf der y-Achse
+
+* Between-Faktor 4 & unabhängige Variable: Experimentalbedingung
   * Kontrollgruppe
   * Signaling Cohen's *U<sub>3</sub>* 
   * Signaling Overlap  
   * Benchmark 
   
-  ![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
-  ![](img/benchmarking.jpg){width=30 .lightbox} 
-    
-* Within-Faktor 3: präsentierte Effektstärke   
-  *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
-  
-* Within-Faktor 4: Visualisierungsart
-  * Halfeye plot mit Gruppen auf der x-Achse
-  * Halfeye plot mit Gruppen auf der y-Achse
-
+![](img/signaling_CohensU3.jpg){width=50 .lightbox} ![](img/signaling_Overlap.jpg){width=50 .lightbox}
+![](img/benchmarking.jpg){width=30 .lightbox} 
 
 ::: notes
 - 220 englischsprachige Lehrpersonen
@@ -1006,47 +1075,53 @@ zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei Fragen oper
 :::
 
 
-## {auto-animate=true}
+## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 
-::: {style="margin-top: 100px; font-size: 3em;"}
-Studie 3 {{< iconify fa6-solid chart-area >}} <br>
-![](img/Auszug_Studie_3.png){width=600} 
+::: {style="margin-top: 50px; font-size: 1.2em;"}
+![](img/Auszug_Studie_3.png){width=700}
+
+__Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?__
 :::
+
+<br>
 
 Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie: XXX
 
-## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true}
+## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-::: {style="margin-top: 30px;"}
-Studie 1 {{< iconify fa6-solid file-lines >}} <br>
-![](img/Auszug_Studie_1.png){width=420} 
-:::
-:::
+::: {style="margin-top: 25px;"}
 
+<center>__Studie 1__ {{< iconify fa6-solid file-lines >}} <br>![](img/Auszug_Studie_1.png){width=200}
+
+Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?
+</center>
+
+:::
+:::
 
 ::: {.column width="50%"}
-::: {style="margin-top: 30px;"}
-Studie 2 {{< iconify fa6-solid file-lines >}}  <br>
-![](img/Auszug_Studie_2.png){width=420} 
-:::
-:::
+::: {style="margin-top: 25px;"}
 
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+
+Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
+</center>
+:::
+:::
 ::::
 
+::: {style="margin-top: 5px;"}
+<center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-<center> 
-
-::: {style="margin-top: 10px;"}
-Studie 3 {{< iconify fa6-solid chart-area >}} <br>
-![](img/Auszug_Studie_3.png){width=420} 
-:::
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
+:::
 
 ::: notes
 
@@ -1121,7 +1196,7 @@ Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschied
 
 |  	| Akkuratheit|  Fehlkonzept 	|
 |-- |---	       |---	          |
-| Signaling U3 	| {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){width="120" .lightbox} <br> ![](img/study3_plot_diff_u3.png){width="120" .lightbox} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){width="120" .lightbox} |
+| Signaling U3 	| {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){width="100" .lightbox} <br> ![](img/study3_plot_diff_u3.png){width="100" .lightbox} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){width="120" .lightbox} |
 
 <!-- noch anpassen --> 
 
@@ -1210,7 +1285,7 @@ __langsamer!__
 
 ::: {.fragment}
 
-<center> ![](img/Modell_topdown-bottomup){width=820 .lightbox} 
+<center> ![](img/Modell_topdown-bottomup){width=790 .lightbox} 
 
 Adaptiertes Modell der Verstehnsprozesse nach @kriz2007
 </center>
