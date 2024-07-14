@@ -140,7 +140,7 @@ border: none !important;
 
 
 ::: {.fragment} 
-&rarr; Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung [@]
+&rarr; Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung [z.B. @bell2010; @double2020; @filderman2018; @coldwell2017; @kennedy2017]
 
 :::
 
@@ -190,9 +190,9 @@ ergänzend:
 > Theoretische Forderung EISP [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} praktische Umsetzung durch Lehrpersonen [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
 
 ::: {.incremental}
-* vielfältige Barrieren erschweren die Realisierung EISP [@schaik2018; @dagenais2012; @hemsley-brown2003]
+* vielfältige Barrieren erschweren die Realisierung EISP [@schaik2018; @dagenais2012; @hemsley-brown2003; @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023]
 
-* ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=500} 
+* ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=400} 
 
 :::
 
@@ -228,7 +228,6 @@ ergänzend:
 ## Barrieren und Bedingungen EISP {.smaller}
 
 ::: {.incremental}
-* vielzählige Barrieren und Bedingungen empirisch belegt (REFs) und in den erschiedenen Phasen EISP vorhanden (Refs)
   + Verstehen von wissenschaftlicher Evidenz (Refs) 
   + ![](img/Dominosteine_misslingend.png){width=300}
   
@@ -337,12 +336,16 @@ ergänzend:
 
 ::::
 
-## Clearinghouses
+## Clearinghouses {.smaller}
 
 
-|    |    |    |   |
-|----|----|----|----|
-|![](img/WWC.png){.lightbox width=400}|![](img/CHU.png){.lightbox width=400}|![](img/Toolkit.png){.lightbox width=400}|![](img/Tüdibase.png){.lightbox width=400}|
+|    |    |
+|----|----|
+|![](img/WWC.png){.lightbox width=300}|![](img/CHU.png){.lightbox width=300}|
+![](img/Toolkit.png){.lightbox width=300}|![](img/Tüdibase.png){.lightbox width=300}|
+
+<center> *Knowledge Brokers* = Informationsvermittler zwischen Praktiker:innen und Wissenschaftler:innen [@besa2024; @farley-ripple2018; @hartmann2016; @rycroft-smith2022a] </center>
+
 
 ::: notes 
 - sogenannte Clearinghouses wie der Vorreiter WWC oder das in Deutschland vermutlich bekannteste CHU
@@ -398,6 +401,18 @@ __Visuelle Aufbereitungen__
   - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses ausagen zu können, da Sie z.B. hier über die Grüße von Unterschieden zwischen zwei Gruppen informieren
 - aber Sie sehen schon, ganz unterschiedliche Ansätze und man fragt sich wie Lehrpersonen  Zielgruppe der WK sind, die Frage, wie Lehrpersonen solche statistischen Ergebnisse rezipieren
 
+:::
+
+---
+
+### Forschungsstand: statistische Kommunikation
+
+* interdisziplinäres Forschungsfeld
+  + kaum 
+* eklektischer Forschungsstand
+
+::: notes
+
 - sehr interdisziplinäres Feld:
   - wenig Forschung in BiWi
   - aber mehr Forschung wie allgemein wissenschaftliche Laien solche statistischen Infos rezipieren aus Psychologie,Comupter x human interaction science / computer science, Medizin
@@ -423,8 +438,8 @@ ergänzend:
 Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen kommunizieren, damit ...
 
 - *praktische Relevanz* (z.B. wahrgenommene Informativität) induziert wird,
-- statistischen Informationen *leichter verständlich* sind
-- die  *kognitive Prozesse* von Lehrpersonen berücksichtigt werden
+- statistischen Informationen *leichter verständlich* sind,
+- die  *kognitive Prozesse* von Lehrpersonen berücksichtigt werden.
 
 ::: notes
 
