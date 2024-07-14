@@ -131,10 +131,9 @@ border: none !important;
 
 
 ::: {.fragment}
-* wissenschaftliche Evidenz und Theorien im professionellen Handeln berücksichtigen [z.B: @bauer2015; @bauer2023; @stark2017; @nelson2017; @ferguson2021; @rochnia2020]  <br>
+* wissenschaftliche Evidenz und Theorien im professionellen Handeln berücksichtigen [z.B. @bauer2015; @bauer2023; @stark2017; @nelson2017; @ferguson2021; @rochnia2020]  <br>
 <center>
 ![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=90} <br> 
-@rochnia2020 
 
 </center> 
 :::
@@ -149,7 +148,7 @@ border: none !important;
 * idealisierter Ablauf evidenzinformierter Schulpraxis (EISP)<br>
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){.lightbox width=190} <br> Eigene Adapation des Prozessmodell nach @grossophoff2023
+![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){.lightbox width=190} <br>
 </center>
 
 :::
@@ -193,7 +192,7 @@ ergänzend:
 ::: {.incremental}
 * vielfältige Barrieren erschweren die Realisierung EISP [@schaik2018; @dagenais2012; @hemsley-brown2003]
 
-* ![](img/Groß_Ophoff et al (2023)_adapted_1.png){.lightbox width=500} <br> Eigene Adapation des Prozessmodell nach @grossophoff2023
+* ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=500} 
 
 :::
 
@@ -338,6 +337,12 @@ ergänzend:
 
 ::::
 
+## Clearinghouses
+
+
+|    |    |    |   |
+|----|----|----|----|
+|![](img/WWC.png){.lightbox width=400}|![](img/CHU.png){.lightbox width=400}|![](img/Toolkit.png){.lightbox width=400}|![](img/Tüdibase.png){.lightbox width=400}|
 
 ::: notes 
 - sogenannte Clearinghouses wie der Vorreiter WWC oder das in Deutschland vermutlich bekannteste CHU
@@ -359,10 +364,10 @@ ergänzend:
 ::: {.column width="50%"}
 __Textliche Aufbereitung__
 
-![](img/CHU_sig.png){.lightbox width=300}
-![](img/CHU_d_U3.png){.lightbox width=300}
-![](img/WWC_pg.png){.lightbox width=300}
-![](img/Toolkit_mop.png){.lightbox width=300}
+![](img/CHU_sig.png){.lightbox width=250}
+![](img/CHU_d_U3.png){.lightbox width=250}
+![](img/WWC_pg.png){.lightbox width=250}
+![](img/Toolkit_mop.png){.lightbox width=250}
 
 :::
 
@@ -372,13 +377,14 @@ __Visuelle Aufbereitungen__
 <br>
 <br>
 <br>
-![](img/Tüdibase_U3_vis.png){.lightbox width=400}
-![](img/WWC_pg_vis.png){.lightbox width=250}
+![](img/Tüdibase_U3_vis.png){.lightbox width=300}
+![](img/WWC_pg_vis.png){.lightbox width=300}
 
 :::
 
 ::::
 
+[@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
 
 ::: notes
 - hier Beispiele mitgebracht
@@ -1226,7 +1232,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify
 Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschiedene Fehlinterpretationen zusammenfassen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
 
 <center>
-![](img/LatentProfiles.jpeg){width=200 .lightbox} </center> 
+![](img/LatentProfiles.png){width=300 .lightbox} </center> 
 
 ::: notes
 
@@ -1304,7 +1310,8 @@ __weiteres Ergebnis:__
 
 ## Take Home Messages {{< iconify fa6-solid lightbulb >}}
 
-* Als informativ wahrgenommene statistische Informationen {{<iconify fa-solid:not-equal>}} verständliche Informationen
+<!--
+* Als informativ wahrgenommene statistische Informationen {{<iconify fa-solid:not-equal>}} verständliche Informationen --> 
 * Intuitivere statistische Informationen {{<iconify fa-solid:not-equal>}} weitgehend/allgemein verständliche Informationen
 * Effektstärke und Effektunsicherheit werden oft verwechselt
 * Je nach Operationalisierung sind Effektstärkeninterpretationen unterschiedlich akkurat
@@ -1318,13 +1325,11 @@ __langsamer!__
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
-> Gestaltung informativer Wissenschaftskommunikation möglich, verständliche Wissenschaftskommunikation aber herausfordernd 
+> Gestaltung verständliche Wissenschaftskommunikation herausfordernd 
 
 ::: {.fragment}
 
-<center> ![](img/Modell_topdown-bottomup){width=790 .lightbox} 
-
-Adaptiertes Modell der Verstehnsprozesse nach @kriz2007
+<center> ![](img/Modell_topdown-bottomup){width=950 .lightbox} 
 </center>
 :::
 
@@ -1358,10 +1363,7 @@ Adaptiertes Modell der Verstehnsprozesse nach @kriz2007
 
 ::: {.fragment}
 
-<center> ![](img/Groß_Ophoff et al (2023)_adapted_1.png){width=600 .lightbox}  
-
-
-Eigene Adapation des Prozessmodell nach @grossophoff2023
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){width=700 .lightbox}  
 
 </center>
 
