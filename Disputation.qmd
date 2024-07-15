@@ -158,14 +158,13 @@ border: none !important;
 
 - evidenzinformierte Schulpraxis, in der Evidenz eine Informationsquelle ist, die vor dem Hintergrund der eigenen Erfahrungen und des Kontextes reflektiert wird
 - also keine alleinige Informationsquelle, die ohne weiteres in der Praxis angewandt werden kann
-- Evidenz eine systamtisch gewonnene und eher objektive Infoquelle darstellt, die im Vergleich zu eigenen Erfahrungen weniger durch kognitiven Verzerrungen beeinflusst ist
-- dadurch das Potenzial zugeschrieben wird, die 
+- Evidenz wird das Potenzial zugeschrieben wird, die 
   + Professionalisierung von Lehrpersonen zu stärken
   + Unterrichts- und Schulqualität
   + letztlich Schüler:innenleistung zu steigern
   + auch erste empirische Belege
 
-- wie muss das Ganze ablaufen, um Potenziale zu entfalten?
+- welche Schritte müssen Lehrpersonen durchlaufen, um Potenziale zu entfalten?
 - angelehnt an das Prozessmodell von Groß Ophoff
   - umfasst EIP fünf Phasen
     + konzeptuelle Phase, in der ein Anlass formuliert wird
@@ -185,12 +184,12 @@ ergänzend:
 ::: 
 
 
-## Barrieren EISP {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
+## Barrieren  EISP {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
 
 > Theoretische Forderung EISP [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} praktische Umsetzung durch Lehrpersonen [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
 
 ::: {.incremental}
-* vielfältige Barrieren erschweren die Realisierung EISP [@schaik2018; @dagenais2012; @hemsley-brown2003; @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023]
+* vielfältige Barrieren, die die Realisierung EISP erschweren [@schaik2018; @dagenais2012; @hemsley-brown2003; @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023]
 
 * ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=400} 
 
@@ -203,7 +202,9 @@ ergänzend:
     + der Schule z.B. fehlende Organisationstrukturen z.B. extra Freiräume für Auseinandersetzung mit Evidenz einer Schule Barriere
     + der Lehrpersonen, z.B. fehlendes methodisches Wissen = Barriere
     + der Forschung/des Forschungswissenz.B. öffentliche / leichte Zugänglichkeit der Evidenz Bedingung
-- Barrieren können in jeder Phase zum Tragen kommen und dazu führen, dass die Phase erfolgreich durchlaufen oder falsch bzw. gar nicht durchlaufen wird 
+    
+- noch näher darauf eingehen 
+
 
 ::: 
 
@@ -271,6 +272,8 @@ ergänzend:
 - sehr breites, praktisches und wissenschaftliches, sowie interdisziplinäres Feld
 - direkt relativ eng auf mein Forschungsinteresse zugeschnitten
 
+- wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen, nun vor allem sogenannte Clearinghouses eingehen
+
 <!--   
 + verschiedene Formate, 
 + verschiedene Theorien: Defizit Modell und reziproker Austausch
@@ -280,7 +283,7 @@ ergänzend:
 
 ::: 
 
-
+<!--
 ## Wissenschaftskommunikationsformate {{< iconify fa-solid:comments >}} {.smaller}
 
 :::: {.columns}
@@ -336,6 +339,8 @@ ergänzend:
 
 ::::
 
+--> 
+
 ## Clearinghouses {.smaller}
 
 
@@ -348,24 +353,28 @@ ergänzend:
 
 
 ::: notes 
-- sogenannte Clearinghouses wie der Vorreiter WWC oder das in Deutschland vermutlich bekannteste CHU
+  + denn dieser Ansatz ist immer häufiger Inhalt wissenschaftlicher Debatten z.B. auf Konferenzen
+  + Beispiele mitgebracht Vorreiter WWC, Toolkit, oder das in Deutschland vermutlich bekannteste CHU & Tüdibase
 - knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities zu vermitteln 
 - indem Forschungsstudien für Lehrpersonen themenspezifisch zusammengefasst, die anhand von Kriterien als qualitativ hochwertig und von Expert:innen für praktisch relevant eingestuft werden
-- je nach Ansatz werden unterschiedliche Studienarten z.B. nur Meta-Analysen (CHU) oder Einzelstudien (WWC) zusammengefasst
-- aber bisher quanitativer Natur zusammengefasst 
-- aber schaut man sich die Zusammenfassungen oder Synthesen an, fällt auf, dass auch die statistischen Ergebnisse ganz unterschiedlich aufbereitet werden
+- alle quantitative Studien, aber, welche Studienart zusammenfassen ist unterschiedlich, z.B. nur Meta-Analysen (CHU) oder Einzelstudien (WWC) zusammengefasst, 
+- und auch die Ergebnisdarstellung in den Zusammenfassungen unterscheidet sich
+
 
 
 :::
 
 
-## Ergebnisaufbereitungen in CHs {{< iconify fa-solid:comments >}} 
+## Statistische Kommunikation {{< iconify fa-solid:comments >}} {.smaller}
 
+
+__Ergebnisaufbereitung in CHs:__
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-__Textliche Aufbereitung__
+
+Textliche Aufbereitung
 
 ![](img/CHU_sig.png){.lightbox width=250}
 ![](img/CHU_d_U3.png){.lightbox width=250}
@@ -376,18 +385,25 @@ __Textliche Aufbereitung__
 
 ::: {.column width="50%"}
 
-__Visuelle Aufbereitungen__
+Visuelle Aufbereitungen
 <br>
 <br>
 <br>
-![](img/Tüdibase_U3_vis.png){.lightbox width=300}
-![](img/WWC_pg_vis.png){.lightbox width=300}
+![](img/Tüdibase_U3_vis.png){.lightbox width=250} ![](img/WWC_pg_vis.png){.lightbox width=250}
 
 :::
 
 ::::
 
 [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
+
+
+::: {.fragment}
+__Forschungsstand:__
+
+- interdisziplinär, experimentell geprägt, aber eklektisch
+- kaum empirische bildungswissenschaftliche Forschung [@fitzgerald2022; @lortie2021]
+:::
 
 ::: notes
 - hier Beispiele mitgebracht
@@ -397,19 +413,12 @@ __Visuelle Aufbereitungen__
 <!-- obwohl häufig fehlinterpretiert von wissenschaftlichen Laien aber auch Expert:innen
 --> 
 
-  - aber vor allem Effektstärken, standardisierte Effektstärken, wie Hedges g (ähnlich wie Cohen's d), intuitivere Effsizes Cohen's U3 visuell oder textlich, übersetzte (translated) Effektstärken Month of Progress oder Percentil Gain
-  - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses ausagen zu können, da Sie z.B. hier über die Grüße von Unterschieden zwischen zwei Gruppen informieren
-- aber Sie sehen schon, ganz unterschiedliche Ansätze und man fragt sich wie Lehrpersonen  Zielgruppe der WK sind, die Frage, wie Lehrpersonen solche statistischen Ergebnisse rezipieren
+  - aber vor allem Effektstärken, standardisierte Effektstärken, wie Hedges g (ähnlich wie Cohen's d), intuitivere Effsizes Cohen's U3 visuell oder textlich, übersetzte (translated) Effektstärken Month of Progress 
+  - Effektstärken bieten Grundlage etwas über die praktische Relevanz des Ergebnisses aussagen zu können, da Sie z.B. hier über die Größe von Unterschieden zwischen zwei Gruppen informieren
+- sind diese unterschiedlichen Darstellungen tatsächlich nutzerfreundlich? Wie rezipeiren Lehrpersonen  Zielgruppe der WK sind, solche statistischen Ergebnisse? 
 
 :::
 
----
-
-### Forschungsstand: statistische Kommunikation
-
-* interdisziplinäres Forschungsfeld
-  + kaum 
-* eklektischer Forschungsstand
 
 ::: notes
 
@@ -483,7 +492,7 @@ Können die Interpretationen von Lehrpersonen in verschiedene Interpretationspro
 ::: {style="margin-top: 5px;"}
 <center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br> reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
 :::
@@ -657,6 +666,34 @@ Inwieweit interpretieren Lehrpersonen statistische Beschreibungen in Pressemitte
 
 :::
 
+## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
+
+<!-- 
+* statistische Signifikanz mit oder ohne Effektstärke und Cohen's *U<sub>3</sub>* informativer als andere statistische Beschreibungen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
+<center> ![Adaptiert von Schmidt et al. (2023)](img/study1_informativity_product_plot.png){width="50" .lightbox} </center>
+-->
+
+> __Forschungsfrage 1: Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?__
+
+<br>
+
+Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
+
+<center>
+![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="200" .lightbox} </center>
+
+
+::: notes
+
+- kommen wir zu den Ergebnissen zu FF1
+- Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  
+ - Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
+ - Effektstärken - Cohen's d - im Mittel eher als Effektstärke
+  - korrekte Interpretation würde so aussehen __Annotation__
+ - Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
+ - inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA abgesichert 
+ 
+:::
 
 ## Studie 1 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
@@ -672,7 +709,7 @@ Link zum publizierten Artikel: https://doi.org/10.1016/j.tate.2023.104134
 
 ::: notes
 
-- das war die Methode von Studie 1
+- das war Studie 1
 
 ::: 
 
@@ -706,7 +743,7 @@ Können die Interpretationen von Lehrpersonen in verschiedene Interpretationspro
 ::: {style="margin-top: 5px;"}
 <center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br> reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
 :::
@@ -824,6 +861,27 @@ ergänzend:
 :::
 
 
+## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
+
+> __Forschungsfrage 2: Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?__ 
+
+<br>
+
+Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschiedene Fehlinterpretationen zusammenfassen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
+
+<center>
+![](img/LatentProfiles.png){width=300 .lightbox} </center> 
+
+::: notes
+
+- mit Blick auf FF2
+- explorativ mittels latenten Profilanalysen festgestellt, dass es durchaus Lehrpersonen gibt, die im Durchschnitt Signifikanz oder U3 korrekt interpretieren 
+<!-- hier als Disentanglers bezeichnet und in der neon grünen Linie abgetragen -->, aber 2/3 der Lehrpersonen unterschiedliche Fehlkonzepte zeigen, die in verschiedene Interpretationsprofile zusammengefasst werden können
+<!-- hier als Entanglers bezeichnet jeweils 1/3 die bei Signifikanz oder U3 nicht zwischen Inferenzstatistik und Effektstärke unterscheiden -->
+ 
+:::
+
+
 ## Studie 2 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 ::: {style="margin-top: 50px; font-size: 1.2em;"}
@@ -837,7 +895,7 @@ Link zum Preprint, der im Review-Verfahren bei Learning & Instruction ist: XXX
 
 ::: notes
 
-nun thematischer Wechsel 
+das war Studie 2
 
 :::
 
@@ -872,7 +930,7 @@ Können die Interpretationen von Lehrpersonen in verschiedene Interpretationspro
 ::: {style="margin-top: 5px;"}
 <center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br> reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
 :::
@@ -892,7 +950,8 @@ Link zum akzeptierten Manuskript in der Zeitschrift für Psychologie:
 
 ::: notes
 
-- jetzt Fokus auf Effektstärkenvisualisierungen und die 3 FF inwieweit Anreicherungen in Visualisierungen Akkuratheit der Interpretationen steigern und Effektstärken-Fehlkonzepte reduzieren können
+- nun visuelle Aufbereitung von Effektstärken
+- 3 FF inwieweit Anreicherungen in Visualisierungen Akkuratheit der Interpretationen steigern und Effektstärken-Fehlkonzepte reduzieren können
 
 
 :::
@@ -1123,6 +1182,29 @@ zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei Fragen oper
 :::
 
 
+
+## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
+
+> __Forschungsfrage 3: Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?__
+
+<br>
+
+|  	| Akkuratheit|  Fehlkonzept 	|
+|-- |---	       |---	          |
+| Signaling U3 	| {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){width="100" .lightbox} <br> ![](img/study3_plot_diff_u3.png){width="100" .lightbox} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){width="120" .lightbox} |
+
+::: notes
+
+- alle abgetragenen Ergebnisse basieren auf baysianischen Mehrebenenmodellen
+  + Waage bedeutet Evidenz für die Nullhypothese also keine Unterschiede zwischen Visualisierungen mit vs. ohne Anreicherung bei Akkuratheit
+  + interessant ist aber während es Lehrpersonen - über alle untersuchten Bedingungen auch in explortiver Studie hinweg - erstaunlich gut gelingt, die Effektgröße in der abstrakten Metrik einzuschätzen, sieht man hier, dass sich in allen Bedingungen, Werte um 0 tummeln, Differenzvariable aus wahrer und geschätzter Effektstärke
+  + Verzerrungen in der U3 Metrik ersichtlich, hier Bias, weil von Null abweichend (Ergebnisse ohne Personen mit U3 Fehlkonzpet)
+  
+<!-- ? inkonklusive Ergebnisse bei Informativität--> 
+
+- zudem:Signaling U3 reduziert U3 Fehlkonzepte deutlich
+
+:::
 ## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 
@@ -1166,7 +1248,7 @@ Können die Interpretationen von Lehrpersonen in verschiedene Interpretationspro
 ::: {style="margin-top: 5px;"}
 <center>__Studie 3__ {{< iconify fa6-solid chart-area >}} <br>![](img/Auszug_Studie_3.png){width=200}
 
-Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?
+Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br> reduzieren Sie das Vorhandensein von Fehlkonzepten?
 
 </center> 
 :::
@@ -1208,79 +1290,7 @@ und nun zum besonders spannenden Teil: den Ergebnissen
 --> 
 
 
-## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
 
-<!-- 
-* statistische Signifikanz mit oder ohne Effektstärke und Cohen's *U<sub>3</sub>* informativer als andere statistische Beschreibungen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
-<center> ![Adaptiert von Schmidt et al. (2023)](img/study1_informativity_product_plot.png){width="50" .lightbox} </center>
--->
-
-> __![](img/Auszug_Studie_1.png){width=150}Forschungsfrage 1: Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pressemitteilungen?__
-
-<br>
-
-Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
-
-<center>
-![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="200" .lightbox} </center>
-
-
-::: notes
-
-- kommen wir zu den Ergebnissen zu FF1 
-- Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  
- - Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
- - Effektstärken - Cohen's d - im Mittel eher als Effektstärke
-  - korrekte Interpretation würde so aussehen __Annotation__
- - Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
- - inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA abgesichert 
- 
-:::
-
-
-## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
-
-> __![](img/Auszug_Studie_2.png){width=150}Forschungsfrage 2: Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?__ 
-
-<br>
-
-Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschiedene Fehlinterpretationen zusammenfassen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
-
-<center>
-![](img/LatentProfiles.png){width=300 .lightbox} </center> 
-
-::: notes
-
-- mit Blick auf FF2
-- explorativ mittels latenten Profilanalysen festgestellt, dass es durchaus Lehrpersonen gibt, die im Durchschnitt Signifikanz oder U3 korrekt interpretieren 
-<!-- hier als Disentanglers bezeichnet und in der neon grünen Linie abgetragen -->, aber 2/3 der Lehrpersonen unterschiedliche Fehlkonzepte zeigen, die in verschiedene Interpretationsprofile zusammengefasst werden können
-<!-- hier als Entanglers bezeichnet jeweils 1/3 die bei Signifikanz oder U3 nicht zwischen Inferenzstatistik und Effektstärke unterscheiden -->
- 
-:::
-
-## Ergebnisse {{< iconify fa6-solid file-lines >}}  {.smaller}
-
-> __![](img/Auszug_Studie_3.png){width=150}Forschungsfrage 3: Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und reduzieren Sie das Vorhandensein von Fehlkonzepten?__
-
-<br>
-
-|  	| Akkuratheit|  Fehlkonzept 	|
-|-- |---	       |---	          |
-| Signaling U3 	| {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){width="100" .lightbox} <br> ![](img/study3_plot_diff_u3.png){width="100" .lightbox} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){width="120" .lightbox} |
-
-::: notes
-
-- Hier die Ergebnisse zu FF3
-- alle abgetragenen Ergebnisse basieren auf baysianischen Mehrebenenmodellen
-  + Waage bedeutet Evidenz für die Nullhypothese also keine Unterschiede zwischen Visualisierungen mit vs. ohne Anreicherung bei Akkuratheit
-  + interessant ist aber während es Lehrpersonen - über alle untersuchten Bedingungen auch in explortiver Studie hinweg - erstaunlich gut gelingt, die Effektgröße in der abstrakten Metrik einzuschätzen, sieht man hier, dass sich in allen Bedingungen, Werte um 0 tummeln, Differenzvariable aus wahrer und geschätzter Effektstärke
-  + Verzerrungen in der U3 Metrik ersichtlich, hier Bias, weil von Null abweichend (Ergebnisse ohne Personen mit U3 Fehlkonzpet)
-  
-<!-- ? inkonklusive Ergebnisse bei Informativität--> 
-
-- zudem:Signaling U3 reduziert U3 Fehlkonzepte deutlich
-
-:::
 
 <!-- 
 __weiteres Ergebnis:__ 
@@ -1336,6 +1346,7 @@ __weiteres Ergebnis:__
 
 __langsamer!__
 
+- zusammenfassend
 ::: 
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
