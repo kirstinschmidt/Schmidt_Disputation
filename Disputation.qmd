@@ -2,14 +2,14 @@
 title: "Teachers' Engagement With Educational Science"
 subtitle: "How to Communicate Findings From Educational Science in a User-Friendly Way to Teachers"
 author: Disputationsvortrag von Kirstin Schmidt
-footer: "Kirstin Schmidt | <br> Pädagogische Hochschule Karlsruhe"
+footer: "Kirstin Schmidt | Pädagogische Hochschule Karlsruhe"
 institute: Institut für Schul- und Unterrichtsentwicklung
 logo: img/PH_logo.png
 picture: img/KA.jpeg
 date: today
 lang: de
-date-format: "[Dienstag den] 23. Juli, 2024"
-embed-resources: false
+date-format: "[Dienstag, den] 23. Juli, 2024"
+embed-resources: true
 format: rlille-revealjs
 lightbox: true
 bibliography: references.bib
@@ -76,95 +76,113 @@ border: none !important;
 ::: 
 
 
-## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
+## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.smaller}
 
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.fragment}
-Auszüge aus Originalstudien [@braten2015; @adesope2017]:
-
-![](img/Paper_Retrieval practice.png){.lightbox width=400}
-
-![](img/Paper_Beliefs in sources.png){.lightbox width=400}
-
-:::
-
-:::
-
-
-::: {.column width="50%"}
-
-::: {.fragment}
-Ausschnitt eines Zeitungsartikels [@michler2014]: 
-
-![](img/Welt_PISA.png){.lightbox width=400}
-
-
-Ausschnitt einer Pressemitteilung [@rijkhoek2019]:
-
-![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=400}
-:::
-
-:::
-
-:::: 
-
-
- 
-::: {.fragment}
-
-<center> Auszug aus einem Podcast [@wisniewski2023]:
-
-![](img/Podcast_CLT.png){.lightbox width=400}
-
-
-Ausschnitt einer Clearinghouse-Zusammenfassung [@knogler2017]:
-
-![](img/CHU_Forschendes Lernen.png){.lightbox width=400}
-
-</center>
-
-:::
+Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=300}<br>[@adesope2017]
 
 ::: notes
 
 - Wenn wir im Haus uns über bildungswissenschaftliche Erkenntnisse informieren, lesen wir vor allem wissenschaftliche Originalpublikationen
 
+:::
+
+
+## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.smaller}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]
+
+:::
+
+::: {.column width="70%"}
+
+|                     |
+|-------------------------------|
+|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=250}<br> [@michler2014] |
+| Pressemitteilungen <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=250}<br>[@rijkhoek2019] | 
+:::
+
+::::
+
+
+::: notes
 -	Aber auch in den Medien z.B. in Zeitungsartikel oder in Pressemitteilungen wird über bildungswissenschaftliche Forschungsergebnisse informiert
+
+:::
+
+
+## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]
+
+:::
+
+::: {.column width="70%"}
+
+|                     | |
+|-------------------------------|--------------------------------|
+|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=150}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=300}<br>[@wisniewski2023]| 
+Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=150}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=170}<br> [@knogler2017]|
+:::
+
+::::
+
+::: notes
+
 -	Oder in Formaten, die gezielt Lehrpersonen adresseren
   + Podcasts 
   + Clearinghouses fassen bildungswissenschaftliche Forschungsergebnisse explizit für Lehrpersonen zusammen
 
   
+::: 
+
+## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]
+
+:::
+
+::: {.column width="70%"}
+
+|                     | |
+|-------------------------------|--------------------------------|
+|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=150}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=150}<br>[@wisniewski2023]| 
+Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=150}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=140}<br> [@knogler2017]|
+:::
+
+::::
+
+
+::: notes
+
 - Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern BiWi wird versucht für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich zu machen
 
 - Warum aber explizit für Lehrpersonen? Wie sie vermutlich alle wissen, Lehrpersonen sind formal z.B. in DE durch die KMK-Kompetenzen dazu angehalten solche Ergebnisse der Bildungsforschung in ihrem professionellen Handeln zu berücksichtigen 
 - kann beispielsweise kognitionspsychologisch begründet werden
   + Forschungsergebnisse systematisch gewonnen
   + weniger durch kognitive Verzerrungen beeinflusst, wie z.B. die eigenen Überzeugungen und daher objektivere Informationen als z.B. eigene Erfahrungen
-  + sodass die Nutzung Potenziale für eine effektivere Schulpraxis birgt
+  + erste empirische Belege, dass Evidenz
+    + Professionalisierung von Lehrpersonen stärken
+    + Unterrichts- und Schulqualität
+    + letztlich Schüler:innenleistung steigern kann
   
-- dabei können die vielfältigen Forschungsergebnisse ganz unterschiedlich genutzt werden
+- dabei können die Forschungsergebnisse ganz unterschiedlich genutzt werden
   + Forschungsergebnisse können genutzt werden um 
-    + die eigene Unterrichtspraxis effektiver zu gestalten, z.B. bisherige Praktiken, die empirisch nicht haltbar sind anzupassen z.B. nicht mehr Lernmaterialien für bestimmte Lerntypen aufbereiten
-    + um Unterrichtspraxis zu innovieren z.B. Forschendes Lernen in den eigenen Unterricht integriert
-	+ weniger komplex Nutzung, ggf. weglassen z.B. Forschungsergebnisse nutzen, um Entscheidungen bezüglich Sitzordnung zu treffen
-	+ kurze Ratschläge / Tipps den Schüler:innen mitgeben z.B. wie Sie am besten Vokabeln lernen
-
-
-::: 
-
-
-## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
-
-
-|                     | | |
-|-------------------------------|--------------------------------|---|
-|Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=150}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=150}<br>[@wisniewski2023]| 
-<br> <br>![](img/Paper_Beliefs in sources.png){.lightbox width=150}<br>[@braten2015]| Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=150}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=140}<br> [@knogler2017]|
+    + Unterrichtspraxis zu innovieren z.B. Forschendes Lernen in den eigenen Unterricht integriert
+	+ weniger komplex Nutzung,kurze Ratschläge / Tipps den Schüler:innen mitgeben z.B. wie Sie am besten Vokabeln lernen
+	
+:::
 
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} 
@@ -172,41 +190,22 @@ Ausschnitt einer Clearinghouse-Zusammenfassung [@knogler2017]:
 
 ::: notes
 
-- das Ganze wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert -  beispielsweise unter dem Begriff der evidenzinformierter Praxis 
-- auf den ich mich jetzt beziehen möchte
+- der Einbezug wissenschaftlicher Evidenz und Theorien wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert -  beispielsweise unter dem Begriff der evidenzinformierter Praxis 
 
+- welche Schritte müssen Lehrpersonen durchlaufen, damit sich die dargestellten Potenziale entfalten?
 :::
 
 
-## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
-
-
-::: {.fragment}
-* Wissenschaftliche Evidenz und Theorien im professionellen Handeln berücksichtigen [z.B. @bauer2015; @bauer2023; @stark2017; @nelson2017; @ferguson2021; @rochnia2020]  <br>
-<center>
-![](img/Rochnia et al_evidenzinformierte-Praxis.png){.lightbox width=90} <br> 
-
-</center> 
-:::
-
-
-::: {.fragment} 
-&rarr; Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung [z.B. @bell2010; @double2020; @filderman2018; @coldwell2017; @kennedy2017]
-
-:::
-
-::: {.fragment}
-* Idealisierter Ablauf evidenzinformierter Schulpraxis (EISP)<br>
+## Ablauf evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){.lightbox width=190} <br>
+![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){.lightbox width=800} <br>
 </center>
-
-:::
 
 
 ::: notes
 
+<!--
 - evidenzinformierte Schulpraxis meint, dass wissenschaftliche Evidenz und Theorien beim professionellen Handeln berücksichtigt wird
   +	indem, und das sieht man hier sehr schön, Evidenz eine Infoquelle ist, die vor dem Hintergrund der eigenen Erfahrungen und des Kontextes reflektiert wird, bevor sie Einklang in die Praxis findet
   +	also keine alleinige Informationsquelle, die ohne weiteres – in einem eher technischen Sinne - in der Praxis angewandt werden kann
@@ -215,13 +214,17 @@ Ausschnitt einer Clearinghouse-Zusammenfassung [@knogler2017]:
   + Unterrichts- und Schulqualität
   + letztlich Schüler:innenleistung steigern kann
 
-- welche Schritte müssen Lehrpersonen durchlaufen, um Potenziale zu entfalten?
+-->
+
+
 -	angelehnt an das Prozessmodell von Groß Ophoff währen es fünf Schritte bzw. Phasen die benötigt werden
   - umfasst EIP fünf Phasen
     + konzeptuelle Phase, in der ein Anlass formuliert wird
     + Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert und ausgewählt 
     + Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse gelesen, verstanden und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
-    + Anwendungsphase: wird das Wissen in die Praxis transferiert und kann auf unterschiedliche Art und Weise genutzt werden - direkt wie in den Eingangsbeispielen oder eher indirekt um z.B. Verständnis über Lehr-Lernmethoden zu schärfen
+    + Anwendungsphase: wird das Wissen in die Praxis transferiert und kann auf unterschiedliche Art und Weise genutzt werden
+    
+    <!-- - direkt wie in den Eingangsbeispielen oder eher indirekt um z.B. Verständnis über Lehr-Lernmethoden zu schärfen --> 
     + Phase 5 idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass erfüllt wurde
 
 
@@ -235,20 +238,21 @@ ergänzend:
 ::: 
 
 
-## Barrieren EISP {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
+## Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
 
-> Theoretische Forderung EISP [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} praktische Umsetzung durch Lehrpersonen [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
+* Theoretische Forderung evidenzinformierter Schulpraxis [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} praktische Umsetzung durch Lehrpersonen [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
 
 ::: {.incremental}
-* Vielfältige Faktoren, die die Realisierung EISP erschweren bzw. begünstigen &rarr; aktuell vor allem als Barrieren ausgeprägt [@schaik2018; @dagenais2012; @hemsley-brown2003; @schmidt2024] 
+* Vielfältige Barrieren, die die Realisierung evidenzinformierter Praxis erschweren bzw. hemmen [@schaik2018; @dagenais2012; @hemsley-brown2003; @schmidt2024] 
 
 <!-- @thomm2021a; @thomm2021b; @voss2022; @schaik2019; @katwijk2019; @reuter2023; @menz2021; @kallitsoglou2023; @joram2020; @gold2023; @futterleib2022; @brants2023; @nägel2023; @rycroft-smith2022b; @seifried2024; @schmidt2022; @pegram2022; @cain2019b; @ahmed2019; @galindo-dominguez2022; @olmos-rueda2023 --> 
 
-* ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=400} 
+:::
 
-* verschiedene Ansätze um Lehrpersonen Barrieren entgegenzuwirken
-  + Ausstattung der (angehenden) Lehrpersonen [z.B. @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @böttcher-oschmann2021; @reuter2023]
-  + Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]
+::: {.fragment}
+
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){.lightbox width=400} </center>
+
   
 :::
 
@@ -257,18 +261,52 @@ ergänzend:
 
 - allerdings wird immer wieder auf eine Kluft zwischen dieser theoretischen Forderung und der tatsächlichen Praxis hingewiesen
 - Lehrpersonen greifen kaum auf Evidenz zurück
-- vielzählige Faktoren, die den Prozess beeinflussen
+- vielzählige Faktoren, die Barrieren darstellen und den Prozess erschweren oder sogar hemmen 
+<!-- 
 - je nach Ausprägung, stellt jeweiliger Faktor Gelingensbedingung oder Barriere dar
-- wie Kluft vermuten lässt, Faktoren bilden mehrheitlich aber Barrieren
+- wie Kluft vermuten lässt, Faktoren bilden mehrheitlich aber Barrieren--> 
+- Barrieren __Ebenen zeigen__
   + können in unterschiedliche Ebenen kategorisiert werden 
-  + kommen in unterschiedlichen Phasen des Prozesses zum Tragen kommen
+  
+<!--  + kommen in unterschiedlichen Phasen des Prozesses zum Tragen kommen -->
     + Charakteristika der
-      + Kommunikation: Kooperation zwischen Praktiker:innen und Wissenschaftler:innen eher übergreifend z.B. Research Practice Partnerships existieren kaum -> wenn ausgeprägt, kann es in allen Phasen unterstützend wirken
-      + Schule z.B. fehlende Organisationstrukturen keine extra Strukturen geschaffen für die Beschäftigung mit Evidenz -> Konzeptuelle Phase gar nicht erst ausgelöst
-      + der Lehrpersonen, z.B. fehlendes methodische Wissen 
-      + der Forschung/des Forschungswissen z.B. wissenschaftliche Evidenz an sich komplex und häufig viele Fachbegriffe z.B. statistische Informationen
+      + Kommunikation: Kooperation zwischen Praktiker:innen und Wissenschaftler:innen z.B. Research Practice Partnerships existieren kaum 
+      
+    <!--wenn ausgeprägt, kann es in allen Phasen unterstützend wirken--> 
+    
+      + Schule z.B. fehlende Organisationstrukturen keine extra Strukturen geschaffen für die Beschäftigung mit Evidenz
+      
+<!-- Konzeptuelle Phase gar nicht erst ausgelöst --> 
+
+      + der Lehrpersonen, z.B. fehlendes methodische Wissen  
+<!--  erschwerter Anwendungsphase -->
+
+      + der Forschung/des Forschungswissen z.B. wissenschaftliche Evidenz an sich komplex und häufig viele Fachbegriffe z.B. statistische Informationen 
+
+<!-- erschwerte Schlussfolgerungsphase -->
       
       
+
+::: 
+
+
+
+
+## Umgang mit Barrieren in evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}} 
+
+<br>
+
+__Verschiedene Ansätze__
+
+::: {.incremental}
+- Ausstattung der (angehenden) Lehrpersonen [z.B. @böttcher-oschmann2021; @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @reuter2023]
+
+- Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]
+:::
+
+
+::: notes
+
 - in der Literatur finden sich unterschiedliche Ansätze in den einzelnen Ebenen, um Lehrpersonen EISP zu erleichtern
 - Ansätze können auch anders eingeteilt werden und zwar in zwei Möglichkeiten
 	+ Lehrpersonen mit entsprechenden Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, ausstatten
@@ -277,59 +315,22 @@ ergänzend:
 	  + Evidenz nutzerfreundlich aufbereiten, sodass sie verständlicher ist, aber dennoch akkurat im wissenschaftlichen Sinne, und für die Praxis relevant erscheint -> Schlussfolgerungsphase 
 	  + praktische Implikationen -> Anwendungsphase
     + aber noch wenig Kenntnisse darüber, ob diese wirklich nutzerfreundlich sind 
-
-
-
-::: 
-
-
-
-
-
-
-
-
-::: notes
-
-- wie hier dargestellt
-
-- dieses Beispiel verdeutlicht, die Bedeutsamkeit dieser Phase im Prozess
-  + Lerngruppen
-- Schlussfolgerungsphase eine notwendige Bedingung, um evidenzinformiertes Wissen in die Praxis zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
-  + zwar eine notwendige, aber nicht hinreichende Bedingung, denn Barrieren können beispielsweise auch in der folgenden Phase auftreten
-+ aber um überhaupt die nächste Phase zu aktivieren, oder die Möglichkeit zu bieten, diese adäquat umzusetzen, die Schlussfolgerungsphase zentral
-- daher Fokus hierauf
-
-
-
-:::
-
-
-## EISP {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
-
-<center> ![](img/Dominosteine_misslingend.png){width=300} </center>
-
-&rarr; misslingende Schlussfolgerungsphase verhindert (adäquate) Anwendungsphase {{< iconify bi:exclamation-triangle-fill >}} [z.B. @lortie2021]
-
-<br>
-
-
-
-__verschiedene Ansätze um Lehrpersonen gelingende EISP ![](img/Dominosteine_liegend.png){width=100} zu erleichtern__
-
-
-* Ausstattung der (angehenden) Lehrpersonen [z.B. @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @böttcher-oschmann2021; @reuter2023]
-* __Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]__
-
-
-::: notes
-
+    
 - letzteren Ansatz
   + immer mehr WK-Formate
   + aber wenig Forschung wie Lehrpersonen diese rezipieren
   + ressourcensparender als z.B. RP Partnerships hinsichtlich Zeit aber auch Anforderungen an Lehrpersonen
   
 :::
+
+## Umgang mit Barrieren in evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
+<br>
+
+__Verschiedene Ansätze__
+
+- Ausstattung der (angehenden) Lehrpersonen [z.B. @böttcher-oschmann2021; @schaik2019; @coldwell2017; @rochnia2022; @krause-wichmann2023; @reuter2023]
+
+- __Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]__
 
 # Wissenschafts- <br> kommunikation {{< iconify fa-solid:comments >}} 
 
@@ -342,15 +343,28 @@ __verschiedene Ansätze um Lehrpersonen gelingende EISP ![](img/Dominosteine_lie
 
 ## Wissenschafts- <br> kommunikationsformate {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
 
-|                     | | |
-|-------------------------------|--------------------------------|---|
-|Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=150}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=150}<br>[@wisniewski2023]| 
-<br> <br>![](img/Paper_Beliefs in sources.png){.lightbox width=150}<br>[@braten2015]| Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=150}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=140}<br> [@knogler2017]|
+:::: {.columns}
 
+::: {.column width="30%"}
+
+Originalstudien <br>![](img/Paper_Retrieval practice.png){.lightbox width=150}<br>[@adesope2017]
+
+:::
+
+::: {.column width="70%"}
+
+|                     | |
+|-------------------------------|--------------------------------|
+|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=150}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=150}<br>[@wisniewski2023]| 
+Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=150}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=140}<br> [@knogler2017]|
+:::
+
+::::
 
 ::: notes
 - wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen
-- nun v.a. auf CHs beispielhaft eingehen, …
+- nun auf CHs beispielhaft eingehen, da explizit für Praktiker:innen qualitativ hochwertige Forschung zusammenfassen
+-	und im wissenschaftlich Diskurs immer prominenter werden
 :::
 
 
@@ -366,22 +380,26 @@ __verschiedene Ansätze um Lehrpersonen gelingende EISP ![](img/Dominosteine_lie
 
 
 ::: notes 
--	…da explizit für Praktiker:innen qualitativ hochwertige Forschung zusammenfassen
--	und im wissenschaftlich Diskurs immer prominenter werden
--	Vorreiter: WWC
--	vermutlich bekanntestes CH in DE: CHU
+
+-	verschiedene Beispiele; vermutlich bekanntestes CH in DE: CHU
 -	sogenante knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities – Praktiker:innen und Wissenschaft– zu vermitteln
-  + Forschungsstudien, werden mithilfe von Kriterien beurteilt und die Studien, die als qualitativ hochwertig und praktisch relevant eingestuft wurden, themenspezifisch für Lehrpersonen zusammengefasst
--	gemein quantitative Studien, aber je nach CH werden unterschiedliche Studienarten z.B. Meta-Analysen – CHU – oder Einzelstudien – WWC – zusammengefasst
--	nicht nur unterschiedliche Studienarten werden gewählt, sondern auch die statistischen Ergebnisse werden unterschiedlich aufbereitet werden
+-	unterscheiden sich in bestimmten Aspekten, aber haben gemein quantitative Studien mithilfe von Kriterien zu beurteilt und die Studien, die als qualitativ hochwertig und praktisch relevant eingestuft wurden, themenspezifisch für Lehrpersonen zusammenzufassen
+- schaut man sich die Zusammenfassungen näher an, zeigt sich, dass die statistische Ergebnisse ganz unterschiedlich aufbereitet werden
 
 
 :::
 
 
-## Statistische Kommunikation: Ergebnisaufbereitung in CHs {{< iconify fa-solid:comments >}} {.smaller}
+## Statistische Kommunikation: Ergebnisaufbereitung in Clearing Houses {{< iconify fa-solid:comments >}} {.smaller}
 
 
+
+|  |Textliche Aufbereitung|Visuelle Aufbereitungen|
+|-----------------|--------------|--------------|
+|Inferenzstatistik| ![](img/CHU_sig.png){.lightbox width=220}| |
+|Effektstärken| ![](img/CHU_d_U3.png){.lightbox width=220} ![](img/Toolkit_mop.png){.lightbox width=220}| ![](img/Tüdibase_U3_vis.png){.lightbox width=300}![](img/WWC_pg_vis.png){.lightbox width=240}|
+
+<!--
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -409,11 +427,16 @@ Visuelle Aufbereitungen
 :::
 
 ::::
+
+--> 
+
 [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
 
 ::: notes
 
 - Bspe. mitgebracht, anhand derer direkt zu erkennen sind, dass primär textliche, aber auch visuelle Aufbereitungsformate genutzt werden
+- Effektstärken
+- textlich aber auch Signifikanz
   + Statistische Signifikanz, also Informationen darüber, wie sicher ein Unterschied / Effekt ist
   + Aber vor allem Effektstärken, 
   + Statistische Informationen, die über die Größe z.B. eines Unterschieds zwischen zwei Gruppen informieren und die Grundlage dafür bilden, praktische Relevanz aus den Ergebnissen abzuleiten
@@ -422,33 +445,34 @@ Visuelle Aufbereitungen
     + Cohen’s U3 in Prozent, auch visuell auf bereitet,
     + und übersetzte Effektstärken in bspw. Month of Progress
     
-- Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen, stellt sich die Frage, ob diese Aufbereitungen nutzerfreundlicher sind
+- Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen, stellt sich die Frage, ob diese Aufbereitungen tatsächlich verstanden werden
+- was passiert wenn diese nicht korrekt rezipiert wird?
 
 :::
 
-## EISP {{< iconify fluent-mdl2:processing >}} {.smaller}
+## Forschungsdesiderat
+
+&rarr; misslingende Schlussfolgerungsphase verhindert (adäquate) Anwendungsphase {{< iconify bi:exclamation-triangle-fill >}} [z.B. @lortie2021]
 
 <center> ![](img/Dominosteine_stehend.png){width=300} </center>
 
 
 ::: notes
 
-- Stellen wir uns diesen Prozess einmal als Dominosteine vor
-- Barrieren können dazu führen, dass eine bestimmte Phase nicht oder nicht adäqut durchlaufen werden kann
-- in dieser Dominoreihe würde das bedeuten, dass der entsprechende Dominostein nicht umfällt
-
-- bleiben wir bei dem letzten Bespiel für eine Barriere wissenschaftliche Evidenz häufig komplex und schwer verständlich 
-  + Barriere kommt dabei in der 3. Phase - der Schlussfolgerungsphase - zum Tragen kommen 
-  + Lehrpersonen Schwierigkeiten diese Informationen zu verstehen
-  + wenn diese Barriere zum Tragen kommt, z.B. eigentlich praktisch relevante Forschungsergebnisse unterschätzt und daher als nicht praktisch relevant eingestuft werden, werden diese nicht in die Praxis transferiert und der Prozess stoppt mit der Schlussfolgerungsphase ... 
+- Stellen wir uns folgendes vor: 
+  + CHU Artikel zeigt moderaten Effekt für Forschendes Lernen, sinnvoll einzusetzen, da auch wenig aufwendig
+  + Lehrperson liest den Artikel unterschätzt aber den Effekt von XX
+  + wenn wir jetzt an den Prozess denken, schlussfolgert sie, dass die Ergebnisse nicht praktisch relevant sind
+  + dieses Wissen führt dann dazu, dass der Prozess nach der Schlussfolgerungsphase gestoppt wird und die Forschungsergebnisse nicht in die Praxis transferiert werden
+  + Schlussfolgerungsphase misslungen
+  + adäquate Interpretation statistischer Infos notwendige, aber nicht hinreichende Bedingung, um evidenzinformiertes Wissen in die Praxis zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
+  +  nicht hinreichende Bedingung, denn Barrieren können beispielsweise auch in der folgenden Phase auftreten
++ aber um überhaupt die nächste Phase zu aktivieren, oder die Möglichkeit zu bieten, diese adäquat umzusetzen, die Schlussfolgerungsphase zentral
+- daher Fokus hierauf
   
+-	trotz dieser Relevanz kaum Forschung in BiWi wie sie solche Informationen rezipieren
 :::
 
-## EISP {{< iconify fluent-mdl2:processing-cancel >}} {.smaller}
-
-<center> ![](img/Dominosteine_misslingend.png){width=300} </center>
-
-&rarr; misslingende Schlussfolgerungsphase verhindert (adäquate) Anwendungsphase {{< iconify bi:exclamation-triangle-fill >}} [z.B. @lortie2021]
 
 
 ## Statistische Kommunikation: Forschungsstand {{< iconify fa-solid:comments >}}
@@ -461,12 +485,13 @@ Visuelle Aufbereitungen
 
 
 ::: notes
--	Allerdings kaum Forschung in BiWi wie sie solche Informationen rezipieren
-  + aber erste Studien aus Psychologie, Informatik, Medizin, die vor allem in experimentellen Studien, wie wissenschaftliche Laien im allgemeinen statistische Informationen textbasiert und visuell aufbereitet verstehen und wahrnehmen z.B. wie akkurat oder wie informativ sie diese wahrnehmen
+- aber erste Studien aus Psychologie, Informatik, Medizin, 
+  + die vor allem in experimentellen Studien, 
+  + wie wissenschaftliche Laien im allgemeinen statistische Informationen textbasiert und visuell aufbereitet verstehen und wahrnehmen z.B. wie akkurat oder wie informativ sie diese wahrnehmen
     + aber Forschungsstand sehr eklektisch z.B. U3 nie über mehrere Studien hinweg mit gleichen statistischen Infos verglichen, sondern z.B. mal mit MOP, mal mit Cohen’s d, was die Vergleichbarkeit der Studienergebnisse erschwert
 -	Zusammenfassend: 
   + unklar, wie Lehrpersonen diese statistischen Ergebnisse rezipieren
-  + anders formuliert: Aufbereitung nicht evidenzbasiert, wir wissen also nicht, ob diese Formate wirklich nutzerfreundlicher sind
+  + anders formuliert: Aufbereitung nicht evidenzbasiert, wir wissen also nicht, ob diese Formate wirklich nutzerfreundlicher - und dadurch u.a. leichter verständlich- sind
 -	Daher… 
 
 
@@ -477,9 +502,9 @@ Visuelle Aufbereitungen
 
 Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen kommunizieren, damit ...
 
-- *praktische Relevanz* (z.B. wahrgenommene Informativität) induziert wird,
-- statistischen Informationen *leichter verständlich* sind,
-- die  *kognitive Prozesse* von Lehrpersonen berücksichtigt werden.
+- **praktische Relevanz** (z.B. wahrgenommene Informativität) induziert wird,
+- statistischen Informationen **leichter verständlich** sind,
+- die  **kognitive Prozesse** von Lehrpersonen berücksichtigt werden.
 
 ::: notes
 
@@ -512,7 +537,7 @@ Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pres
 ::: {.column width="50%"}
 ::: {style="margin-top: 25px;"}
 
-<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.jpg){width=200}
 
 Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
 </center>
@@ -594,10 +619,10 @@ Publizierter Artikel in Teaching and Teacher Eduaction (https://doi.org/10.1016/
 ## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
 
 - __Interpretation als Inferenstatistik__<br>
-![](img/study1_item_iinf.png){width=300 .lightbox} 
+![](img/study1_item_iinf.png){width=850 .lightbox} 
 - __Interpretation als Effektstärke__ 
 <br>
-![](img/study1_item_ieff.png){width=300 .lightbox} 
+![](img/study1_item_ieff.png){width=850 .lightbox} 
 
 
 ::: notes
@@ -620,7 +645,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify
 :::
 
 <center>
-![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="200" .lightbox} </center>
+![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="600" .lightbox} </center>
 
 
 ::: notes
@@ -631,10 +656,13 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify
   + Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
   + korrekte Interpretation würde so aussehen __Annotation__
  - inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA abgesichert 
-- Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  
+- mit Blick auf die FF: Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  
+- bimodalität einführen
+- kommen wir zu Studie zwei
  
 :::
 
+<!--
 ## Studie 1 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 ::: {style="margin-top: 50px; font-size: 1.3em;"}
@@ -688,11 +716,13 @@ Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br>
 </center> 
 :::
 
+--> 
+
 ## Studie 2 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 
 ::: {style="margin-top: 50px; font-size: 1.2em;"}
-![](img/Auszug_Studie_2.png){width=700}
+![](img/Auszug_Studie_2.jpg){width=700}
 
 __Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?__
 :::
@@ -734,11 +764,12 @@ __Abhängige Variablen__
 
 
 ::: notes
-- Materialien aus Studie 1, jetzt aber nur Signifikanz und U3 Aussage
+- weil Reanalyseehrpersonen und Materialien aus Studie 1, jetzt aber nur Signifikanz und U3 Aussage
+<!--
 - folglich nur die entsprechenden Substichproben analysiert:
   + 138 Lehrpersonen aus Studie 1, denen in PM die die Signifikanz-Aussage
   + 124 Lehrpersonen denen die U3 Aussage präsentiert wurde
-
+--> 
 - aber die gleichen AVs wie in Studie 1
 
 
@@ -757,7 +788,7 @@ ergänzend:
 Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschiedene Fehlinterpretationen zusammenfassen [{{< iconify streamline:check-solid >}}]{style="color:#8cd000;"}
 
 <center>
-![](img/LatentProfiles.png){width=300 .lightbox} </center> 
+![](img/LatentProfiles.png){width=700 .lightbox} </center> 
 
 ::: notes
 
@@ -768,9 +799,11 @@ Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschied
   + aber Mehrheit der Lehrpersonen unterschiedliche Fehlkonzepte zeigen, die in verschiedene Interpretationsprofile zusammengefasst werden können, wie Sie an den anderen Ausprägungen erkennen 
     + ggf. weglassen: hier als Entanglers bezeichnet jeweils 1/3 die bei Signifikanz oder U3 nicht zwischen Inferenzstatistik und Effektstärke unterscheiden
  
+ 
+thematischer Bruch: jetzt Studie 3
 :::
 
-
+<!-- 
 ## Studie 2 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 ::: {style="margin-top: 50px; font-size: 1.2em;"}
@@ -823,6 +856,7 @@ Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und <br>
 
 </center> 
 :::
+--> 
 
 ## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
@@ -906,9 +940,9 @@ ergänzend:
 
 - __Akkuratheit__
   - Abstrakte Metrik  
-  ![](img/study3_item_am.png){width=300 .lightbox} 
+  ![](img/study3_item_am.png){width=500 .lightbox} 
   - Cohen's *U<sub>3</sub>* Metrik  
-  ![](img/study3_item_u3.png){width=300 .lightbox} 
+  ![](img/study3_item_u3.png){width=500 .lightbox} 
 
 - __Cohen's *U<sub>3</sub>* Fehlkonzept__: Median der *U<sub>3</sub>* Ratings einer Person < 21.2% (kleinster plausibler Wert, der *d* = −.8 entspricht)
 
@@ -967,6 +1001,9 @@ ergänzend:
 
 - Unterschiede in Operationalisierung: - über alle untersuchten Bedingungen auch in explortiver Studie hinweg - 
 :::
+
+<!-- 
+
 ## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 
@@ -979,6 +1016,8 @@ __Beeinflussen Anreicherungen in Visualisierungen die Akkuratheit positiv und re
 <br>
 
 Artikel in der Zeitschrift für Psychologie im Druck
+
+-->
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
 
@@ -999,7 +1038,7 @@ Wie interpretieren Lehrpersonen verschiedene statistische Beschreibungen in Pres
 ::: {.column width="50%"}
 ::: {style="margin-top: 25px;"}
 
-<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.png){width=200}
+<center>__Studie 2__ {{< iconify fa6-solid file-lines >}} <br> ![](img/Auszug_Studie_2.jpg){width=200}
 
 Können die Interpretationen von Lehrpersonen in verschiedene Interpretationsprofile zusammengefasst werden?
 </center>
@@ -1036,7 +1075,24 @@ __langsamer!__
 
 - zusammenfassend
 ::: 
+## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
+> Rezeption eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled  size=50px >}}
+
+::: {.fragment}
+
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){width=700 .lightbox}  
+
+</center>
+
+:::
+
+::: notes
+- abschließend nochmals hervorheben, dass die Rezeption von statistischen Informationen zwar notwendig, aber nicht hinreichend für den EIP Prozess ist
+  + in der Schlussfolgerungsphase weitere Faktoren relevant, die die Schlussfolgerung beeinflussen können z.B. Überzeugungen
+  + und insgesamt die Schlussfolgerungsphase nur ein kleines Puzzleteil / ein Dominostein eines komplexen Prozesses 
+
+:::
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
 > Gestaltung verständliche Wissenschaftskommunikation herausfordernd 
@@ -1078,24 +1134,7 @@ ergänzend:
 :::
 
 
-## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
-> Rezeption eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled  size=50px >}}
-
-::: {.fragment}
-
-<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){width=700 .lightbox}  
-
-</center>
-
-:::
-
-::: notes
-- abschließend nochmals hervorheben, dass die Rezeption von statistischen Informationen zwar notwendig, aber nicht hinreichend für den EIP Prozess ist
-  + in der Schlussfolgerungsphase weitere Faktoren relevant, die die Schlussfolgerung beeinflussen können z.B. Überzeugungen
-  + und insgesamt die Schlussfolgerungsphase nur ein kleines Puzzleteil / ein Dominostein eines komplexen Prozesses 
-
-:::
 
 # Vielen Dank für Ihre Aufmerksamkeit! {{< iconify streamline:happy-face >}}
 

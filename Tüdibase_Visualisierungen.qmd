@@ -439,7 +439,7 @@ plot_informativity
 ggsave("study3_plot_informativity.png",
       width = 9,
       height = 9,
-      dpi = 1200)
+      dpi = 400)
 ```
 
 
@@ -472,7 +472,7 @@ plot_diff_am
 ggsave("study3_plot_diff_am.png",
       width = 8,
       height = 8,
-      dpi = 1200)
+      dpi = 400)
 ```
 
 
@@ -504,7 +504,7 @@ plot_diff_u3
 ggsave("study3_plot_diff_u3.png",
       width = 8,
       height = 8,
-      dpi = 1200)
+      dpi = 400)
 ```
 
 ```{r}
@@ -535,5 +535,5 @@ plot_u3_misconceptions
 ggsave("study3_plot_u3_misconceptions.png",
       width = 8,
       height = 8,
-      dpi = 1200)
+      dpi = 400)
 ```

@@ -48,11 +48,11 @@ sign_profiles <- mplus_output_sig$parameters$unstandardized %>%
                 position = position_dodge(width = 0.2),
                 width = 0.2,
                 size = 1.1) +
-    geom_point(position = position_dodge(width = 0.2),
-             size = 2.5) +
     geom_line(position = position_dodge(width = 0.2),
             size = 1.1,
             aes(linetype=Profile, color = Profile)) +
+    geom_point(position = position_dodge(width = 0.2),
+             size = 2.5) +
     theme_ipsum_ps(axis_text_size = "10", ticks = TRUE)+
         theme(panel.background = element_blank(),
               axis.line = element_line(),
@@ -112,11 +112,11 @@ cou3_profiles <- mplus_output_cou3$parameters$unstandardized %>%
                 position = position_dodge(width = 0.2),
                 width = 0.2,
                 size = 1.1) +
-    geom_point(position = position_dodge(width = 0.2),
-             size = 2.5) +
     geom_line(position = position_dodge(width = 0.2),
             size = 1.1,
             aes(linetype=Profile, color = Profile)) +
+    geom_point(position = position_dodge(width = 0.2),
+             size = 2.5) +
     theme_ipsum_ps(axis_text_size = "10", ticks = TRUE)+
         theme(#panel.background = element_blank(),
               axis.line = element_line(),
@@ -160,6 +160,6 @@ combined_profiles <- cowplot::ggdraw() +
 
 combined_profiles
 
-ggsave("LatentProfiles.png", combined_profiles, bg='transparent', width = 8.5, height = 5, dpi = 500)
+ggsave("LatentProfiles.png", combined_profiles, bg='transparent', width = 8.5, height = 4, dpi = 400)
 
 ```
