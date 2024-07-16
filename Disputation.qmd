@@ -1,8 +1,8 @@
 ---
 title: "Teachers' Engagement With Educational Science"
 subtitle: "How to Communicate Findings From Educational Science in a User-Friendly Way to Teachers"
-author: Disputationsvortrag von Kirstin Schmidt
-footer: "Kirstin Schmidt | Pädagogische Hochschule Karlsruhe"
+author: Disputationsvortrag
+footer: "Kirstin Schmidt M.A. | Pädagogische Hochschule Karlsruhe"
 institute: Institut für Schul- und Unterrichtsentwicklung
 logo: img/PH_logo.png
 picture: img/KA.jpeg
@@ -43,7 +43,7 @@ title-slide-attributes:
 |-------------------------------------------:|:---------------------------------|
 | {{< iconify fa-solid:school >}}  | Evidenzinformierte Schulpraxis  |
 | {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation |
-| {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} | Eigene Forschungstätigkeiten <br> - Studie 1: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 2: Textbasierte Kommunikation Effektstärken und Inferenzstatistiken <br> - Studie 3: Visuelle Kommunikation von Effektstärken   |
+| {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} | Eigene Forschungstätigkeiten <br> - Studie 1: Textbasierte Kommunikation von Inferenzstatistiken und Effektstärken <br> - Studie 2: Textbasierte Kommunikation von Inferenzstatistiken und Effektstärken <br> - Studie 3: Visuelle Kommunikation von Effektstärken   |
 | {{< iconify bxs:directions >}} | Diskussion und Ausblick  |
 
 : {#tbl-agenda tbl-colwidths="[15,85]"}
@@ -168,7 +168,7 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 
 - Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern BiWi wird versucht für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich zu machen
 
-- Warum aber explizit für Lehrpersonen? Wie sie vermutlich alle wissen, Lehrpersonen sind formal z.B. in DE durch die KMK-Kompetenzen dazu angehalten solche Ergebnisse der Bildungsforschung in ihrem professionellen Handeln zu berücksichtigen 
+- Warum aber explizit für Lehrpersonen? Wie sie vermutlich alle wissen, Lehrpersonen sind formal dazu angehalten solche Ergebnisse der Bildungsforschung in ihrem professionellen Handeln zu berücksichtigen 
 - kann beispielsweise kognitionspsychologisch begründet werden
   + Forschungsergebnisse systematisch gewonnen
   + weniger durch kognitive Verzerrungen beeinflusst, wie z.B. die eigenen Überzeugungen und daher objektivere Informationen als z.B. eigene Erfahrungen
@@ -220,9 +220,9 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 -	angelehnt an das Prozessmodell von Groß Ophoff währen es fünf Schritte bzw. Phasen die benötigt werden
   - umfasst EIP fünf Phasen
     + konzeptuelle Phase, in der ein Anlass formuliert wird
-    + Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert und ausgewählt 
-    + Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse gelesen, verstanden und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
-    + Anwendungsphase: wird das Wissen in die Praxis transferiert und kann auf unterschiedliche Art und Weise genutzt werden
+    + Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert 
+    + Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse rezipiert und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
+    + Anwendungsphase: wird das Wissen in die Praxis transferiert 
     
     <!-- - direkt wie in den Eingangsbeispielen oder eher indirekt um z.B. Verständnis über Lehr-Lernmethoden zu schärfen --> 
     + Phase 5 idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass erfüllt wurde
@@ -267,23 +267,26 @@ ergänzend:
 - wie Kluft vermuten lässt, Faktoren bilden mehrheitlich aber Barrieren--> 
 - Barrieren __Ebenen zeigen__
   + können in unterschiedliche Ebenen kategorisiert werden 
+    + Kommunikation
+    + Schule
+    + individuelle Lehrperson
+    + Forschungsergebnis
+    + Beispiel: Forschungsergebnisse schwer verständlich durch viele Fachbegriffe
   
-<!--  + kommen in unterschiedlichen Phasen des Prozesses zum Tragen kommen -->
+<!--  + kommen in unterschiedlichen Phasen des Prozesses zum Tragen kommen
     + Charakteristika der
       + Kommunikation: Kooperation zwischen Praktiker:innen und Wissenschaftler:innen z.B. Research Practice Partnerships existieren kaum 
-      
-    <!--wenn ausgeprägt, kann es in allen Phasen unterstützend wirken--> 
+    -wenn ausgeprägt, kann es in allen Phasen unterstützend wirken--> 
     
       + Schule z.B. fehlende Organisationstrukturen keine extra Strukturen geschaffen für die Beschäftigung mit Evidenz
       
-<!-- Konzeptuelle Phase gar nicht erst ausgelöst --> 
+- Konzeptuelle Phase gar nicht erst ausgelöst 
 
       + der Lehrpersonen, z.B. fehlendes methodische Wissen  
-<!--  erschwerter Anwendungsphase -->
+ erschwerter Anwendungsphase
 
       + der Forschung/des Forschungswissen z.B. wissenschaftliche Evidenz an sich komplex und häufig viele Fachbegriffe z.B. statistische Informationen 
-
-<!-- erschwerte Schlussfolgerungsphase -->
+ erschwerte Schlussfolgerungsphase -->
       
       
 
@@ -308,18 +311,18 @@ __Verschiedene Ansätze__
 ::: notes
 
 - in der Literatur finden sich unterschiedliche Ansätze in den einzelnen Ebenen, um Lehrpersonen EISP zu erleichtern
-- Ansätze können auch anders eingeteilt werden und zwar in zwei Möglichkeiten
-	+ Lehrpersonen mit entsprechenden Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, ausstatten
+- verschiedenen Ebenen, aber auch 
+- zwei Ansätze zu unterschieden
+	+ Lehrpersonen mit entsprechenden Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, auszustatten
 	+ WK 
 	  + Zugänglichkeit steigern, um Gelingen der Zugriffsphase zu steigern
-	  + Evidenz nutzerfreundlich aufbereiten, sodass sie verständlicher ist, aber dennoch akkurat im wissenschaftlichen Sinne, und für die Praxis relevant erscheint -> Schlussfolgerungsphase 
-	  + praktische Implikationen -> Anwendungsphase
-    + aber noch wenig Kenntnisse darüber, ob diese wirklich nutzerfreundlich sind 
+	  + Evidenz verständlich sind
+
     
 - letzteren Ansatz
   + immer mehr WK-Formate
   + aber wenig Forschung wie Lehrpersonen diese rezipieren
-  + ressourcensparender als z.B. RP Partnerships hinsichtlich Zeit aber auch Anforderungen an Lehrpersonen
+  + ressourcensparender als z.B. RP Partnerships hinsichtlich Zeit 
   
 :::
 
@@ -336,7 +339,7 @@ __Verschiedene Ansätze__
 
 ::: notes
 
-- sehr breites, praktisches und wissenschaftliches, sowie interdisziplinäres Feld
+- sehr breites sowie interdisziplinäres Feld
 - direkt relativ eng auf mein Forschungsinteresse zugeschnitten
 
 :::
@@ -363,8 +366,7 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 
 ::: notes
 - wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen
-- nun auf CHs beispielhaft eingehen, da explizit für Praktiker:innen qualitativ hochwertige Forschung zusammenfassen
--	und im wissenschaftlich Diskurs immer prominenter werden
+- nun auf CHs beispielhaft eingehen, da im wissenschaftlich Diskurs immer prominenter werden
 :::
 
 
@@ -383,7 +385,7 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 
 -	verschiedene Beispiele; vermutlich bekanntestes CH in DE: CHU
 -	sogenante knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities – Praktiker:innen und Wissenschaft– zu vermitteln
--	unterscheiden sich in bestimmten Aspekten, aber haben gemein quantitative Studien mithilfe von Kriterien zu beurteilt und die Studien, die als qualitativ hochwertig und praktisch relevant eingestuft wurden, themenspezifisch für Lehrpersonen zusammenzufassen
+-	unterscheiden sich in bestimmten Aspekten, aber haben gemein qualitativ hochwertige quantitative Studien zusammenzufassen
 - schaut man sich die Zusammenfassungen näher an, zeigt sich, dass die statistische Ergebnisse ganz unterschiedlich aufbereitet werden
 
 
@@ -435,16 +437,9 @@ Visuelle Aufbereitungen
 ::: notes
 
 - Bspe. mitgebracht, anhand derer direkt zu erkennen sind, dass primär textliche, aber auch visuelle Aufbereitungsformate genutzt werden
-- Effektstärken
-- textlich aber auch Signifikanz
-  + Statistische Signifikanz, also Informationen darüber, wie sicher ein Unterschied / Effekt ist
-  + Aber vor allem Effektstärken, 
-  + Statistische Informationen, die über die Größe z.B. eines Unterschieds zwischen zwei Gruppen informieren und die Grundlage dafür bilden, praktische Relevanz aus den Ergebnissen abzuleiten
-    + z.B. standardisierte Effektstärke Hegdes g adjustiertes Cohen’s d
-    + aber auch der Theorie nach intuitivere Effektstärken
-    + Cohen’s U3 in Prozent, auch visuell auf bereitet,
-    + und übersetzte Effektstärken in bspw. Month of Progress
-    
+- und über Inferenzstatistiken und gängige wie Hedges g und als intuitiver angesehene Effektstärken Cohen's U3 durch Prozent informieren
+- bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt, um praktische Relevanz ableiten zu können
+
 - Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen, stellt sich die Frage, ob diese Aufbereitungen tatsächlich verstanden werden
 - was passiert wenn diese nicht korrekt rezipiert wird?
 
@@ -457,34 +452,23 @@ Visuelle Aufbereitungen
 <center> ![](img/Dominosteine_stehend.png){width=300} </center>
 
 
-::: notes
-
-- Stellen wir uns folgendes vor: 
-  + CHU Artikel zeigt moderaten Effekt für Forschendes Lernen, sinnvoll einzusetzen, da auch wenig aufwendig
-  + Lehrperson liest den Artikel unterschätzt aber den Effekt von XX
-  + wenn wir jetzt an den Prozess denken, schlussfolgert sie, dass die Ergebnisse nicht praktisch relevant sind
-  + dieses Wissen führt dann dazu, dass der Prozess nach der Schlussfolgerungsphase gestoppt wird und die Forschungsergebnisse nicht in die Praxis transferiert werden
-  + Schlussfolgerungsphase misslungen
-  + adäquate Interpretation statistischer Infos notwendige, aber nicht hinreichende Bedingung, um evidenzinformiertes Wissen in die Praxis zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
-  +  nicht hinreichende Bedingung, denn Barrieren können beispielsweise auch in der folgenden Phase auftreten
-+ aber um überhaupt die nächste Phase zu aktivieren, oder die Möglichkeit zu bieten, diese adäquat umzusetzen, die Schlussfolgerungsphase zentral
-- daher Fokus hierauf
-  
--	trotz dieser Relevanz kaum Forschung in BiWi wie sie solche Informationen rezipieren
-:::
-
-
-
-## Statistische Kommunikation: Forschungsstand {{< iconify fa-solid:comments >}}
-
-
+::: {.incremental}
 - Rezeption durch wissenschaftliche Laien = interdisziplinäres Forschungsfeld [z.B. @kim2022; @hanel2019b; @kale2021; @hanel2019a; @mcphetres2020; @kühberger2015; @sotos2009] ...
   + ... mit wenigen bildungswissenschaftlichen Studien [z.B. @fitzgerald2022; @lortie2021; @merk2023]
   + ... mit überwiegend experimentellen Studiendesigns, aber eklektischen Forschungserkenntnissen
 
-
-
+:::
 ::: notes
+
+- keine korrekte Interpretation - misslingende Schlussfolgerungsphase
+  + entweder falsches Wissen, woraus falsche Schlussfolgerungen abgeleitet werden 
+  + keine Schlussfolgerungsphase
+  + adäquate Interpretation statistischer Infos notwendige, aber nicht hinreichende Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
+  +  natürlich können Barrieren beispielsweise auch erst in der Anwednungsphase auftreten
+- daher Fokus hierauf
+  
+-	trotz dieser Relevanz kaum Forschung in BiWi wie sie solche Informationen rezipieren
+
 - aber erste Studien aus Psychologie, Informatik, Medizin, 
   + die vor allem in experimentellen Studien, 
   + wie wissenschaftliche Laien im allgemeinen statistische Informationen textbasiert und visuell aufbereitet verstehen und wahrnehmen z.B. wie akkurat oder wie informativ sie diese wahrnehmen
@@ -651,6 +635,8 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify
 ::: notes
 
 - kommen wir zu den Ergebnissen 
+- an der Visualisierung verdeutlichen
+- Der zentrale Punkt dieser Grafik ist zunächst wie Lehrpersonen imDurchschnitt die Beschreibungen als Inferenzstatistik udn Effektstärke interpretiern
  + Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
   + Effektstärken - Cohen's d - im Mittel eher als Effektstärke
   + Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
