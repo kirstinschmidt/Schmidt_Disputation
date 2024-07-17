@@ -164,7 +164,7 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 :::
 
 
-## Ablauf evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}} {.smaller}
+## Ablauf evidenzinformierter <br> Schulpraxis {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
 ![](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width=800} <br>
@@ -335,7 +335,7 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 :::
 
 
-## Clearinghouses {.smaller}
+## Clearinghouses {{< iconify ph:house-bold >}} {.smaller}
 
 
 |    |    |
@@ -357,7 +357,7 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 :::
 
 
-## Statistische Kommunikation: Ergebnisaufbereitung in Clearing Houses {{< iconify fa-solid:comments >}} {.smaller}
+## Statistische Kommunikation in Clearinghouses {{< iconify fa-solid:comments >}} {.smaller}
 
 <center>
 
@@ -387,7 +387,9 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 
 ::: {.fragment}
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){width=700}
+![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){.lightbox width=700}
+
+Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 ::: 
 
@@ -400,7 +402,7 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
 <center> 
-![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png){width=700}
+![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png){.lightbox width=700}
 <br>
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
@@ -415,8 +417,11 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){width=200}
-![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png){width=200} 
+![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){.lightbox width=200}
+![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png){.lightbox width=200} 
+
+Eigene Adaption des Prozessmodells nach @grossophoff2023
+
 </center> 
 
 ::: {.fragment}
@@ -737,7 +742,7 @@ kommen wir jetzt zur 3 Studie
 :::
 
 
-## Studie 3 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
+## Studie 3 {{< iconify fa6-solid chart-area >}} {auto-animate=true .smaller}
 
 
 ::: {style="margin-top: 50px; font-size: 1.2em;"}
@@ -852,7 +857,7 @@ zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei Fragen oper
 
 
 
-## Ergebnisse {{< iconify fa6-solid file-lines >}} {.smaller}
+## Ergebnisse {{< iconify fa6-solid chart-area >}} {.smaller}
 
 > __Forschungsfrage 3: Inwieweit steigern Anreicherungen in Visualisierungen die Akkuratheit der Interpretation?__
 
@@ -934,7 +939,7 @@ __langsamer!__
 
 ::: {.fragment}
 
-<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers.png){width=700 .lightbox} <br>
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers_black.png){width=700 .lightbox} <br>
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023 
 
@@ -954,7 +959,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ::: {.fragment}
 
-<center> ![](img/Modell_topdown-bottomup){width=950 .lightbox} <br>
+<center> ![](img/Modell_topdown_bottomup){width=950 .lightbox} <br>
 Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007 
 </center>
 :::
