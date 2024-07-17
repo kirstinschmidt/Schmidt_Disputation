@@ -166,7 +166,7 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 
 ::: notes
 
-- Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern BiWi wird versucht für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich zu machen
+- Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern wird auch für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich gemacht
 
 - Warum aber explizit für Lehrpersonen? Wie sie vermutlich alle wissen, Lehrpersonen sind formal dazu angehalten solche Ergebnisse der Bildungsforschung in ihrem professionellen Handeln zu berücksichtigen 
 - kann beispielsweise kognitionspsychologisch begründet werden
@@ -199,7 +199,7 @@ Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox 
 ## Ablauf evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_phase5.png){.lightbox width=800} <br>
+![](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width=800} <br>
 </center>
 
 
@@ -441,16 +441,45 @@ Visuelle Aufbereitungen
 - bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt, um praktische Relevanz ableiten zu können
 
 - Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen, stellt sich die Frage, ob diese Aufbereitungen tatsächlich verstanden werden
-- was passiert wenn diese nicht korrekt rezipiert wird?
+- warum ist diese Frage relevant im Kontext evidenzinformierter Praxis? 
+- nochmals an das Prozessmodell erinnern
+:::
+
+## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
+
+::: {.fragment}
+![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png)
+
+::: 
+
+::: notes
+
+- falsche Interpretation - misslingende Schlussfolgerungsphase
+  + entweder falsches Wissen, woraus falsche Schlussfolgerungen abgeleitet werden 
 
 :::
 
-## Forschungsdesiderat
+## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
-&rarr; misslingende Schlussfolgerungsphase verhindert (adäquate) Anwendungsphase {{< iconify bi:exclamation-triangle-fill >}} [z.B. @lortie2021]
+![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png)
 
-<center> ![](img/Dominosteine_stehend.png){width=300} </center>
+::: notes
 
+- keine Schlussfolgerungsphase
+- Prozess gestoppt, keine Anwendung der Evidenz
+
+:::
+
+## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
+
+<center>
+![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){width=200}
+![](img/Groß_Ophoff et al (2023)_adapted_gestoppt.png){width=200} 
+</center> 
+
+::: {.fragment}
+&rarr; Schlussfolgerungsphase/korrekte Interpretation notwendige, aber nicht hinreichende Bedingung für evidenzinformiertes Handeln {{< iconify bi:exclamation-triangle-fill >}} [vgl. @lortie2021]
+::: 
 
 ::: {.incremental}
 - Rezeption durch wissenschaftliche Laien = interdisziplinäres Forschungsfeld [z.B. @kim2022; @hanel2019b; @kale2021; @hanel2019a; @mcphetres2020; @kühberger2015; @sotos2009] ...
@@ -459,12 +488,8 @@ Visuelle Aufbereitungen
 
 :::
 ::: notes
-
-- keine korrekte Interpretation - misslingende Schlussfolgerungsphase
-  + entweder falsches Wissen, woraus falsche Schlussfolgerungen abgeleitet werden 
-  + keine Schlussfolgerungsphase
-  + adäquate Interpretation statistischer Infos notwendige, aber nicht hinreichende Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
-  +  natürlich können Barrieren beispielsweise auch erst in der Anwednungsphase auftreten
+- daher: korrekte Interpretation statistischer Infos eine notwendige, aber nicht hinreichende Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
+( +  natürlich können Barrieren beispielsweise auch erst in der Anwednungsphase auftreten)
 - daher Fokus hierauf
   
 -	trotz dieser Relevanz kaum Forschung in BiWi wie sie solche Informationen rezipieren
@@ -487,7 +512,7 @@ Visuelle Aufbereitungen
 Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen kommunizieren, damit ...
 
 - **praktische Relevanz** (z.B. wahrgenommene Informativität) induziert wird,
-- statistischen Informationen **leichter verständlich** sind,
+- [statistischen Informationen **leichter verständlich** sind,]{style="color:#8CD000;"} 
 - die  **kognitive Prozesse** von Lehrpersonen berücksichtigt werden.
 
 ::: notes
@@ -603,10 +628,10 @@ Publizierter Artikel in Teaching and Teacher Eduaction (https://doi.org/10.1016/
 ## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
 
 - __Interpretation als Inferenstatistik__<br>
-![](img/study1_item_iinf.png){width=850 .lightbox} 
+![](img/study1_item_iinf.png){width=750 .lightbox} 
 - __Interpretation als Effektstärke__ 
 <br>
-![](img/study1_item_ieff.png){width=850 .lightbox} 
+![](img/study1_item_ieff.png){width=750 .lightbox} 
 
 
 ::: notes
@@ -624,31 +649,71 @@ Publizierter Artikel in Teaching and Teacher Eduaction (https://doi.org/10.1016/
 
 <br>
 
-::: {.fragment}
 Keine Differenzierung zwischen Inferenzstatistik und Effektstärken [{{< iconify fa:flash >}}]{style="color:#96412D;"} 
-:::
+
 
 <center>
-![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="600" .lightbox} </center>
+![Adaptiert von Schmidt et al. (2023)](img/study1_interpretation_product_plot.png){width="400" .lightbox} </center>
 
 
 ::: notes
 
 - kommen wir zu den Ergebnissen 
-- an der Visualisierung verdeutlichen
-- Der zentrale Punkt dieser Grafik ist zunächst wie Lehrpersonen imDurchschnitt die Beschreibungen als Inferenzstatistik udn Effektstärke interpretiern
- + Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
-  + Effektstärken - Cohen's d - im Mittel eher als Effektstärke
-  + Mittelwerte liegen nah beieinander, obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
-  + korrekte Interpretation würde so aussehen __Annotation__
- - inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA abgesichert 
-- mit Blick auf die FF: Lehrpersonen differenzieren nicht zwischen Inferenzstatistik und Effektstärke  
-- bimodalität einführen
-- kommen wir zu Studie zwei
- 
+- mit Blick auf die FF herausfinden, dass Lehrpersonen nicht zwischen Inferenzstatistik und Effektstärke differenzieren
+- näher an der Visualisierung erläutern
+
+
 :::
 
+## {background-image="img/study1_interpretation_product_plot.png"}
+
+::: notes
+- ein zentrale Punkt, den diese Grafik verdeutlich ist, dass Lehrpersonen im Durchschnitt die Beschreibungen als Inferenzstatistik und Effektstärke interpretiern
+:::
+
+## {background-image="img/study1_interpretation_product_plot_interpretation.png"}
+
+
+::: notes
+- Inferenzstatistiken - statistische Signifikanz- im Mittel eher als Inferenzstatistik
+- Effektstärken - Cohen's d - im Mittel eher als Effektstärke
+ 
+- bei allen Beschreibungen liegen die Mittelwerte beider Interpretationen aber nah beieinander 
+:::
+
+## {background-image="img/study1_interpretation_product_plot_interpretation_alle.png"}
+
+::: notes
+
+obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
+
+:::
+
+## {background-image="img/study1_interpretation_product_plot_korrekt.png"}
+
+::: notes
+
+- korrekte Interpretation würde daher also so aussehen 
+
+- diese fehlende Differenzierung konnten wir inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA absichern
+
+:::
+
+## {background-image="img/study1_interpretation_product_plot_bimodal.png" width="900"}
+
+
+::: notes
+- in den Daten hat sich aber noch ein spannendes Ergebnis gezeigt
+- bei der statistischen Signifikanz-Aussage zeigt sich bei der Interpretation als Effektstärke eine bimodale Verteilung
+- gleiches gilt für Interpretation von Cohen's U3 als Inferenzstatistik
+- das lässt vermuten, dass es verschiedene Interpretationsgruppen unter Lehrpersonen gibt. Es gibt wohl eine Gruppe die z.B. angibt, dass Signifikant keine Aussage über die Größe eines Unterschieds macht, aber auch eine Gruppe, die sich sicher ist, dass sie über die Größe des Unterschieds informiert
+
+- Der Frage, ob es solche unterschiedlichen Interpretationsgruppen gibt, wollten ich näher auf den Grund gehen, was direkt zur 2 Studie überleitet kommen
+ 
+::: 
+
 <!--
+
 ## Studie 1 {{< iconify fa6-solid file-lines >}} {auto-animate=true .smaller}
 
 ::: {style="margin-top: 50px; font-size: 1.3em;"}
