@@ -8,7 +8,7 @@
 $font-family-sans-serif: 'Alegreya Sans', 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', sans-serif !default;
    
 // colors
-$body-bg: #F2F2F220 !default;
+$body-bg: #F2F2F2 !default;
 $body-color: #267326 !default;
 $link-color: $body-color !default;
 
@@ -49,8 +49,8 @@ p code:not(.sourceCode) {
 
 .reveal blockquote {
     font-style: italic !important;
-    color: #8cd000 !important;
-    border-left: .25rem solid #8cd000 !important;
+    color: #26732690 !important;
+    border-left: .25rem solid #26732690 !important;
 }
 
 
@@ -189,4 +189,10 @@ code.sourceCode > span {
   width: 100px !important;
   max-width: unset !important;
   max-height: unset !important;
+}
+
+.reveal table th, .reveal table td {
+    text-align: left;
+    padding: .2em .5em .2em .5em;
+    border-bottom: 0px solid; 
 }

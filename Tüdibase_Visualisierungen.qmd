@@ -461,10 +461,9 @@ plot_diff_am <- data_w  |>
     labs(title = "Akkuratheit (Abstrakte Metrik)",
          subtitle = "per Experimentalbedingung",
          caption = "Mittelwert ± 1*SD;   
-         BFsignaling/control = 0.04; 
-         BFbenchmark/control = 0.23
-         ") + 
-    xlab("Differenzvariable: Interpretation (in abstrakter Metrik)") +
+         BFsignaling/control = 0.04 
+         ") +  #BFbenchmark/control = 0.23
+    xlab("Differenz: geschätze Effektstärke (transformiert in Cohen's d) - wahre Effektstärke") +
     ylab("Experimetalbedingungen")
 
 plot_diff_am 
@@ -493,10 +492,9 @@ plot_diff_u3 <- data_w  |>
     labs(title = "Akkuratheit (Cohen's U3)",
          subtitle = "per Experimentalbedingung",
          caption = "Mittelwert ± 1*SD;  
-         BFsignaling/control = 0.03; 
-         BFbenchmark/control = 0.10
-         ") + 
-    xlab("Differenzvariable: Interpretationen (in Cohen's U3)") +
+         BFsignaling/control = 0.03
+         ") + #;BFbenchmark/control = 0.10
+    xlab("Differenz: geschätze Effektstärke (transformiert in Cohen's d) - wahre Effektstärke") +
     ylab("Experimetalbedingungen")
 
 plot_diff_u3 
