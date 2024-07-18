@@ -17,7 +17,7 @@ csl: apa.csl
 title-slide-attributes: 
   data-notes: 
   - liebe Prüfungsvorsitzende, Frau Schäfer-Koch, liebe Prüfer:innen, Samuel, Cora und Augustin, liebe Kolleg:innen und liebe Studierende
-  - freue mich, dass Sie heute so zahlreich erschienen  zu meinem Disputationsvortrag sind 
+  - freue mich, Ihnen heute mit diesem Disputationsvortrag Einblicke in meine Dissertation zu bieten
   - der Vortrag trägt den Titel Teachers' engagement with educational science how to communicate ... 
   - zusammengefasst geht es um die nutzerfreundliche Kommunikation BiWi Ergebnisse an Lehrpersonen
 
@@ -80,8 +80,8 @@ border: none !important;
 
 |                     |
 |-------------------------------|
-|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=250}<br>[@adesope2017] |
-|Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=250}<br>[@adesope2017]|
+|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=240}<br>[@adesope2017] |
+|Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=240}<br>[@adesope2017]|
 
 ::: notes
 
@@ -95,8 +95,8 @@ border: none !important;
 
 |                     |            |
 |-------------------------------|:------------------|
-|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017] |Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=250}<br> [@michler2014] |
-Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=250}<br>[@rijkhoek2019] | 
+|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017] |Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=240}<br> [@michler2014] |
+Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=240}<br>[@rijkhoek2019] | 
 
 
 
@@ -117,9 +117,8 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 
 ::: notes
 
--	Oder in Formaten, die gezielt Lehrpersonen adresseren
-  + Podcasts 
-  + Clearinghouses fassen bildungswissenschaftliche Forschungsergebnisse explizit für Lehrpersonen zusammen
+-	Oder in Formaten, die gezielt Lehrpersonen adressieren 
+- Podcasts und Clearinghouses fassen bildungswissenschaftliche Forschungsergebnisse explizit für Lehrpersonen zusammen
 
   
 ::: 
@@ -135,20 +134,22 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 
 ::: notes
 
-- Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern wird auch für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich gemacht
+- Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern wird für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich gemacht
 
-- Warum aber explizit für Lehrpersonen? Wie sie vermutlich alle wissen, Lehrpersonen sind formal z.B. in den KMK Kompetenzen in DE dazu angehalten solche Ergebnisse der Bildungsforschung in ihrem professionellen Handeln zu berücksichtigen 
+- Warum aber explizit für Lehrpersonen? 
+
+- Lehrpersonen sind formal z.B. in den KMK Kompetenzen in DE dazu angehalten solche Ergebnisse in ihrem professionellen Handeln zu berücksichtigen 
 - kann beispielsweise kognitionspsychologisch begründet werden
-  + Forschungsergebnisse systematisch gewonnen
-  + weniger durch kognitive Verzerrungen beeinflusst, wie z.B. die eigenen Überzeugungen und daher objektivere Informationen als z.B. eigene Erfahrungen
-  + erste empirische Belege, dass Evidenz
+  + Forschungsergebnisse z.B. im Vergleich zu eigenen Erfahrungen als objektivere Infos angesehen.
+  + Denn sie werden systematisch gewonnen und sind dadurch weniger von kognitive Verzerrungen beeinflusst 
+  + erste empirische Belege, dass das Berücksichtigen solcher Forschungsergebnisse
     + Professionalisierung von Lehrpersonen stärken
     + Unterrichts- und Schulqualität
     + letztlich Schüler:innenleistung steigern kann
   
-- dabei können die Forschungsergebnisse ganz unterschiedlich genutzt werden
-  + Forschungsergebnisse z.B. zu Forschendem Lernen dazu genutzt werden, die eigene Unterrichtspraxis zu innovieren, indem FL in den eigen Unterricht integriert wird
-	+ weniger komplex Nutzung,kurze Ratschläge / Tipps den Schüler:innen mitgeben z.B. wie Sie am besten Vokabeln lernen
+- Solche Forschungsergebnisse können in der Praxis ganz unterschiedlich genutzt werden
+  + Forschungsergebnisse z.B. zu Forschendem Lernen können die eigene Unterrichtspraxis innovieren, indem FL in den eigen Unterricht integriert wird
+	+ oder Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen
 	
 :::
 
@@ -158,9 +159,9 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 
 ::: notes
 
-- der Einbezug solcher sogenannten wissenschaftlicher Evidenz und Theorien wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert -  beispielsweise unter dem Begriff der evidenzinformierter Praxis 
+- der Einbezug solcher wissenschaftlicher Erkenntnisse sogenannter wissenschaftlichen Evidenz und Theorien wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert -  beispielsweise unter dem Begriff evidenzinformierter Praxis 
 
-- wie muss evidenzinformiertes Handeln idealtypisch ablaufen, damit sich die dargestellten Potenziale entfalten?
+- vorstellen, wie evidenzinformiertes Handeln idealtypisch ablaufen, damit sich die dargestellten Potenziale entfalten
 :::
 
 
@@ -175,26 +176,11 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ::: notes
 
-<!--
-- evidenzinformierte Schulpraxis meint, dass wissenschaftliche Evidenz und Theorien beim professionellen Handeln berücksichtigt wird
-  +	indem, und das sieht man hier sehr schön, Evidenz eine Infoquelle ist, die vor dem Hintergrund der eigenen Erfahrungen und des Kontextes reflektiert wird, bevor sie Einklang in die Praxis findet
-  +	also keine alleinige Informationsquelle, die ohne weiteres – in einem eher technischen Sinne - in der Praxis angewandt werden kann
--	 erste empirische Belege, dass Evidenz
-  + Professionalisierung von Lehrpersonen stärken
-  + Unterrichts- und Schulqualität
-  + letztlich Schüler:innenleistung steigern kann
-
--->
-
-
--	angelehnt an das Prozessmodell von Groß Ophoff währen es fünf Schritte bzw. Phasen die benötigt werden
-  - umfasst EIP fünf Phasen
+-	angelehnt an das Prozessmodell von Groß Ophoff umfass evidenzinformiertes Handeln fünf Phasen
     + konzeptuelle Phase, in der ein Anlass formuliert wird
     + Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert 
     + Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse rezipiert und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
     + Anwendungsphase: wird das Wissen in die Praxis transferiert 
-    
-    <!-- - direkt wie in den Eingangsbeispielen oder eher indirekt um z.B. Verständnis über Lehr-Lernmethoden zu schärfen --> 
     + Phase 5 idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass erfüllt wurde
 
 
@@ -234,38 +220,14 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 - allerdings wird immer wieder auf eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis hingewiesen
 - Lehrpersonen greifen kaum auf Evidenz zurück
-- vielzählige Faktoren, die Barrieren darstellen und den Prozess erschweren oder sogar hemmen 
-<!-- 
-- je nach Ausprägung, stellt jeweiliger Faktor Gelingensbedingung oder Barriere dar
-- wie Kluft vermuten lässt, Faktoren bilden mehrheitlich aber Barrieren--> 
-- Barrieren __Ebenen zeigen__
-  + können in unterschiedliche Ebenen kategorisiert werden 
-  
+- vielzählige Faktoren, die Barrieren darstellen und den Prozess erschweren oder sogar hemmen  
+- solche Barrieren sind aber nicht nur den Lehrpersonen zuzuschreiben, 
+- sondern finden sich auch auf  Ebenen __Ebenen zeigen__
     + Forschungsergebnis Beispiel: Forschungsergebnisse schwer verständlich durch viele Fachbegriffe
-    + individuelle Lehrperson
     + Schule
-    + Kommunikation
-  
-<!--  + kommen in unterschiedlichen Phasen des Prozesses zum Tragen kommen
-    + Charakteristika der
-      + Kommunikation: Kooperation zwischen Praktiker:innen und Wissenschaftler:innen z.B. Research Practice Partnerships existieren kaum 
-    -wenn ausgeprägt, kann es in allen Phasen unterstützend wirken
+    + Kommunikation: Kooperation zwischen Wissenschaftler:innen und Praktiker:innen
     
-      + Schule z.B. fehlende Organisationstrukturen keine extra Strukturen geschaffen für die Beschäftigung mit Evidenz
-      
-- Konzeptuelle Phase gar nicht erst ausgelöst 
-
-      + der Lehrpersonen, z.B. fehlendes methodische Wissen  
- erschwerter Anwendungsphase
-
-      + der Forschung/des Forschungswissen z.B. wissenschaftliche Evidenz an sich komplex und häufig viele Fachbegriffe z.B. statistische Informationen 
- erschwerte Schlussfolgerungsphase -->
-      
-      
-
 ::: 
-
-
 
 
 ## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}} 
@@ -284,16 +246,11 @@ __Verschiedene Ansätze:__
 
 - in der Literatur finden sich unterschiedliche Ansätze um Barrieren in Gelingensbedingungen umzuwandeln 
 - können in den einzelnen Ebenen gedacht werden, aber auch noch übergreifender systematisiert werden
-	+ Professionalisierung der Lehrpersonen ansetzen, indem sie in entsprechenden Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, zu fördern
+	+ Professionalisierung der Lehrpersonen ansetzen, indem gezielt Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, gefördert werden
 	+ Gestaltung der WK 
-	  + Zugänglichkeit steigern, 
-	  + Evidenz verständlich sind
+	  + Zugänglichkeit von Evidenz steigern, 
+	  + Evidenz verständlicher aufbereiten
 
-- letzteren Ansatz
-  + immer mehr WK-Formate vorhanden
-  + aber wenig Forschung wie Lehrpersonen mit diesen umgehen und gleichzeitig bietet dieser Bereich Potenzial, um intern valide Forschungsergebnisse zu generieren
-  + ressourcensparender als z.B. RP Partnerships langfristig zu etablieren
-  
 :::
 
 ## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
@@ -308,8 +265,12 @@ __Verschiedene Ansätze:__
 
 ::: notes
 
-- daher im Folgenden Fokus auf WK
+- Fokus auf letzteren Ansatz
+  + immer mehr WK-Formate vorhanden
+  + aber wenig Forschung wie Lehrpersonen mit diesen umgehen und gleichzeitig bietet dieser Bereich besonderes Potenzial, um Studien zu designen, die intern valide Erkenntnisse erlauben
+  + ressourcensparender als z.B. RP Partnerships langfristig zu etablieren
 
+- WK ist ein...
 ::: 
 
 # Wissenschafts- <br> kommunikation {{< iconify fa-solid:comments >}} 
@@ -350,7 +311,7 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 
 -	verschiedene Beispiele; vermutlich bekanntestes CH in DE: CHU
 -	sogenante knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities – Praktiker:innen und Wissenschaft– zu vermitteln
--	unterscheiden sich in bestimmten Aspekten, aber haben gemein qualitativ hochwertige quantitative Studien zusammenzufassen
+-	unterscheiden sich in bestimmten Aspekten, aber haben gemein qualitativ hochwertige __quantitative Studien__ zusammenzufassen
 - schaut man sich die Zusammenfassungen näher an, zeigt sich, dass die statistische Ergebnisse ganz unterschiedlich aufbereitet werden
 
 
@@ -373,12 +334,20 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 
 ::: notes
 
-- Bspe. mitgebracht, anhand derer direkt zu erkennen sind, dass primär textliche, aber auch visuelle Aufbereitungsformate genutzt werden
-- und über Inferenzstatistiken und gängige wie Hedges g und als intuitiver angesehene Effektstärken Cohen's U3 durch Prozent informieren
-- bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt, um praktische Relevanz ableiten zu können
+- Bspe. mitgebracht
+- es ist zu erkennen dass textliche, aber auch visuelle Aufbereitungsformate genutzt werden
+ + und sowohl über Inferenzstatistiken - wie die klassische Signifikanzaussage - 
+ + und Effektstärken - wie die in der Wissenschaft gängige standardisierte Effektstärke Hedges g informiert wird 
+    + es finden sich aber auch der Theorie nach intuitivere Effektstärken     wie Cohen's U3, die in Prozent den Anteil der einen Gruppe angibt, der über dem MW der anderen Gruppe liegt __Visualisierung öffnen__
 
-- CH zielen darauf ab, wissenschaftliche Informationen verständlicher aufzubereiten. Stellt sich die Frage, ob diese Aufbereitungen tatsächlich verständlicher sind - oder anders formuliert, ob Lehrpersonen diese akkurat interpretieren-, schließlich als Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen
-- Aber warum ist diese Frage im Kontext evidenzinformierter Praxis relevant? 
+- Zusammenfassungen bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt
+- Grundlage um praktische Relevanz aus Forschungsergebnissen ableiten zu können
+
+- eingangs erläutert, dass CH darauf abzielen, wissenschaftliche Informationen verständlicher aufzubereiten (ggf. löschen)
+
+- Stellt sich die Frage, ob Lehrpersonen diese Aufbereitungen tatsächlich verstehen, da empirische Studien die Barriere identifiziert, dass Lehrpersonen Schwierigkeiten haben wissenschaftliche Infos zu verstehen
+
+- Aber warum ist diese Frage im Kontext evidenzinformierter Praxis so relevant? 
 
 
 :::
@@ -387,15 +356,29 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 
 ::: {.fragment}
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){.lightbox width=700}
+![](img/Groß_Ophoff et al (2023)_adapted_barriers_black.png){.lightbox width=700}
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 ::: 
 
 ::: notes
-- wenn wir uns erneut das Prozessmodell vor Augen führen, dann führen falsche Interpretationen dazu, dass die Schlussfolgerungsphase misslingt
-  + entweder falsches Wissen, woraus falsche Schlussfolgerungen abgeleitet werden 
+- wenn wir uns erneut das Prozessmodell vor Augen führen...
+
+:::
+
+## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
+
+<center>
+![](img/Groß_Ophoff et al (2023)_adapted_inadäquat.png){.lightbox width=700}
+
+Eigene Adaption des Prozessmodells nach @grossophoff2023
+</center>
+
+
+::: notes
+- , dann führen falsche Interpretationen dazu, dass die Schlussfolgerungsphase misslingt
+  + entweder wird durch die Schlussfolgerungsphase falsches Wissen generiert, dass dann auch zu falschen Entscheidungen in der Anwendungsphase führt
 
 :::
 
@@ -409,8 +392,8 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ::: notes
 
-- oder Relevanz der wissenschaftlichen Evidenz abgewertet wird
-- Prozess wird gestoppt, keine Anwendung der Evidenz
+- oder die Relevanz der wissenschaftlichen Evidenz wird abgewertet
+- Prozess wird gestoppt und die Evidenz wird nicht in der Praxis angewandt
 
 :::
 
@@ -429,21 +412,22 @@ __&rarr; korrekte Interpretation statistischer Informationen notwendige, aber ni
 ::: 
 
 ::: {.incremental}
+- Kaum bildungswissenschaftliche Studien zur Rezeption durch Lehrpersonen [z.B. @fitzgerald2022; @lortie2021; @merk2023]
 - Rezeption durch wissenschaftliche Laien = interdisziplinäres Forschungsfeld [z.B. @kim2022; @hanel2019b; @kale2021; @hanel2019a; @mcphetres2020; @kühberger2015; @sotos2009] ...
-  + ... mit wenigen bildungswissenschaftlichen Studien [z.B. @fitzgerald2022; @lortie2021; @merk2023]
-  + ... mit überwiegend experimentellen Studiendesigns, aber eklektischen Forschungserkenntnissen
+  + ... mit überwiegend experimentellen Studiendesigns,
+  * ... aber eklektischen Forschungserkenntnissen
 
 :::
 ::: notes
 
 __rhetorisches Highlight__
 - daher: korrekte Interpretation statistischer Infos eine __notwendige__, aber __nicht hinreichende__ Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
-- daher Fokus hierauf
+- daher in meiner Dissertation den Fokus hierauf gelegt
   
 -	trotz dieser Relevanz kaum Forschung in BiWi wie sie solche Informationen rezipieren
 
 - zwar erste Studien z.B. aus der Psychologie, 
-  + die vor allem in experimentellen Studien, 
+  + die vor allem in experimentellen Studien untersuchen, 
   + wie wissenschaftliche Laien im allgemeinen statistische Informationen verstehen und wahrnehmen 
     + aber Forschungsstand sehr eklektisch z.B. U3 nie über mehrere Studien hinweg mit den selben/gleichen Alternativen verglichen, was die Vergleichbarkeit der Studienergebnisse erschwert
 - unklar welche Aufbereitungen besonders verständlich sind und sich für solche WK-Formate wie CHs eignen
@@ -467,9 +451,11 @@ Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen k
   - wie Inferenzstatistiken und Effektstärken an Lehrpersonen textbasiert und visuell kommuniziert werden können, damit diese
     + die __Evidenz als relevant für die Unterrichtspraxis einschätzen__,
     + gleichzeitig statistische Informationen akkurat interpretieren
-    + aber die WK auch kognitive Ressourcen schont 
+    + aber die WK auch ihre kognitive Ressourcen schont 
     
-- nimmt man Akkuratheit und kognitive Ressourcen zusammen, bildet dies das Ziel einer 'leicht verständlichen' Wissenschaftskommunikation ab und ist der Fokus im Folgenden
+- nimmt man Akkuratheit und kognitive Ressourcen zusammen, bildet dies das Ziel der WK Infos 'leicht verständlich' aufzubereiten
+
+- Dieser Aspekt ist der Fokus im Folgenden
     
 :::
 
@@ -632,7 +618,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 ::: notes
 - Effektstärken - Cohen's d - im Mittel eher als Effektstärke
  
-- bei allen Beschreibungen überlappem die Verteilungen stark, also die Mittelwerte beider Interpretationen liegen nah beieinander __in Anführungszeichen sagen__
+- bei allen Beschreibungen überlappem die Verteilungen stark,
 
 :::
 
@@ -640,7 +626,8 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 
 ::: notes
 
-obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärke abbilden
+-  also die Mittelwerte beider Interpretationen liegen nah beieinander __in Anführungszeichen sagen__
+- obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektstärkemaß abbilden
 
 :::
 
@@ -648,9 +635,17 @@ obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektst�
 
 ::: notes
 
-- korrekte Interpretation würde daher also so aussehen: Mittelwerte weitauseinander, bzw. geringe Überlappung der Verteilungen 
+- korrekte Interpretation würde daher also so aussehen: Mittelwerte weit auseinander,__Anführungszeichen__ bzw. geringe Überlappung der Verteilungen 
 
 - diese fehlende Differenzierung konnten wir inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA absichern
+
+:::
+
+
+## {background-image="img/study1_interpretation_product_plot.png" background-size=contain}
+
+::: notes
+- ich möchte noch auf ein anderes interessantes Ergebnis Aufmerksam machen
 
 :::
 
@@ -658,7 +653,6 @@ obwohl eigentlich - außer bei Kombi - entweder Inferenzstatistik oder Effektst�
 
 
 ::: notes
-- in den Daten hat sich aber noch ein spannendes Ergebnis gezeigt
 - bei der statistischen Signifikanz-Aussage zeigt sich bei der Interpretation als Effektstärke eine bimodale Verteilung
 - gleiches gilt für Interpretation von Cohen's U3 als Inferenzstatistik
 - das lässt vermuten, dass es wohl eine Gruppe an Lehrpersonen gibt, die korrekt angibt, dass z.B. Signifikanz-Aussage keine Aussage über die Größe eines Unterschieds erlaubt, aber auch eine Gruppe, die sich sicher ist, dass diese Aussage zulässig ist.
@@ -967,21 +961,22 @@ Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007
 
 ::: notes
 * Ergebnisse zeigen, dass verständlicher WK herausfordernd
-* weitere Forschung notwendig, welche textlichen und visuellen Formate sich eignen
-  + möglicherweise auch Kombinationen
+* weitere Forschung notwendig, welche textlichen und visuellen Formate sich eignen; möglicherweise auch Kombinationen
 * jetzt erlaube ich mir aber noch etwas herauszuzoomen
 * vier Jahre mit diesem Thema nutzerfreundliche WK beschäftigt und mir auch immer wieder Gedanken über das bigger picture gemacht
-  + dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Visualisierungen gestoßen
+  + dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Visualisierungen gestoßen, das mich auf die folgende Implikation gebracht hat
   + diesem Modell nach, haben wir mit unserem Ansatz sogenannte bottom-up Verstehensprozesse adressiert
-  + wir haben versucht mithilfe von bestimmten Präsentationsformaten Lehrpersonen die Schritte hin zu einem adäquaten mentalen Modell zu erleichten und letztendlich Lernprozesse auszulösen, die zu langfristigem Wissen führen, das für evidenzinformiertes Handeln notwendig ist
-* das Modell impliziert aber auch, dass die Schritte hin zum Mentalen Modell und das Mentale Modell selbst durch das Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
-  + angepasst an meine Forschungs beeinflusst hierbei beispielsweise die statistische Kompetenz und die graph literacy welche visuellen oder textlichen Elementen wahrgenommen werden
+  + wir haben versucht mithilfe von bestimmten Präsentationsformaten Lehrpersonen die Schritte hin zu einem adäquaten mentalen Modell zu erleichten und letztendlich Lernprozesse auszulösen, die bei Lehrpersonne zu langfristigem Wissen führen, das für evidenzinformiertes Handeln notwendig ist
+* das Modell impliziert aber auch, dass die Schritte hin zum Mentalen Modell und das Mentale Modell selbst durch das bereits vorhande Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
+  + angepasst an meine Forschungs beeinflusst hierbei beispielsweise die statistische Kompetenz und die graph literacy, welche visuellen oder textlichen Elementen in unseren Präsentationen von den Lehrpersonen wahrgenommen wurden
   
-* Erste Hinweise auch in den Daten: manche Lehrpersonen wiesen Fehlkonzepte in der einen Akkuratheitsoperationalisierung auf, aber nicht in einer anderen, in keiner oder in mehreren, was vom Vorwissen abhängig sein könnte
+* Erste Hinweise für dieses Zusammenspiel auch in den Daten gezeigt
+  + um ein Beispiel zu geben
+  + manche Lehrpersonen wiesen in Studie 3 Fehlkonzepte in der einen Akkuratheitsoperationalisierung auf, aber nicht in einer anderen, in keiner oder in mehreren, was vor allem von ihre statistischen Vorkenntnisse zu Effektstärken abhängig sein könnte
 
-* zusammenfassend also festhalten, meine Ergebnisse deuten also darauf hin, dass WK alleine möglicherweise nicht ausreichend ist und zusätzlich die Kompetenzen von Lehrpersonen systematisch gefördert werden müssen
+* zusammenfassend also festhalten, meine Ergebnisse deuten darauf hin, dass WK alleine möglicherweise nicht ausreichend ist und zusätzlich die Kompetenzen von Lehrpersonen systematisch gefördert werden müssen
 
-* In zukünftigen Ansätzen sollte also stärker das Zusammenspiel von Wissenschaftskommunikation und Lehrpersonen Aus- und Fortbildung berücksichtigt, um beide Verstehensprozesse zu adressieren und somit das Verstehen statistischer Informationen erleichtern
+* In zukünftigen Ansätzen sollte also stärker das Zusammenspiel von bisher eher getrennt gedachten Ansätzen Wissenschaftskommunikation und Lehrpersonen Aus- und Fortbildung berücksichtigt werden, um beide Verstehensprozesse zu adressieren und somit das Verstehen statistischer Informationen erleichtern
 
 <!--
   + konkretes Beispiel: in Methodenausbildung WK-Formate zurückgreifen und die Interpretation von statistischen Ergebnissen daran üben, mit Formaten Vertraut machen, die explizit für Praktiker:innen sind und für die spätere Praxis relevant sind und vor allem Interpretation üben weil für EIP notwendig
