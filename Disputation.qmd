@@ -9,7 +9,7 @@ picture: img/KA.jpeg
 date: today
 lang: de
 date-format: "[Dienstag, den] 23. Juli, 2024"
-embed-resources: true
+embed-resources: false
 format: rlille-revealjs
 lightbox: true
 bibliography: references.bib
@@ -95,8 +95,8 @@ border: none !important;
 
 |                     |            |
 |-------------------------------|:------------------|
-|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017] |Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=240}<br> [@michler2014] |
-Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=240}<br>[@rijkhoek2019] | 
+|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017] |Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=230}<br> [@michler2014] |
+Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=230}<br>[@rijkhoek2019] | 
 
 
 
@@ -112,8 +112,8 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 
 |            |          |             |
 |------------|----------|-------------|
-|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017]|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=100}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=300}<br>[@wisniewski2023]| 
-Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=100}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=170}<br> [@knogler2017]|
+|Primärforschung<br>![](img/Paper_Beliefs in sources.png){.lightbox width=100}<br>[@adesope2017]|Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width=100}<br> [@michler2014] | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width=290}<br>[@wisniewski2023]| 
+Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width=100}<br>[@adesope2017]| Pressemitteilungen <br> <br> ![](img/PM_virtuelles Klassenzimmer.png){.lightbox width=100}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes Lernen.png){.lightbox width=160}<br> [@knogler2017]|
 
 ::: notes
 
@@ -168,7 +168,7 @@ Sekundärforschung <br><br>![](img/Paper_Retrieval practice.png){.lightbox width
 ## Ablauf evidenzinformierter <br> Schulpraxis {{< iconify fluent-mdl2:processing >}} {.smaller}
 
 <center>
-![](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width=800} <br>
+![](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width=800}
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
@@ -323,9 +323,9 @@ Sekundärforschung <br>![](img/Paper_Retrieval practice.png){.lightbox width=100
 <center>
 
 |  |Textliche Aufbereitung|Visuelle Aufbereitungen|
-|-----------------:|:--------------|:--------------|
+|-----------------:|:--------------:|:--------------:|
 |__Inferenzstatistik__| ![](img/CHU_sig.png){.lightbox width=200}| |
-|__Effektstärken__| ![](img/CHU_d_U3.png){.lightbox width=200} ![](img/Toolkit_mop.png){.lightbox width=200}| ![](img/Tüdibase_U3_vis.png){.lightbox width=250}![](img/WWC_pg_vis.png){.lightbox width=210}|
+|__Effektstärken__| ![](img/CHU_g_U3.png){.lightbox width=200} ![](img/Toolkit_mop.png){.lightbox width=200}| ![](img/Tüdibase_U3_vis.png){.lightbox width=200}![](img/WWC_pg_vis.png){.lightbox width=210}|
 
 
 [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
@@ -561,10 +561,10 @@ Publiziert in Teaching and Teacher Eduaction (https://doi.org/10.1016/j.tate.202
 ## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
 
 - __Interpretation als Inferenstatistik__<br>
-![](img/study1_item_iinf.png){width=750 .lightbox} 
+![](img/study1_item_iinf.png){width=700 .lightbox} 
 - __Interpretation als Effektstärke__ 
 <br>
-![](img/study1_item_ieff.png){width=750 .lightbox} 
+![](img/study1_item_ieff.png){width=700 .lightbox} 
 
 
 ::: notes
@@ -858,7 +858,7 @@ zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei Fragen oper
 <br>
 
 | Akkuratheit|  Fehlkonzept 	|
-|---	       |---	          |
+|:------------:|:---------------:|
 | {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){width="150" .lightbox} <br> ![](img/study3_plot_diff_u3.png){width="150" .lightbox} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){width="200" .lightbox} |
 
 ::: notes
@@ -933,7 +933,7 @@ __langsamer!__
 
 ::: {.fragment}
 
-<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers_black.png){width=700 .lightbox} <br>
+<center> ![](img/Groß_Ophoff et al (2023)_adapted_barriers_black.png){width=600 .lightbox} <br>
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023 
 
