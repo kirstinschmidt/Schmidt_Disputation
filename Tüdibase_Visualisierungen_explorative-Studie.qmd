@@ -1,0 +1,395 @@
+---
+title: "Reproducible Documentation of Analysis Study 1"
+format: 
+  html:
+    theme: solar
+    fontsize: 0.85em
+    toc: true
+    toc-location: left
+    toc-depth: 4
+    embed-resources: true
+    code-fold: true
+    code-tools: true
+editor: source
+bibliography: references.bib
+editor_options: 
+  chunk_output_type: console
+---
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# R Version
+
+```{r}
+R.Version()
+```
+
+
+# Import of the Data
+
+The data was assessed with the `formr` survey framework [@arslan2020]. The raw data was imported via the following code. 
+
+__Please note that the results of the Bayesian analyses may slightly vary due to the estimation approach.__
+
+```{r}
+#| label: libraries and data import
+#| results: hide
+#| warning: false
+#| message: false
+library(tidyverse)
+library(ggforce)
+library(lme4)
+library(BFpack)
+library(hrbrthemes)
+library(patchwork)
+library(brms)
+library(viridis)
+library(ggdist)
+library(tidybayes)
+library(here)
+library(skimr)
+library(effectsize)
+load(here("data/teachers_study1_N40.RData"))
+study1 <- haven::zap_label(study1)
+
+skim(study1)
+```
+
+# Data Wrangling
+
+## Data Set 1
+
+__(without efficiency and accuracy transformed)__
+
+```{r}
+#| label: data wrangling
+
+# wrangle information on the plot type, ES, ...
+plot_info <- study1 %>%
+    pivot_longer(2:195, names_to = "variables", values_to = "values", 
+                 values_transform = as.character) %>%
+    dplyr::filter(str_detect(variables, "plot")) %>% 
+    # we only need the rows with info on plots
+    tidyr::separate(col = values, into = c("type", "axis", "effsize"), 
+                    # separate the info into three columns
+                    sep = "_", remove = F) %>%
+    dplyr::mutate(plot = variables,       # rename variables for later join
+                  type = paste(type, axis, sep = "_")) %>%
+    dplyr::select(-variables, -axis)
+
+# wrangle answers to items on each page
+item_values <- study1 %>%
+    dplyr::select(-c(topic:itemo)) %>%
+    pivot_longer(2:169, names_to = "variables", values_to = "values", 
+                 values_transform = as.character) %>%
+    dplyr::mutate(variables = case_when(      # recode variable names that have
+        variables == "sensi_6" ~ "sensi_06",  # accidentally been labeled
+        variables == "acccl_6" ~ "acccl_06",  # without zero
+        variables == "accu3_6" ~ "accu3_06",
+        variables == "accov_6" ~ "accov_06",
+        variables == "diffi_6" ~ "diffi_06",
+        variables == "infor_6" ~ "infor_06",
+        variables == "value_6" ~ "value_06",
+        TRUE ~ variables 
+    )) %>%
+    dplyr::mutate(plot = paste0("plotx_", str_sub(variables, -2, -1)), 
+                  # create variable for later join
+                  variables = str_sub(variables, 1, -4)) %>%    
+    # rename variable names to get a data set 
+    # with one line per participant per page
+    pivot_wider(id_cols = c(session, plot), names_from = "variables", 
+                values_from = "values")
+
+# join the two data sets
+study1_w <- full_join(plot_info, item_values, 
+                               by = c("session", "plot")) %>% 
+    # by participant and page (plot)
+    dplyr::select(-values) %>%
+    dplyr::mutate(rating_am = as.numeric(acccl), # some var need to be defined as
+                  rating_u3 = as.numeric(accu3), # numeric again
+                  rating_ov = as.numeric(accov),
+                  diffi = as.numeric(diffi),
+                  infor = as.numeric(infor),
+                  value = as.numeric(value),
+                  effsize = as.numeric(effsize),
+                  effsize_am = case_when( 
+                  # there is no negative Cliff's Delta, so we have to compute 
+                  # two transformations
+                      effsize > 0 ~   (((2*pnorm(effsize/2))-1)/pnorm(effsize/2)),
+                  # transform the actual effect size Cohen's d to Cliff's Delta
+                      effsize < 0 ~ (- (((2*pnorm(abs(effsize)/2))-1)/pnorm(abs(effsize)/2))) 
+                  # transform the actual effect size Cohen's d to Cliff's Delta 
+                  # and make it negative as in the item
+                  ),
+                  effsize_u3 = 1-pnorm(effsize), # reverse so that it fits the direction of the U3 item
+                  # transform the actual effect size Cohen's d to Cohen's U3
+                  effsize_ov = 2 * pnorm(-abs(effsize) / 2), 
+                  # transform the actual effect size Cohen's d to overlap
+                  # actual difference of rating relative to depicted effectsize 
+                  rating_am_in_d = r_to_d(rating_am),
+                  rating_u3_in_d = qnorm(rating_u3/100), 
+                  rating_ov_in_d = -2*qnorm(0.5*rating_ov/100),
+                  diff_am = ifelse(effsize < 0,
+                                   (rating_am_in_d - effsize)*(-1),
+                                   rating_am_in_d - effsize),
+                  diff_u3 = ifelse(effsize < 0,
+                                   (rating_u3_in_d - effsize)*(-1),
+                                   rating_u3_in_d - effsize),
+                  diff_ov = ifelse(effsize < 0,
+                                    (rating_ov_in_d - effsize)*(-1),
+                                    rating_ov_in_d - effsize))  %>%
+    group_by(session) %>% 
+    mutate(rating_ov_misconcept = median(rating_ov, na.rm = T) < 68.9,
+           rating_u3_misconcept = median(rating_u3, na.rm = T) < 21.2) %>% 
+    ungroup() %>% 
+    mutate(rating_u3_filtered = ifelse(rating_u3_misconcept == T, NA, rating_u3_in_d),
+           rating_ov_filtered = ifelse(rating_ov_misconcept == T, NA, rating_ov_in_d),
+           sensi_binary = ifelse(is.na(sensi), # 1 if NOT "equal"
+                                        NA,
+                                        as.numeric(!grepl("equal", sensi))),
+           sensi_ordinal = ordered(factor(substr(sensi, 55, 100)),
+                                   levels = c("inferior",
+                                              "equal",
+                                              "superior")),
+           sensi_binary_filtered = case_when(sensi_ordinal == "equal" ~ 0, 
+                                             (sensi_ordinal == "inferior" & 
+                                                  effsize < 0) | 
+                                                  (sensi_ordinal == "superior" & 
+                                                  effsize > 0) ~ as.numeric(NA),
+                                             (sensi_ordinal == "inferior" & # was not there
+                                                  effsize > 0) | 
+                                                  (sensi_ordinal == "superior" & 
+                                                  effsize < 0) ~ 1, 
+                                             TRUE ~ as.numeric(NA)), # was 1
+           sensi_correct = case_when(sensi_ordinal == "equal" ~ "judged equal", 
+                                     (sensi_ordinal == "inferior" & 
+                                                  effsize < 0) | 
+                                                  (sensi_ordinal == "superior" & 
+                                                  effsize > 0) ~ "wrong direction",
+                                             (sensi_ordinal == "inferior" & # was not there
+                                                  effsize > 0) | 
+                                                  (sensi_ordinal == "superior" & 
+                                                  effsize < 0) ~ "right direction", 
+                                             TRUE ~ NA_character_),
+           effsize_abs = abs(effsize))
+```
+
+\
+
+__Basic Information on data set__
+
+
+```{r}
+skim(study1_w)
+```
+\
+\
+
+## Data Set 2
+
+__(with efficiency and accuracy transformed)__
+
+```{r}
+# create a list of u3_misconceptualizers
+u3_misconceptualizers <-
+    study1_w %>% 
+    filter(rating_u3_misconcept == T) %>% 
+    pull(session) %>% 
+    unique()
+
+# create a list of ov_misconceptualizers
+ov_misconceptualizers <-
+    study1_w %>% 
+    filter(rating_ov_misconcept == T) %>% 
+    pull(session) %>% 
+    unique()    
+
+### wrangle time stamp data ####################################################
+study1_w_timestamp <- 
+    read_csv(here("data/teachers_study1_N40_detailed.csv")) %>% 
+    # filter participants from study1_w only
+    filter(session %in% study1_w$session) %>% 
+    # we only need vars sensitivity or accuracy
+    dplyr::filter(str_detect(item_name, "sensi|acccl|accu3|accov")) %>%  
+    # create var with plot number
+    mutate(plot = paste0("plotx_", str_sub(item_name, -2, -1)),
+           # recode wrong item labelling
+           plot = ifelse(plot == "plotx__6", "plotx_06", plot)) %>% 
+    relocate(session, plot) %>% 
+    # delete the page number in item name
+    mutate(item_name = str_sub(item_name, 1, 5)) %>%  
+    pivot_wider(id_cols = c(session, plot), names_from = item_name, 
+                values_from = answered_relative) %>% 
+    rowwise() %>%
+    # what was the time of the first item to be clicked?
+    mutate(effic = min(sensi, acccl, accu3, accov, na.rm=T)) %>%
+    ungroup() %>% 
+    dplyr::select(session, plot, effic, sensi, acccl, accu3, accov) %>% 
+    left_join(., study1_w %>% 
+                  select(session, plot, type), by=c("session", "plot")) %>% 
+    # generate data set so that the six plots from the same type are ordered
+    # one after the other (and not 1-24)
+    group_by(session, type) %>% 
+    arrange(plot) %>% 
+    mutate(plotNrWithin = 1:n()) %>%
+    ungroup() %>% 
+    group_by(plotNrWithin, type) %>% 
+    mutate(effic_10righttrunc = ifelse(effic > quantile(effic, .9), NA, effic),
+           effic_05righttrunc = ifelse(effic > quantile(effic, .95), NA, effic),
+           log_effic_05righttrunc =log(effic_05righttrunc),
+           log_effic_10righttrunc = log(effic_10righttrunc),
+           plotNrWithin0 = plotNrWithin -1,
+           plotNrWithin_factor = as.factor(plotNrWithin)) %>% 
+    ungroup()
+```
+\
+
+
+__Basic information on data set__
+
+```{r}
+skim(study1_w_timestamp)
+```
+\
+\
+
+## Descriptives of the Dependent Variables
+### Descriptives of Accuracy and Perceived Variables Across all Visualization Types
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+skim(study1_w %>%
+         select(diffi, infor, value, rating_u3, rating_ov, rating_am,))
+
+skim(study1_w %>%
+         select(diff_am, diff_u3, diff_ov)%>%
+         filter(!diff_u3 == "-Inf",
+            !diff_u3 == "Inf",
+            !diff_ov == "-Inf",
+            !diff_ov == "Inf",
+            !diff_am == "-Inf",
+            !diff_am == "Inf")
+    )
+```
+
+
+### Descriptives of Accuracy and Perceived Variables Grouped by Visualization Types
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+skim(study1_w %>%
+         select(diffi, infor, value, sensi_binary_filtered, session, type, plot) %>%
+    gather(var, value, diffi, infor, value, sensi_binary_filtered)%>%
+    mutate(variable = paste(var, type, sep = "_"))%>%
+    select(-type, -var)%>%
+    group_by(session, plot) %>%
+    spread(variable, value) %>%
+    ungroup())
+
+skim(study1_w %>%
+         select(diff_u3, diff_ov, diff_am, session, type, plot) %>%
+         filter(!diff_u3 == "-Inf",
+            !diff_u3 == "Inf",
+            !diff_ov == "-Inf",
+            !diff_ov == "Inf",
+            !diff_am == "-Inf",
+            !diff_am == "Inf") %>%
+    gather(var, value, diff_u3, diff_ov, diff_am,)%>%
+    mutate(variable = paste(var, type, sep = "_"))%>%
+    select(-type, -var)%>%
+    group_by(session, plot) %>%
+    spread(variable, value) %>%
+    ungroup())
+```
+
+
+### Descriptives of Efficiency Across Visualization Types
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+skim(study1_w_timestamp %>%
+    select(effic, session))
+```
+
+### Descriptives of Efficiency Grouped by Visualization Types
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+skim(study1_w_timestamp %>%
+    select(effic, session, type, plot) %>%
+    gather(var, value, effic)%>%
+    mutate(variable = paste(var, type, sep = "_"))%>%
+    select(-type, -var)%>%
+    group_by(session, plot) %>%
+    spread(variable, value) %>%
+    ungroup())
+```
+\
+\
+
+# Accuracy: Misconceptions
+
+## Distribution of the Accuracy Variables
+
+```{r}
+#| label: distribution acc dvs
+
+study1_w %>% 
+    select(rating_am, rating_u3, rating_ov) %>% 
+    pivot_longer(
+        c(rating_am, rating_u3, rating_ov),
+        names_to = "dependent_variable", 
+        values_to = "rated_effectsize"
+        ) %>% 
+    ggplot(., aes(rated_effectsize)) +
+    geom_histogram() +
+    xlab("Rated effect size") +
+    facet_wrap(~dependent_variable, scales = "free_x", 
+                labeller = as_labeller(c("rating_am" = "Abstract metric",
+                                         "rating_ov" = "Overlap metric",
+                                         "rating_u3" = "Cohen's U3 metric"))) +
+    theme_modern_rc() +
+    theme(strip.text = element_text(color = "white"))
+```
+
+Somewhat disturbing is the first mode in `rating_ov`. Maybe some users confused `overlap` and `non-overlap`? Another artifact seems to be the first mode in `rating_u3`.
+
+### Are there Constant Misconceptions per Persons?
+
+```{r}
+#| label: misconceptiosn per person
+ggplot(study1_w %>% 
+    select(rating_am, rating_u3, rating_ov, effsize, effsize_am, session) %>% 
+    pivot_longer(
+        c(rating_am, rating_u3, rating_ov),
+        names_to = "operationalization", 
+        values_to = "judged_effectsize"
+        ),
+    aes(judged_effectsize, as.numeric(as.factor(session)),
+        color = session)
+        ) +
+    geom_jitter(height = 0) +
+    xlab("Geschätzte Effektstärke") +
+    ylab("Teilnehmenden-ID") +
+    facet_wrap(~ operationalization, scales = "free_x", 
+                labeller = as_labeller(c("rating_am" = "Abstrakte Metrik",
+                                         "rating_ov" = "Overlap Metrik",
+                                         "rating_u3" = "Cohen's U3 Metrik"))) +
+    theme_minimal() +
+    theme(legend.position = "none",
+          strip.text = element_text(color = "white"))
+
+
+ggsave("study3_exploratory-study_misconceptions.jpg",
+       width = 5,
+       height = 4,
+       dpi = 400)
+```

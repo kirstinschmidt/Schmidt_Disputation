@@ -268,16 +268,13 @@ ergänzend: Forschung bislang vor allem daran angesetzt, (angehende) Lehrpersone
 
 ## Statistische Kommunikation in Clearinghouses {{< iconify fa-solid:comments >}} {.smaller}
 
-<center>
 
-|                       |                                    Textliche Aufbereitung                                    |                                      Visuelle Aufbereitungen                                      |
+|   |  Textliche Aufbereitung  | Visuelle Aufbereitungen|
 |-------------------------:|:---------------------:|:---------------------:|
 | **Inferenzstatistik** |                         ![](img/CHU_sig.png){.lightbox width="200"}                          |                                                                                                   |
-|     **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
+| **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
 
 [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
-
-</center>
 
 ::: notes
 -   Bspe. mitgebracht
@@ -352,7 +349,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 
 ::: fragment
-**→ Korrekte Interpretation statistischer Informationen notwendige, aber nicht hinreichende Bedingung für evidenzinformiertes Handeln** {{< iconify bi:exclamation-triangle-fill >}} [**vgl. @lortie2021**]
+**→ Korrekte Interpretation statistischer Informationen notwendige, aber nicht hinreichende Bedingung für evidenzinformiertes Handeln** {{< iconify bi:exclamation-triangle-fill >}} **[vgl. @lortie2021]**
 :::
 
 ::: incremental
@@ -722,7 +719,7 @@ ergänzend: - Benchmark: Vergleichsgrafik - Ergebnisse zu einem vergleichbaren T
         ![](img/study3_item_am.png){.lightbox width="500"}
     -   Cohen's *U*<sub>3</sub> Metrik\
         ![](img/study3_item_u3.png){.lightbox width="500"}
--   **Cohen's *U***<sub>3</sub> Fehlkonzept: Median der *U*<sub>3</sub> Ratings einer Person \< 21.2% (kleinster plausibler Wert, der *d* = −.8 entspricht)
+-   **Cohen's *U***<sub>3</sub> Fehlkonzept: Median der *U*<sub>3</sub> Ratings einer Person \< 21,2% (kleinster plausibler Wert, der *d* = −.8 entspricht)
 
 ::: notes
 -   Akkuratheit
@@ -880,7 +877,7 @@ ergänzend:
 
 # Anhang
 
-## Begriffsklärungen
+## Begriffsklärungen {{< iconify carbon:concept >}}
 
 <br>
 
@@ -896,7 +893,7 @@ ergänzend:
 
 </center>
 
-## Evidenzbasiert vs. Evidenzinformiert {.smaller}
+## Begriffsklärungen {{< iconify carbon:concept >}} {.smaller}
 
 ::: {style="font-size: 0.80em"}
 <center>
@@ -937,9 +934,21 @@ Modell evidenzbasierten Unterrichts (EBU) nach (@rochnia2022)
 Studie 3 estimation
 :::
 
-## Studie 1: Stichprobe
+# Studie 1 {{< iconify fa6-solid file-lines >}}
 
-## Studie 1: Hypothesen {.smaller .scrollable}
+## Studie 1: Repräsentative Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
+
+* *N* = 414 Lehrpersonen in Deutschland 
+* 66,91% weiblich
+* 94,93% ohne Migrationshintergrund
+* *M<sub>Alter</sub>* = 47,70 Jahre (*SD* = 10,82)
+* *M<sub>Lehrerfahrung</sub>* = 17,37 Jahre (*SD* = 11,13)
+* Verschiedene Schularten (z.B. 27,29 % Gymnasiallehrpersonen; 26,09% Grundschullehrpersonen; 18,60 % Gesamtschullehrpersonen)
+* Verschiedene Unterrichtsfächer (z.B. 58,45 % unterrichten ein geistes- oder sozialwissenschaftliches Fach; 54,83 % mind. eine Sprache; 43,72 % ein mathematisches oder naturwissenschaftliches Fach)
+
+[vgl. @destatis2019]
+
+## Studie 1: Hypothesen {{< iconify bi:exclamation-circle >}} {.smaller .scrollable}
 
 * __Hypothese 1__: Statistische Signifikanz Aussage, Beschreibung von Cohen's *U<sub>3</sub>* und die kombinierte Aussage von Inferenzstatistik und Effektstärke werden informativier wahrgenommen als die Definition des *p*-Wertes, die Beschreibung des Bayes Faktors und von Cohen's *d*. 
 
@@ -955,39 +964,51 @@ Studie 3 estimation
 
 * __Hypothese 7__: Die Interpretationen der Beschreibung der Signifikanz-Aussage und der kombinierten Aussage von Inferenzstatistik und Effektstärke sind stärker "verflochten" als die Interpretationen der *p*-Werte, Bayes Faktoren, Cohen's *d* und Cohen's *U<sub>3</sub>*
 
-## Studie 1: Weitere abhängige Variablen
+## Studie 1: Weitere abhängige Variablen  {{< iconify gis:measure >}}
 
 -   Wahrgenommene Informativität
 
-    <center>![](img/study1_item_informativity.png){.lightbox width="400"}</center>
+<center>![](img/study1_item_informativity.png){.lightbox width="400"}</center>
 
 -   Selbstvertrauen in statistische Interpretation
 
-    <center>![](img/study1_item_conf.png){.lightbox width="400"}</center>
+<center>![](img/study1_item_conf.png){.lightbox width="400"}</center>
 
-## Studie 1: Weitere Ergebnisse
+## Studie 1: Weitere Ergebnisse {{< iconify fa6-solid file-lines >}} {.smaller}
 
 <center>![](img/study1_informativity_product_plot.png){.lightbox width="400"}</center>
 
-<center>![](img/study1_confidence_plot.png){.lightbox width="400"}</center>
+<center>![Adaptiert von Schmidt et al. (2023)](img/study1_confidence_plot.png){.lightbox width="400"}</center>
 
-## Studie 2: Kovariaten
+
+# Studie 2 {{< iconify fa6-solid file-lines >}}
+
+## Studie 2: Kovariaten {{< iconify gis:measure >}}
 
 -   
 
 -   
 
-## Studie 2: Weitere Ergebnisse
+## Studie 2: Weitere Ergebnisse {{< iconify fa6-solid file-lines >}}
 
-## Studie 3: Ablauf {.scrollable}
+<center>![](img/study2_covariates_cont_mixed.png){.lightbox width="300"}</center>
+
+<center>![](img/study2_covariates_dich_mixed.png){.lightbox width="300"}</center>
+
+<center>![](img/study2_covariates_age_teachingexp_mixed_sample.png){.lightbox width="300"}</center>
+
+
+# Studie 3 {{< iconify fa6-solid chart-area >}}
+
+## Studie 3: Anlage {{< iconify lucide:layers-3 >}} {.scrollable}
 
 <center>![](img/Tüdibase_Studies.png)</center>
 
-## Studie 3: Stichproben {.smaller}
+## Studie 3: Stichproben {{< iconify fa-solid:users>}} {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
-**Explorative Studie**
+__Explorative Studie__
 
 -   *N* = 40 englischsprachige Lehrpersonen
 -   67,5% weiblich
@@ -1011,9 +1032,8 @@ Studie 3 estimation
 :::
 :::
 
-## Studie 3: Design {.smaller .scrollable}
 
-**Explorative Studie**
+## Studie 3: Design der explorativen <br> Studie {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
 
 4x6x4 Between-Within-Within Design
 
@@ -1035,13 +1055,13 @@ Studie 3 estimation
     -   Gardner-Altman Plot
 
 
-## Studie 3: Weitere abhängige Variablen {.scrollable}
+## Studie 3: Weitere abhängige Variablen {{< iconify gis:measure >}} {.scrollable}
 
 -   Akkuratheit in Overlap
 
 <center>![](img/study3_item_overlap.png){.lightbox width="200"}</center>
 
--   Overlap Fehlkonzept
+-   Overlap Fehlkonzept: Median der Overlap Ratings einer Person <  68,9% (kleinster plausibler Wert, der *d* = −.8 bzw. *d* = .8 entspricht)
 
 -   Sensitivität
 
@@ -1053,7 +1073,7 @@ Studie 3 estimation
 
 <center>![](img/study3_item_informativity.png){.lightbox width="200"}</center>
 
--   Wahrgenommene praktischer Wert
+-   Wahrgenommener praktischer Wert
 
 <center>![](img/study3_item_value.png){.lightbox width="200"}</center>
 
@@ -1061,30 +1081,32 @@ Studie 3 estimation
 
 <center>![](img/study3_item_difficulty.png){.lightbox width="200"}</center>
     
-## Studie 3: Hypothesen {.smaller .scrollable}
+## Studie 3: Hypothesen {{< iconify bi:exclamation-circle >}} {.smaller .scrollable}
 
-- Benchmarking...
-  + ... steigert die Akkuratheit von Interpretationen.
-  + ... steigert die Sensitivität von Interpretationen.
-  + ... führt zu einer erhöhten Aufgabenschwierigkeit
-  + ... führt zu einer erhöhten und Verweildauer.
-  + ... steigert die wahrgenommene Informativität.
-  + ... steigert den wahrgenommenen Wert.
+- __Benchmarking__...
+  1. ... steigert die Akkuratheit von Interpretationen.
+  2. ... steigert die Sensitivität von Interpretationen.
+  3. ... führt zu einer erhöhten Aufgabenschwierigkeit
+  4. ... führt zu einer erhöhten und Verweildauer.
+  5. ... steigert die wahrgenommene Informativität.
+  6. ... steigert den wahrgenommenen Wert.
 
-- Signaling...
-  + ... steigert die Akkuratheit von Interpretationen.
-  + ... steigert die Sensitivität von Interpretationen.
-  + ... reduziert die Aufgabenschwierigkeit.
-  + ... reduziert die Verweildauer.
-  + ... steigert die wahrgenommene Informativität.
-  + ... steigert den wahrgenommenen Wert.
-  + ... reduziert Fehlkonzepte: 
+- __Signaling__...
+  1. ... steigert die Akkuratheit von Interpretationen.
+  2. ... steigert die Sensitivität von Interpretationen.
+  3. ... reduziert die Aufgabenschwierigkeit.
+  4. ... reduziert die Verweildauer.
+  5. ... steigert die wahrgenommene Informativität.
+  6. ... steigert den wahrgenommenen Wert.
+  7. ... reduziert Fehlkonzepte: 
     + Signaling Cohen's *U<sub>3</sub>* reduziert *U<sub>3</sub>*-Fehlkonzepte 
     * Signaling Overlap reduziert Overlap-Fehlkonzepte
 
-## Studie 3: Cohen's *U*<sub>3</sub>-Fehlkonzept
+## Studie 3: Fehlkonzepte {{< iconify fa:flash >}}
 
-## Studie 3: weitere Ergebnisse {.smaller .scrollable}
+<center>![](img/study3_exploratory-study_misconceptions.jpg){.lightbox width="750"}</center>
+
+## Studie 3: weitere Ergebnisse {{< iconify fa6-solid chart-area >}} {.smaller .scrollable}
 
 <center>
 
@@ -1094,12 +1116,12 @@ Studie 3 estimation
 |                    | Akkuratheit                                            | Sensitivität                                                                                                      | Aufgabenschwierigkeit                                                                                           | Effizienz                                                                                                                                                           | Informativität                                                                                                                             | Praktischer Wert                                                                                                 | Fehlkonzept                                                                                                                          |
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | Visualisierungsart | [{{<iconify   dashicons:no>}}]{style="color:#96412D;"} | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Halfeye plots       | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Schwierigkeit bei Halfeye plots | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots                                  | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höherer praktischer Wert bei Halfeye plots |                                                                                                                                      |
-| Anreicherungen     | [{{<iconify dashicons:no>}}]{style="color:#96412D;"}   | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Signaling-Bedingung | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | [{{<iconify dashicons:no>}}]{style="color:#8cd000;"} <br> nach mehreren Durchgängen kein Unterschied zwischen Visualisierung mit Signaling U3 und ohne Anreicherung | [{{<iconify fa-solid:question >}}]{style="color:black"} ![](img/study3_plot_informativity.png){.lightbox width="50"}                       | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                          | [{{<iconify  streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung |
+| Anreicherungen     | [{{<iconify dashicons:no>}}]{style="color:#96412D;"}   | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Signaling-Bedingung | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | [{{<iconify dashicons:no>}}]{style="color:#8cd000;"} <br> nach mehreren Durchgängen kein Unterschied zwischen Visualisierung mit Signaling U3 und ohne Anreicherung | [{{<iconify fa-solid:question >}}]{style="color:black"}                     | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                          | [{{<iconify  streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung |
 :::
 
 ## Wahrgenommene Informativität \<--\> Handlung ?
 
-<center>![](img/Informativität_Prädiktor.png)</center>
+<center>![](img/Informativität_Prädiktor.png){.lightbox}</center>
 
 ## Literatur {{< iconify ion:book >}} {.scrollable}
 
