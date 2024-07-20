@@ -34,7 +34,7 @@ title-slide-attributes:
 ```
 
 |                      {{< iconify fluent-emoji-high-contrast:newspaper >}} | Einführung                                                                                                                                                                                                                                                         |
-|---------------------------------------:|:-------------------------------|
+|-----------------:|:-----------------------------------------------------|
 |                                           {{< iconify fa-solid:school >}} | Evidenzinformierte Schulpraxis                                                                                                                                                                                                                                     |
 |                                         {{< iconify fa-solid:comments >}} | Wissenschaftskommunikation                                                                                                                                                                                                                                         |
 | {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} | Eigene Forschungstätigkeiten <br> - Studie 1: Textbasierte Kommunikation von Inferenzstatistiken und Effektstärken <br> - Studie 2: Textbasierte Kommunikation von Inferenzstatistiken und Effektstärken <br> - Studie 3: Visuelle Kommunikation von Effektstärken |
@@ -44,7 +44,7 @@ title-slide-attributes:
 
 <!-- style the agenda table -->
 
-
+```{=html}
 <style>
 #tbl-agenda table th {
 font-weight: normal !important;
@@ -56,7 +56,7 @@ font-weight: normal !important;
 border: none !important;
 }
 </style>
-
+```
 ::: footer
 {{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter https://bit.ly/XXX
 :::
@@ -81,18 +81,18 @@ border: none !important;
 ## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.smaller}
 
 |                                                                                                            |                                                                                                              |
-|--------------------------------------------|:---------------------------|
+|------------------------------------|:-----------------------------------|
 | Primärforschung<br>![](img/Paper_Beliefs%20in%20sources.png){.lightbox width="100"}<br>[@adesope2017]      | Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width="230"}<br> [@michler2014]                         |
 | Sekundärforschung <br><br>![](img/Paper_Retrieval%20practice.png){.lightbox width="100"}<br>[@adesope2017] | Pressemitteilungen <br> ![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="230"}<br>[@rijkhoek2019] |
 
 ::: notes
-- Aber auch in den Medien z.B. in Zeitungsartikel oder in Pressemitteilungen wird über bildungswissenschaftliche Ergebnisse informiert
+-   Aber auch in den Medien z.B. in Zeitungsartikel oder in Pressemitteilungen wird über bildungswissenschaftliche Ergebnisse informiert
 :::
 
 ## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.smaller}
 
 |                                                                                                            |                                                                                                                   |                                                                                                                      |
-|-------------------------|---------------------|--------------------------|
+|-----------------------|------------------------|-------------------------|
 | Primärforschung<br>![](img/Paper_Beliefs%20in%20sources.png){.lightbox width="100"}<br>[@adesope2017]      | Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width="100"}<br> [@michler2014]                              | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width="290"}<br>[@wisniewski2023]                                   |
 | Sekundärforschung <br><br>![](img/Paper_Retrieval%20practice.png){.lightbox width="100"}<br>[@adesope2017] | Pressemitteilungen <br> <br> ![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="100"}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes%20Lernen.png){.lightbox width="160"}<br> [@knogler2017] |
 
@@ -104,16 +104,19 @@ border: none !important;
 ## Einführung {{< iconify fluent-emoji-high-contrast:newspaper >}} {.smaller}
 
 |                                                                                                            |                                                                                                                   |                                                                                                                      |
-|-------------------------|---------------------|--------------------------|
+|-----------------------|------------------------|-------------------------|
 | Primärforschung<br>![](img/Paper_Beliefs%20in%20sources.png){.lightbox width="100"}<br>[@adesope2017]      | Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width="100"}<br> [@michler2014]                              | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width="100"}<br>[@wisniewski2023]                                   |
 | Sekundärforschung <br><br>![](img/Paper_Retrieval%20practice.png){.lightbox width="100"}<br>[@adesope2017] | Pressemitteilungen <br> <br> ![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="100"}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes%20Lernen.png){.lightbox width="100"}<br> [@knogler2017] |
 
 ::: notes
-- Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern wird für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich gemacht
-- Warum aber explizit für Lehrpersonen?
-- Sie wissen es vermutlich alle: Lehrpersonen sind formal z.B. in den KMK Kompetenzen in DE dazu angehalten solche Ergebnisse in ihrem professionellen Handeln zu berücksichtigen
+-   Bildungswissenschaft nicht als Elfenbeinturm zu verstehen, sondern wird für die breite Öffentlichkeit und explizit für Lehrpersonen zugänglich gemacht
 
-- diese Forderung kann beispielsweise kognitionspsychologisch begründet werden
+-   Warum aber explizit für Lehrpersonen?
+
+-   Sie wissen es vermutlich alle: Lehrpersonen sind formal z.B. in den KMK Kompetenzen in DE dazu angehalten solche Ergebnisse in ihrem professionellen Handeln zu berücksichtigen
+
+-   diese Forderung kann beispielsweise kognitionspsychologisch begründet werden
+
     -   Forschungsergebnisse werden zum Beispiel im Vergleich zu eigenen Erfahrungen als objektivere Infos angesehen
     -   Denn sie werden systematisch gewonnen und sind dadurch weniger von kognitive Verzerrungen beeinflusst
     -   erste empirische Belege, dass das Berücksichtigen solcher Forschungsergebnisse
@@ -122,15 +125,15 @@ border: none !important;
         -   letztlich Schüler:innenleistung steigern kann
 
 -   Solche Forschungsergebnisse können in der Praxis ganz unterschiedlich genutzt werden
-    - Forschungsergebnisse z.B. zu Forschendem Lernen können die eigene Unterrichtspraxis innovieren, indem FL in den eigen Unterricht integriert wird
-    - oder Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen
+
+    -   Forschungsergebnisse z.B. zu Forschendem Lernen können die eigene Unterrichtspraxis innovieren, indem FL in den eigen Unterricht integriert wird
+    -   oder Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen
 :::
 
 # Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
 
 ::: notes
--  der Einbezug solcher wissenschaftlicher Erkenntnisse <!-- sogenannter wissenschaftlichen Evidenz und Theorien --> wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert - beispielsweise unter dem Begriff evidenzinformierte Praxis
-
+-   der Einbezug solcher wissenschaftlicher Erkenntnisse <!-- sogenannter wissenschaftlichen Evidenz und Theorien --> wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert - beispielsweise unter dem Begriff evidenzinformierte Praxis
 :::
 
 ## Ablauf evidenzinformierter <br> Schulpraxis {{< iconify fluent-mdl2:processing >}} {.smaller}
@@ -144,12 +147,12 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 
 ::: notes
-- evidenzinformiertes Praxis umfasst angelehnt an das Prozessmodell von Groß Ophoff idealtypisch fünf Phasen
-    - konzeptuelle Phase, in der ein Anlass formuliert wird
-    - Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert
-    - Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse rezipiert und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
-    - Anwendungsphase: wird das Wissen in die Praxis transferiert
-    - Phase 5 idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass erfüllt wurde
+-   evidenzinformiertes Praxis umfasst angelehnt an das Prozessmodell von Groß Ophoff idealtypisch fünf Phasen
+    -   konzeptuelle Phase, in der ein Anlass formuliert wird
+    -   Zugriffsphase - hier wird zum Anlass passende wissenschaftliche Evidenz recherchiert
+    -   Schlussfolgerungsphase: hier werden die wissenschaftlichen Ergebnisse rezipiert und in eigenes Vorwissen, Erfahrungen und Überzeugungen integriert, um Wissen zu generieren
+    -   Anwendungsphase: wird das Wissen in die Praxis transferiert
+    -   Phase 5 idealerweise wird der Prozess dann noch evaluiert, um zu prüfen, inwieweit Anlass erfüllt wurde
 
 ergänzend: - instrumentelle Nutzung: direkte Nutzung in der Praxis z.B. - indirektere Nutzungsformen sind die konzeptuelle und symbolische Nutzung - konzeptuelle Nutzung: z.B. Reflexionen anregen über eigene Praxis anregen, Verständnis von Lernen und Lehren schärfen - symbolisch - passt nicht zum formulierten Anlass - wenn eigene Handlungen transparent gemacht oder fundiert werden sollen, um z.B. Entscheidungen gegenüber Eltern oder anderen Kolleg:innen zu rechtfertigen
 :::
@@ -167,7 +170,7 @@ ergänzend: - instrumentelle Nutzung: direkte Nutzung in der Praxis z.B. - indir
 ::: fragment
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers.png){.lightbox width="400"}
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers.png){.lightbox width="390"}
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
@@ -175,13 +178,13 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 :::
 
 ::: notes
-- allerdings wird immer wieder auf eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis hingewiesen
-- Lehrpersonen greifen kaum auf Evidenz zurück
-- nicht nur auf die Lehrpersonen zurückzufüjhren, sondern empirisch zeigen sich vielzählige Barrieren, die unterschiedlichen Ebenen zugeordnet werden können, die  Prozess erschweren oder sogar hemmen
-  - neben der Ebene der individuellen Lehrperson
-  - Ebene der Forschungsergebnis. Ein Beispiel: Forschungsergebnisse werden sind durch die Verwendung zahlreicher Fachbegriffe z.B. statistischer Fachtermini schwer verständlich
-  - Schule
-  - Kommunikation: Kooperation zwischen Wissenschaftler:innen und Praktiker:innen
+-   allerdings wird immer wieder auf eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis hingewiesen
+-   Lehrpersonen greifen kaum auf Evidenz zurück
+-   nicht nur auf die Lehrpersonen zurückzufüjhren, sondern empirisch zeigen sich vielzählige Barrieren, die unterschiedlichen Ebenen zugeordnet werden können, die Prozess erschweren oder sogar hemmen
+    -   neben der Ebene der individuellen Lehrperson
+    -   Ebene der Forschungsergebnis. Ein Beispiel: Forschungsergebnisse werden sind durch die Verwendung zahlreicher Fachbegriffe z.B. statistischer Fachtermini schwer verständlich
+    -   Schule
+    -   Kommunikation: Kooperation zwischen Wissenschaftler:innen und Praktiker:innen
 
 ergänzend: Forschung bislang vor allem daran angesetzt, (angehende) Lehrpersonen mit notwendigen Fähigkeiten auszustatten z.B. entsprechende Kurse im Studium, research-practice partnerships oder Mini-Interventionen um Nützlichkeitsinterventionen zu gestalten
 :::
@@ -199,12 +202,12 @@ ergänzend: Forschung bislang vor allem daran angesetzt, (angehende) Lehrpersone
 :::
 
 ::: notes
-- in der Literatur finden sich unterschiedliche Ansätze um Barrieren in Gelingensbedingungen umzuwandeln
-- Diese Ansätze können wieder den vier Ebenen zugeordnet werden oder noch übergreifender in Ansätze
-    - Professionalisierung der Lehrpersonen ansetzen, indem gezielt Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, gefördert werden
-    - Gestaltung der WK
-        - Zugänglichkeit von Evidenz steigern,
-        - Evidenz verständlicher aufbereiten
+-   in der Literatur finden sich unterschiedliche Ansätze um Barrieren in Gelingensbedingungen umzuwandeln
+-   Diese Ansätze können wieder den vier Ebenen zugeordnet werden oder noch übergreifender in Ansätze
+    -   Professionalisierung der Lehrpersonen ansetzen, indem gezielt Kompetenzen, die für die unterschiedlichen Phasen notwendig sind, gefördert werden
+    -   Gestaltung der WK
+        -   Zugänglichkeit von Evidenz steigern,
+        -   Evidenz verständlicher aufbereiten
 :::
 
 ## Umgang mit Barrieren evidenzinformierter Schulpraxis {{< iconify fluent-mdl2:processing >}}
@@ -218,30 +221,29 @@ ergänzend: Forschung bislang vor allem daran angesetzt, (angehende) Lehrpersone
 -   **Gestaltung der Wissenschaftskommunikation [z.B. @higgins2022; @lortie2021; @rycroft-smith2022b]**
 
 ::: notes
--  Fokus auf letzteren Ansatz aus unterschiedlichen Gründen legen
-    - immer mehr WK-Formate vorhanden
+-   Fokus auf letzteren Ansatz aus unterschiedlichen Gründen legen
+    -   immer mehr WK-Formate vorhanden
     -   aber wenig Forschung wie Lehrpersonen mit diesen umgehen und gleichzeitig bietet dieser Bereich besonderes Potenzial, um Studien zu designen, die intern valide Erkenntnisse erlauben
-    - ressourcensparender als z.B. RP Partnerships langfristig zu etablieren
+    -   ressourcensparender als z.B. RP Partnerships langfristig zu etablieren
 -   WK ist ein...
 :::
 
 # Wissenschafts- <br> kommunikation {{< iconify fa-solid:comments >}}
 
 ::: notes
--   sehr breites sowie interdisziplinäres Feld
-<!-- -   direkt relativ eng auf mein Forschungsinteresse zugeschnitten --> 
+-   sehr breites sowie interdisziplinäres Feld <!-- -   direkt relativ eng auf mein Forschungsinteresse zugeschnitten -->
 :::
 
 ## Wissenschafts- <br> kommunikationsformate {{< iconify fluent-emoji-high-contrast:newspaper >}} {.scrollable .smaller}
 
 |                                                                                                        |                                                                                                                   |                                                                                                                      |
-|-------------------------|---------------------|--------------------------|
+|----------------------|-------------------------|-------------------------|
 | Primärforschung<br>![](img/Paper_Beliefs%20in%20sources.png){.lightbox width="100"}<br>[@adesope2017]  | Zeitungsartikel <br>![](img/Welt_PISA.png){.lightbox width="100"}<br> [@michler2014]                              | Podcasts <br> ![](img/Podcast_CLT.png){.lightbox width="100"}<br>[@wisniewski2023]                                   |
 | Sekundärforschung <br>![](img/Paper_Retrieval%20practice.png){.lightbox width="100"}<br>[@adesope2017] | Pressemitteilungen <br> <br> ![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="100"}<br>[@rijkhoek2019] | Clearinghouse-Zusammenfassungen <br> ![](img/CHU_Forschendes%20Lernen.png){.lightbox width="100"}<br> [@knogler2017] |
 
 ::: notes
-- wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen
-- nun auf CHs beispielhaft eingehen, da im wissenschaftlich Diskurs immer prominenter werden
+-   wie zu Beginn angedeutet, ganz verschiedene WK-Formate sehen
+-   nun auf CHs beispielhaft eingehen, da im wissenschaftlich Diskurs immer prominenter werden
 :::
 
 ## Clearinghouses {{< iconify ph:house-bold >}} {.smaller}
@@ -254,36 +256,35 @@ ergänzend: Forschung bislang vor allem daran angesetzt, (angehende) Lehrpersone
 <center>*Knowledge Brokers* = Informationsvermittler zwischen Praktiker:innen und Wissenschaftler:innen [@besa2024; @farley-ripple2018; @hartmann2016; @rycroft-smith2022a]</center>
 
 ::: notes
-- verschiedene Beispiele; vermutlich bekanntestes CH in DE: CHU
-- Alle CHs sogenante knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities – Praktiker:innen hier Lehrpersonen und Wissenschaft– zu vermitteln
-- unterscheiden sich in bestimmten Aspekten, aber haben gemein qualitativ hochwertige **quantitative Studien** zusammenzufassen
-- schaut man sich die Zusammenfassungen näher an, zeigt sich, dass die statistische Ergebnisse ganz unterschiedlich aufbereitet werden
+-   verschiedene Beispiele; vermutlich bekanntestes CH in DE: CHU
+-   Alle CHs sogenante knowledge brokers, die darauf abzielen Wissen zwischen zwei Communities – Praktiker:innen hier Lehrpersonen und Wissenschaft– zu vermitteln
+-   unterscheiden sich in bestimmten Aspekten, aber haben gemein qualitativ hochwertige **quantitative Studien** zusammenzufassen
+-   schaut man sich die Zusammenfassungen näher an, zeigt sich, dass die statistische Ergebnisse ganz unterschiedlich aufbereitet werden
 :::
 
 ## Statistische Kommunikation in Clearinghouses {{< iconify fa-solid:comments >}} {.smaller}
 
-
-|   |  Textliche Aufbereitung  | Visuelle Aufbereitungen|
-|--:|:--:|:--:|
+|                       |                                    Textliche Aufbereitung                                    |                                      Visuelle Aufbereitungen                                      |
+|--------------:|:--------------------------:|:---------------------------:|
 | **Inferenzstatistik** |                         ![](img/CHU_sig.png){.lightbox width="200"}                          |                                                                                                   |
-| **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
-
+|     **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
 
 [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
 
-
 ::: notes
-- Bspe. mitgebracht
-- es ist zu erkennen dass textliche, aber auch visuelle Aufbereitungsformate genutzt werden
-  - und sowohl über Inferenzstatistiken - wie die klassische Signifikanzaussage -
-  - und Effektstärken - wie die in der Wissenschaft gängige standardisierte Effektstärke Hedges g informiert wird
-    -   es finden sich aber auch der Theorie nach intuitivere Effektstärken wie Cohen's U3, die in Prozent den Anteil der einen Gruppe angibt, der über dem MW der anderen Gruppe liegt **Visualisierung öffnen**
+-   Bspe. mitgebracht
 
-- Zusammenfassungen bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt und somit die Grundlage um praktische Relevanz aus den Ergebnissen abzuleiten
+-   es ist zu erkennen dass textliche, aber auch visuelle Aufbereitungsformate genutzt werden
 
-- eingangs erläutert, dass CH darauf abzielen, wissenschaftliche Informationen verständlicher aufzubereiten, stellt sich aber die Frage, ob Lehrpersonen diese Aufbereitungen tatsächlich verstehen als akkurat interpretieren
+    -   und sowohl über Inferenzstatistiken - wie die klassische Signifikanzaussage -
+    -   und Effektstärken - wie die in der Wissenschaft gängige standardisierte Effektstärke Hedges g informiert wird
+        -   es finden sich aber auch der Theorie nach intuitivere Effektstärken wie Cohen's U3, die in Prozent den Anteil der einen Gruppe angibt, der über dem MW der anderen Gruppe liegt **Visualisierung öffnen**
 
-- Aber warum ist diese Frage im Kontext evidenzinformierter Praxis so relevant?
+-   Zusammenfassungen bieten also Informationen darüber, wie sicher ein Effekt ist und wie Groß dieser ausfällt und somit die Grundlage um praktische Relevanz aus den Ergebnissen abzuleiten
+
+-   eingangs erläutert, dass CH darauf abzielen, wissenschaftliche Informationen verständlicher aufzubereiten, stellt sich aber die Frage, ob Lehrpersonen diese ganz verschiedenen Aufbereitungen tatsächlich verstehen also ob sie diese akkurat interpretieren
+
+-   Aber warum ist diese Frage im Kontext evidenzinformierter Praxis so relevant?
 :::
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
@@ -306,6 +307,21 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 <center>
 
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_3-Phase_misslungen.png){.lightbox width="700"}
+
+Eigene Adaption des Prozessmodells nach @grossophoff2023
+
+</center>
+
+::: notes
+-   dass die Schlussfolgerungsphase misslingt
+-   Das bedeutet, dass in der Schlussfolgerungsphase falsches Wissen generiert wir, dass dann entweder...
+:::
+
+## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
+
+<center>
+
 ![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_inadäquat.png){.lightbox width="700"}
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
@@ -313,10 +329,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 
 ::: notes
--  dass die Schlussfolgerungsphase misslingt
-- Das bedeutet
-    - entweder, dass in der Schlussfolgerungsphase falsches Wissen generiert wir, was dann zu falschen Entscheidungen in der Anwendungsphase führt
-    
+-   zu einer inadäquaten Anwendungsphase führt oder...
 :::
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
@@ -324,8 +337,8 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 <center>![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_gestoppt.png){.lightbox width="700"} <br> Eigene Adaption des Prozessmodells nach @grossophoff2023</center>
 
 ::: notes
-- oder die Fehlinterpretation führt dazu, dass die Relevanz der wissenschaftlichen Evidenz abgewertet wird
-- Prozess wird gestoppt und die Evidenz wird nicht in der Praxis angewandt
+-   zu einen allgemeinen Abwertung derwissenschaftlichen Evidenz
+-   Prozess wird gestoppt, da die Evidenz als nicht praktisch relevant angesehen wird und dadurch keinen Eingang in die Praxis findet
 :::
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
@@ -339,25 +352,32 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 </center>
 
 ::: fragment
-**→ Korrekte Interpretation statistischer Informationen notwendige, aber nicht hinreichende Bedingung für evidenzinformiertes Handeln** {{< iconify bi:exclamation-triangle-fill >}} **[vgl. @lortie2021]**
+**→ Korrekte Interpretation statistischer Informationen notwendige, aber nicht hinreichende Bedingung für evidenzinformiertes Handeln** {{< iconify bi:exclamation-triangle-fill >}} [**vgl. @lortie2021**]
 :::
 
-::: {.fragment}
+::: fragment
 -   Kaum bildungswissenschaftliche Studien zur Rezeption durch Lehrpersonen [z.B. @fitzgerald2022; @lortie2021; @merk2023]
+:::
+
+::: fragment
 -   Rezeption durch wissenschaftliche Laien = interdisziplinäres Forschungsfeld [z.B. @kim2022; @hanel2019b; @kale2021; @hanel2019a; @mcphetres2020; @kühberger2015; @sotos2009] ...
     -   ... mit überwiegend experimentellen Studiendesigns
     -   ... mit eklektischen Forschungserkenntnissen
-
 :::
 
 ::: notes
-**rhetorisches Highlight** - daher: korrekte Interpretation statistischer Infos eine **notwendige**, aber **nicht hinreichende** Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten - daher in meiner Dissertation den Fokus hierauf gelegt
--   trotz dieser Relevanz gibt es kaum Forschung in BiWi wie Lehrpersonen solche Informationen rezipieren
+**rhetorisches Highlight** - daher: korrekte Interpretation statistischer Infos eine **notwendige**, aber **nicht hinreichende** Bedingung, um evidenzinformiertes Wissen in die Praxis adäquat oder überhaupt zu transferieren und letztendlich das Potenzial des ganzen Prozesses zu entfalten
+
+-   daher in meiner Dissertation den Fokus hierauf gelegt
+
+-   trotz dieser Relevanz gibt es kaum Forschung in BiWi wie Lehrpersonen solche Informationen rezipieren/interpretieren
+
 -   zwar erste Studien z.B. aus der Psychologie,
-    - die vor allem in experimentellen Studien untersuchen,
-    - wie wissenschaftliche Laien im allgemeinen statistische Informationen verstehen und wahrnehmen
-    - aber Forschungsstand sehr eklektisch z.B. U3 nie über mehrere Studien hinweg mit den selben/gleichen Alternativen verglichen, was die Vergleichbarkeit der Studienergebnisse erschwert
-    
+
+    -   die vor allem in experimentellen Studien untersuchen,
+    -   wie wissenschaftliche Laien im allgemeinen statistische Informationen verstehen und wahrnehmen
+    -   aber Forschungsstand sehr eklektisch z.B. U3 nie über mehrere Studien hinweg mit den gleichen Alternativen verglichen, was die Vergleichbarkeit der Studienergebnisse erschwert
+
 -   unklar welche Aufbereitungen besonders verständlich sind und sich für solche WK-Formate wie CHs eignen
 
 -   Daher…
@@ -372,13 +392,14 @@ Inferenzstatistiken und Effektstärken textbasiert und visuell an Lehrpersonen k
 -   **kognitive Ressourcen von Lehrpersonen geschont werden.**
 
 ::: notes
-- habe ich mich folgendem Forschungsinteresse gewidmet:
-    - wie Inferenzstatistiken und Effektstärken an Lehrpersonen textbasiert und visuell kommuniziert werden können, damit diese
-        - die Evidenz als praktisch relevant erachten,
-        - sie gleichzeitig die statistische Informationen akkurat interpretieren
-        - aber auch ihre kognitiven Ressourcen geschont werden
+-   habe ich mich folgendem Forschungsinteresse gewidmet:
 
-- nimmt man Akkuratheit und kognitive Ressourcen zusammen, bildet dies das Ziel der leicht verständlichen WK
+    -   wie Inferenzstatistiken und Effektstärken an Lehrpersonen textbasiert und visuell kommuniziert werden können, damit diese
+        -   die Evidenz als praktisch relevant erachten,
+        -   sie gleichzeitig die statistische Informationen akkurat interpretieren
+        -   aber auch ihre kognitiven Ressourcen geschont werden
+
+-   nimmt man Akkuratheit und kognitive Ressourcen zusammen, bildet dies das Ziel der leicht verständlichen WK
 
 -   Dieser Aspekt ist der Fokus im Folgenden
 :::
@@ -448,9 +469,13 @@ Publiziert in Teaching and Teacher Eduaction (https://doi.org/10.1016/j.tate.202
 -   Unvollständig rotiertes 5x6 Within-Within-Design
     -   Within-Faktor 1: Thema
         -   G8
+
         -   Motivationsförderung in Mathematik
+
         -   Faktenboxen
+
         -   PISA
+
         -   Untertitel in Filmen
 
             <center>![](img/study1_vignette.png){.lightbox width="400"}</center>
@@ -463,14 +488,14 @@ Publiziert in Teaching and Teacher Eduaction (https://doi.org/10.1016/j.tate.202
         -   Kombinierte Aussage aus Inferenzstatistik und Effektstärke
 
 |                                                    |                                                 |                                                  |
-|------------------------|------------------------|------------------------|
+|-------------------------|-----------------------|------------------------|
 | ![](img/study1_sig.png){.lightbox width="400"}     | ![](img/study1_pval.png){.lightbox width="400"} | ![](img/study1_bf.png){.lightbox width="400"}    |
 | ![](img/study1_cohensd.png){.lightbox width="400"} | ![](img/study1_u3.png){.lightbox width="400"}   | ![](img/study1_kombi.png){.lightbox width="400"} |
 
 ::: notes
 -   hierfür repräsentativ 414 aktive Lehrpersonen in DE rekrutiert
 -   in einem unvollständig rotieren 5x6 within within Design Lehrpersonen 2 PM präsentiert, die hinsichtlich des Within-Faktors Thema und des Within Faktors statistische Beschreibung manipuliert waren
-    - UV z.B. U3
+    -   UV z.B. U3
 :::
 
 ## Abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
@@ -479,10 +504,10 @@ Publiziert in Teaching and Teacher Eduaction (https://doi.org/10.1016/j.tate.202
 -   **Interpretation als Effektstärke** <br> ![](img/study1_item_ieff.png){.lightbox width="700"}
 
 ::: notes
-- als AV zum einen Interpretation als Inferenzstatistik
+-   als AV zum einen Interpretation als Inferenzstatistik
     -   Likert-Item danach gefragt, inwiefern die statistische Beschreibung eine Aussage darüber erlaubt, wie sicher es ist, dass der Unterschied tatsächlich exisitert - Interpretation als Inferenzstatistik -
-    - und zum anderen Interpretation als Effektstärke 
-    - ähnliche Operationalisierung aber mit dem inhaltlichen Schwerpunt wie groß der Unterschied ist
+    -   und zum anderen Interpretation als Effektstärke
+    -   ähnliche Operationalisierung aber mit dem inhaltlichen Schwerpunt wie groß der Unterschied ist
 :::
 
 ## Ergebnisse {{< iconify fa6-solid file-lines >}} {.smaller}
@@ -508,10 +533,10 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 ##  {background-image="img/study1_interpretation_product_plot.png" background-size="contain"}
 
 ::: notes
--   ein zentrale Punkt, den diese Grafik verdeutlich ist, dass Lehrpersonen bei allen statistischen Beschreibungen die Verteilungen der Interpretation als Inf links und Interpretation als Eff rechts stark überlappen
+-   ein zentrale Punkt, den ich mit dieser Visualisierung veranschaulichen möchte ist, dass bei allen statistischen Beschreibungen die Verteilungen der Interpretation als Inf links und der Interpretation als Eff rechts stark überlappen
 :::
 
-
+```{=html}
 <!--
 ## {background-image="img/study1_interpretation_product_plot_interpretation_sign.png" background-size=contain}
 
@@ -531,7 +556,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 
 :::
 -->
-
+```
 ##  {background-image="img/study1_interpretation_product_plot_interpretation_alle.png" background-size="contain"}
 
 ::: notes
@@ -542,9 +567,9 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 ##  {background-image="img/study1_interpretation_product_plot_korrekt.png" background-size="contain"}
 
 ::: notes
-- korrekte Interpretation würde daher also so aussehen: Mittelwerte weit auseinander,**Anführungszeichen** bzw. geringe Überlappung der Verteilungen
+-   korrekte Interpretation würde daher also so aussehen: Mittelwerte weit auseinander,**Anführungszeichen** bzw. geringe Überlappung der Verteilungen
 
-- diese fehlende Differenzierung konnten wir inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA absichern
+-   diese fehlende Differenzierung konnten wir inferenzstatistisch mithilfe einer Bayesianischen messwiederholten ANOVA absichern
 :::
 
 ##  {background-image="img/study1_interpretation_product_plot.png" background-size="contain"}
@@ -558,11 +583,11 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 ::: notes
 -   bei der statistischen Signifikanz-Aussage zeigt sich bei der Interpretation als Effektstärke eine bimodale Verteilung
 
-- gleiches gilt für Interpretation von Cohen's U3 als Inferenzstatistik
+-   gleiches gilt für Interpretation von Cohen's U3 als Inferenzstatistik
 
-- das lässt vermuten, dass es wohl eine Gruppe an Lehrpersonen gibt, die korrekt angibt, dass z.B. Signifikanz-Aussage keine Aussage über die Größe eines Unterschieds erlaubt, aber auch eine Gruppe, die sich fälschlicherweise sicher ist, dass diese Aussage zulässig ist.
+-   das lässt vermuten, dass es wohl eine Gruppe an Lehrpersonen gibt, die korrekt angibt, dass z.B. Signifikanz-Aussage keine Aussage über die Größe eines Unterschieds erlaubt, aber auch eine Gruppe, die sich fälschlicherweise sicher ist, dass diese Aussage zulässig ist.
 
-- Der Frage, ob es solche unterschiedlichen Interpretationsgruppen genauer Interpretationsprofile vorliegen, wollte ich näher auf den Grund gehen, also haben wir in der ...
+-   Der Frage, ob solche unterschiedlichen Interpretationsgruppen -genauer Interpretationsprofile- vorliegen, wollte ich näher auf den Grund gehen, also haben Kolleg:innen und ich ...
 :::
 
 ## Studie 2 {{< iconify fa6-solid file-lines >}} {.smaller auto-animate="true"}
@@ -576,7 +601,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
 <br> Im Review-Verfahren bei Learning & Instruction
 
 ::: notes
--  zweiten Studie diese Daten re-analysiert, um herauszufinden, ob Lehrpersonen verschiedenen Interpretationsprofile zugeordnet werden können
+- in einer weiteren Studie diese Daten re-analysiert, um herauszufinden, ob Lehrpersonen verschiedenen Interpretationsprofile zugeordnet werden können
 :::
 
 ## Unabhängige & abhängige Variablen {{< iconify gis:measure >}} {.smaller .scrollable}
@@ -605,7 +630,7 @@ Keine Differenzierung zwischen Inferenzstatistik und Effektstärke [{{< iconify 
     ![](img/study1_item_ieff.png){.lightbox width="300"}
 
 ::: notes
-- da diese Studie eine Reanalyse war, haben wir auf die Daten der Lehrpersonen aus Studie 1 und somit auch auf die gleichen Materialien zurückgegriffen
+-   da diese Studie eine Reanalyse war, haben wir auf die Daten der Lehrpersonen aus Studie 1 und somit auch auf die gleichen Materialien zurückgegriffen
 :::
 
 ## Ergebnisse {{< iconify fa6-solid file-lines >}} {.smaller}
@@ -619,15 +644,13 @@ Verschiedene Interpretationsprofile, die korrekte Interpretationen und verschied
 <center>![](img/LatentProfiles.png){.lightbox width="700"}</center>
 
 ::: notes
-- Durch das Explorieren mit latenten Profilanalysen ergaben sich verschiedene Interpretationsprofile, die überwiegend über beide Stichproben hinweg vergleichbar waren
-    - manche Lehrpersonen waren durchaus in der Lage die Lehrpersonen Signifikanz oder U3 im Durchschnitt korrekt interpretiert, hier in neon-grün abgetragen und als Disentanglers bezeichnet 
-    - aber Sie sehen, dass die Mehrheit der Lehrpersonen Profilen zugeordnet werden können, die unterschiedliche Fehlkonzepte zusammenfassen
+-   Durch das Explorieren mit latenten Profilanalysen ergaben sich verschiedene Interpretationsprofile, die überwiegend über beide Stichproben hinweg vergleichbar waren
+    -   manche Lehrpersonen waren durchaus in der Lage die Signifikanz oder U3 im Durchschnitt korrekt interpretieren, hier in grün abgetragen und als Disentanglers bezeichnet
+    -   aber Sie sehen in den rot dargestellten Profilen, dass die Mehrheit der Lehrpersonen Profilen zugeordnet werden können, die unterschiedliche Fehlkonzepte zusammenfassen
 
 kommen wir jetzt zur 3 Studie
 
-ergänzend:
-hier als Entanglers bezeichnet jeweils 1/3 die bei Signifikanz oder U3 nicht zwischen Inferenzstatistik und Effektstärke unterscheiden
-
+ergänzend: hier als Entanglers bezeichnet jeweils 1/3 die bei Signifikanz oder U3 nicht zwischen Inferenzstatistik und Effektstärke unterscheiden
 :::
 
 ## Studie 3 {{< iconify fa6-solid chart-area >}} {.smaller auto-animate="true"}
@@ -644,7 +667,7 @@ Im Druck in der Zeitschrift für Psychologie
 
 ::: notes
 -   nun visuelle Aufbereitung von Effektstärken
--   3 FF inwieweit Anreicherungen in Visualisierungen Akkuratheit der Interpretationen steigern 
+-   3 FF inwieweit Anreicherungen in Visualisierungen Akkuratheit der Interpretationen steigern
 :::
 
 ## Design {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
@@ -654,16 +677,22 @@ Im Druck in der Zeitschrift für Psychologie
 4x10x2x4 Between-Within-Within-Between Design
 
 -   Between-Faktor 1: Thema
+
     -   Lesen auf Papier vs. Tablet
+
     -   Lernen anhand eines Live-Vortrags vs. Video
+
     -   Lernen mittels Experimentieren vs. Computersimulation
+
     -   Lernen mittels Erklärvideo mit Untertitel vs. Erklärvideo ohne Untertitel
- <center>![](img/study3_vignette.png){.lightbox width="400"}</center>
+
+        <center>![](img/study3_vignette.png){.lightbox width="400"}</center>
 
 -   Within-Faktor 2: präsentierte Effektstärke\
     *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
 
 -   Within-Faktor 3: Visualisierungsart
+
     -   Halfeye plot mit Gruppen auf der x-Achse
     -   Halfeye plot mit Gruppen auf der y-Achse
 
@@ -678,17 +707,17 @@ Im Druck in der Zeitschrift für Psychologie
 <center>![](img/signaling_CohensU3.jpg){.lightbox width="100"} ![](img/signaling_Overlap.jpg){.lightbox width="100"} ![](img/benchmarking.jpg){.lightbox width="80"}</center>
 
 ::: notes
-- 220 englischsprachige Lehrpersonen
-- ein 4x10x2x4 Between-Within-Within-Between Design
-- der Between-Faktor Thema kontextualisierte je Lehrperson die insgesamt 20 Effektstärkenvisualisierungen 
+-   220 englischsprachige Lehrpersonen
+-   ein 4x10x2x4 Between-Within-Within-Between Design
+-   der Between-Faktor Thema kontextualisierte je Lehrperson die insgesamt 20 Effektstärkenvisualisierungen
 -   diese variiereten wiederum in der präsentierte Effektstärke
 -   und in der Art der Visualisierung
     -   Halfeye plots
-    - wir haben diese präsentiert, da wir in vorherigen Studien, die auch Teil dieses Projektes waren, diese als besonders geeignet für die Kommunikation mit Lehrpersonen identifizieren konnten
+    -   wir haben diese präsentiert, da wir in vorherigen Studien, die auch Teil dieses Projektes waren, diese als besonders geeignet für die Kommunikation mit Lehrpersonen identifizieren konnten
 -   zentrale UV Experimentalbedingungen Between-Faktor, also ob Anreicherung vorhanden oder nicht
-    - zwei von vier näher vorstellen
-    - Kontrollgruppe: halfeye plots ohne Anreicherung
-    - Signaling U3: Unterschiede im Sinne von Cohen's U3 hervorgehoben, also der Anteil der einen Gruppe über dem MW der anderen Gruppe lag
+    -   zwei von vier näher vorstellen
+    -   Kontrollgruppe: halfeye plots ohne Anreicherung
+    -   Signaling U3: Unterschiede im Sinne von Cohen's U3 hervorgehoben, also der Anteil der einen Gruppe über dem MW der anderen Gruppe lag
 
 ergänzend: - Benchmark: Vergleichsgrafik - Ergebnisse zu einem vergleichbaren Thema inkl. Interpretation wie Wissenschaftler:innen das Ergebnis interpretieren würden - Experimentalgruppen, in denen relevante Informationen in den Visualisierungen hervorgehoben wurden (signaling)
 :::
@@ -704,15 +733,12 @@ ergänzend: - Benchmark: Vergleichsgrafik - Ergebnisse zu einem vergleichbaren T
 
 ::: notes
 -   Akkuratheit operationalisiert als
-    - abstrakte Metrik: wie stark sich die Gruppen auf einer Skala von -1 komplette Unterlegenheit einer Gruppe bis +1 komplette Überlegenheit der Gruppeunterscheiden
-    -  und operationalisiert als U3-Metrik, % im Sinne von U3 Effektstärke angeben sollten
-- U3-Fehlkonzepte
+    -   abstrakte Metrik: wie stark sich die Gruppen auf einer Skala von -1 komplette Unterlegenheit einer Gruppe bis +1 komplette Überlegenheit der Gruppeunterscheiden
+    -   und operationalisiert als U3-Metrik, Lehrpersonen die Effektstärke in % im Sinne von U3  angeben
+-   U3-Fehlkonzepte
     -  Personen, die im Median unplausibel kleine U3 Werte angaben wurden als Personen mit U3-Fehlkonzept definiert
 
-ergänzend: 
-- (U3 Fehlkonzept definiert als Median des U3 Ratings kleiner als 21.2% = d von −.8)
-- Akkuratheit auch noch über Overlap Item, Overlap-Fehlkonzept, Sensitivität und Effizienz
--zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei F ragen operationalisiert, die immer kontextualisiert waren
+ergänzend: - (U3 Fehlkonzept definiert als Median des U3 Ratings kleiner als 21.2% = d von −.8) - Akkuratheit auch noch über Overlap Item, Overlap-Fehlkonzept, Sensitivität und Effizienz -zufällig nach den ersten 10 oder letzten 10 Visualisierung mit drei F ragen operationalisiert, die immer kontextualisiert waren
 :::
 
 ## Ergebnisse {{< iconify fa6-solid chart-area >}} {.smaller}
@@ -722,19 +748,21 @@ ergänzend:
 <br>
 
 |                                                                     Akkuratheit                                                                      |                                                                                                                 Fehlkonzept                                                                                                                  |
-|:------------------------------:|:-------------------------------------:|
+|:--------------------------:|:------------------------------------------:|
 | {{<iconify charm:scales>}} <br> ![](img/study3_plot_diff_am.png){.lightbox width="150"} <br> ![](img/study3_plot_diff_u3.png){.lightbox width="150"} | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an Cohen's *U*<sub>3</sub>-Fehlkonzepten bei Signaling *U*<sub>3</sub>-Bedingung <br> ![](img/study3_plot_u3_misconceptions.png){.lightbox width="200"} |
 
 ::: notes
 -   alle abgetragenen Ergebnisse basieren auf baysianischen Mehrebenenmodellen
     -   Evidenz für die Nullhypothese hinsichtlich Akkuratheit
-      - es gab also keine Unterschiede zwischen Visualisierungen mit Signaling U3 und ohne 
-    -   interessant ist aber, dass es Unterschiede zwischen Operationalisierungen gibt
-        - es gelingt Lehrpersonen erstaunlich gut, die visuell präsentierte Effektstärke in abstrakte Metrik zu transferieren über alle Bedingungen hinweg einzuschätzen
-        -   ieht man in dieser Visualisierung gut, auf x-Achse die Differenz aus wahrer und geschätzter Effektstärke abgetragen
-        -   in allen Bedingungen, Mittelwerterte um 0 tummeln und moderate Streuung; 0 = perfekte Übereinstimmung
-    -  gleiche Grafik aber mit U3-Rating: Verzerrungen in der U3 Metrik deutlich. Es liegt ein Bias vor, weil MW von 0, abweichen (Ergebnisse ohne Personen mit U3 Fehlkonzpet); Streuung moderat
--   zudem: Signaling U3 reduziert U3 Fehlkonzepte deutlich
+    -   es gab also keine Unterschiede zwischen Visualisierungen mit Signaling U3 und ohne
+    -   interessant ist aber, dass es Unterschiede zwischen den Operationalisierungen von Akkuratheit gab
+        - es gelingt Lehrpersonen erstaunlich gut, die visuell präsentierte Effektstärke in abstrakte Metrik zu transferieren und das über alle Bedingungen hinweg 
+        - sieht man in dieser Visualisierung gut, auf x-Achse die Differenz aus wahrer und geschätzter Effektstärke abgetragen
+        -   in allen Bedingungen, Mittelwerterte um 0 tummeln und 0 = perfekte Übereinstimmung
+        - außerdem moderate Streuung
+    -   gleiche Grafik, aber jetzt U3 Ratings dargestellt: Verzerrungen in der U3 Metrik deutlich. Es liegt ein Bias vor, weil MW von 0 abweichen (Ergebnisse ohne Personen mit U3 Fehlkonzpet); Streuung moderat
+-   zudem konnten wir starke Evidenz dafür finden, dass Signaling U3 U3 Fehlkonzepte deutlich reduziert
+
 :::
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {.smaller auto-animate="true"}
@@ -775,6 +803,12 @@ Inwieweit steigern Anreicherungen in Visualisierungen die Akkuratheit der Interp
 </center>
 :::
 
+::: notes
+
+zentralen Ergebnisse aller drei Studien nochmals in Take Home Messages zusammenfassen
+
+:::
+
 ## Take Home Messages {{< iconify fa6-solid lightbulb >}}
 
 -   Intuitivere statistische Informationen {{<iconify fa-solid:not-equal>}} weitgehend/allgemein verständliche Informationen
@@ -804,7 +838,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ::: notes
 -   abschließend nochmals hervorheben, dass die Rezeption von statistischen Informationen zwar notwendig, aber nicht hinreichend für evidenzinformiertes Handeln
-    -  wenn wir uns nochmals an dieses Modell erinnern, in der Schlussfolgerungsphase weitere Faktoren relevant, die die Schlussfolgerung beeinflussen können z.B. Überzeugungen
+    -   wenn wir uns nochmals an dieses Modell erinnern, in der Schlussfolgerungsphase weitere Faktoren relevant, die die Schlussfolgerung beeinflussen können z.B. Überzeugungen
     -   und insgesamt die Schlussfolgerungsphase nur ein kleines Puzzleteil eines komplexen Prozesses
 :::
 
@@ -813,56 +847,52 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 > Gestaltung verständliche Wissenschaftskommunikation herausfordernd
 
 ::: fragment
-<center>![](img/Modell_bottomup){.lightbox width="950"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
+<center>![](img/Modell_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 :::
 
-
 ::: notes
+-   Ergebnisse zeigen, dass verständlicher WK herausfordernd
 
-- Ergebnisse zeigen, dass verständlicher WK herausfordernd
+-   weitere Forschung notwendig, welche textlichen und visuellen Formate sich eignen; möglicherweise auch Kombinationen
 
-- weitere Forschung notwendig, welche textlichen und visuellen Formate sich eignen; möglicherweise auch Kombinationen
+-   jetzt erlaube ich mir aber noch etwas herauszuzoomen
 
-- jetzt erlaube ich mir aber noch etwas herauszuzoomen
+-   vier Jahre mit diesem Thema nutzerfreundliche WK beschäftigt und mir auch immer wieder Gedanken über das größere Ganze gemacht
 
-- vier Jahre mit diesem Thema nutzerfreundliche WK beschäftigt und mir auch immer wieder Gedanken über das größere Ganze gemacht
-    - dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Visualisierungen gestoßen, das mich auf die folgende Implikation gebracht hat
-    - diesem Modell nach, haben wir mit unserem Ansatz sogenannte bottom-up Verstehensprozesse adressiert
-    - wir haben versucht mithilfe von bestimmten Präsentationsformaten Lehrpersonen die Schritte hin zu einem adäquaten mentalen Modell zu erleichten 
-    - und letztendlich Lernprozesse auszulösen, die bei Lehrpersonne zu langfristigem Wissen führen, das für evidenzinformiertes Handeln notwendig ist
-    
+    -   dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Visualisierungen gestoßen, das mich auf die folgende Implikation gebracht hat
+    -   diesem Modell nach, haben wir mit unserem Ansatz sogenannte bottom-up Verstehensprozesse adressiert
+    -   wir haben versucht mithilfe von bestimmten Präsentationsformaten Lehrpersonen die Schritte hin zu einem adäquaten mentalen Modell zu erleichten
+    -   und letztendlich Lernprozesse auszulösen, die bei Lehrpersonne zu langfristigem Wissen führen, das für evidenzinformiertes Handeln notwendig ist
+
 -   das Modell impliziert aber auch, ...
-
 :::
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
 > Gestaltung verständliche Wissenschaftskommunikation herausfordernd
 
-
-<center>![](img/Modell_topdown_bottomup){.lightbox width="950"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
-
+<center>![](img/Modell_topdown_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 
 ::: notes
+-   ... dass die Schritte hin zum Mentalen Modell und das Mentale Modell selbst durch das bereits vorhande Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
 
-
-- ... dass die Schritte hin zum Mentalen Modell und das Mentale Modell selbst durch das bereits vorhande Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
     -   angepasst an meine Forschungs beeinflusst hierbei beispielsweise die statistische Kompetenz und die graph literacy, welche visuellen oder textlichen Elementen in unseren Präsentationen von den Lehrpersonen wahrgenommen wurden
 
 -   Erste Hinweise für dieses Zusammenspiel auch in den Daten gezeigt
+
     -   um ein Beispiel zu geben
     -   manche Lehrpersonen wiesen in Studie 3 Fehlkonzepte in der einen Akkuratheitsoperationalisierung auf, aber nicht in einer anderen, in keiner oder in mehreren, was vor allem von ihre statistischen Vorkenntnisse zu Effektstärken abhängig sein könnte
 
-- zusammenfassend also festhalten, meine Ergebnisse deuten darauf hin, dass WK alleine möglicherweise nicht ausreichend ist und zusätzlich die Kompetenzen von Lehrpersonen systematisch gefördert werden müssen
+-   zusammenfassend also festhalten, meine Ergebnisse deuten darauf hin, dass WK alleine möglicherweise nicht ausreichend ist und zusätzlich die Kompetenzen von Lehrpersonen systematisch gefördert werden müssen
 
 -   In zukünftigen Ansätzen sollte also stärker das Zusammenspiel von bisher eher getrennt gedachten Ansätzen Wissenschaftskommunikation und Lehrpersonen Aus- und Fortbildung berücksichtigt werden, um beide Verstehensprozesse zu adressieren und somit das Verstehen statistischer Informationen erleichtern
 
-
+```{=html}
 <!--
   + konkretes Beispiel: in Methodenausbildung WK-Formate zurückgreifen und die Interpretation von statistischen Ergebnissen daran üben, mit Formaten Vertraut machen, die explizit für Praktiker:innen sind und für die spätere Praxis relevant sind und vor allem Interpretation üben weil für EIP notwendig
   + stärkeren Fokus darauf legen, welches methodische Verständniss Lehrpersonen für das evidenzinformierte Handeln tatsächlich brauchen
 -->
-
+```
 ergänzend:
 
 *Competent Outsiders*
@@ -903,7 +933,7 @@ Modell evidenzbasierten Unterrichts (EBU) nach @rochnia2022
 
 -   "In **evidence-informed** teaching (...) educational evidence should **not** be regarded as **a “recipe” that can easily be applied** to a given problem like a drug can be administered to cure a patient of a headache. When it comes to teaching, educational theories and evidence should instead be regarded as **one of several possible sources** to guide decisions" [@kiemer2021, S.128, eigene Hervorhebung]
 
-<center> &rarr; "'Evidence-informed practice in education' to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data. **Many stakeholders use the terms 'evidence-based' and 'evidence-informed' interchangeably**" [@nelson2017, S.128, eigene Hervorhebung] </center>
+> "'Evidence-informed practice in education' to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data. **Many stakeholders use the terms 'evidence-based' and 'evidence-informed' interchangeably**" [@nelson2017, S.128, eigene Hervorhebung]
 :::
 
 ## Statistische Analysen {{< iconify fa6-solid laptop-code >}} {.smaller .scrollable}
@@ -912,7 +942,7 @@ Modell evidenzbasierten Unterrichts (EBU) nach @rochnia2022
 
 -   Testen informativer präregistrierte Hypothesen mit dem R-Paket *bain* [@gu2018; @hoijtink2008]
     -   Bayesianische ANOVA Modelle mit Messwiederholung
-    -   Pfadmodell
+    -   Bayesianische Pfadmodell
 
 **Studie 2**
 
@@ -921,7 +951,7 @@ Modell evidenzbasierten Unterrichts (EBU) nach @rochnia2022
 
 **Studie 3**
 
--   verschiedene Bayesianische Mehrebenenmodelle mit R-Paket *brms* [@gelman2007;@burkner2017]
+-   verschiedene Bayesianische Mehrebenenmodelle mit R-Paket *brms* [@gelman2007; @burkner2017]
 -   Modellvergleiche mit Bayes Faktoren [@gronau2017]
 -   Explorative und konfirmatorische Analysen
 
@@ -931,35 +961,35 @@ Studie 3 estimation
 
 # Studie 1 {{< iconify fa6-solid file-lines >}}
 
-## Studie 1: Repräsentative Stichprobe {{< iconify fa-solid:users>}}  {.smaller}
+## Studie 1: Repräsentative Stichprobe {{< iconify fa-solid:users>}} {.smaller}
 
-* *N* = 414 Lehrpersonen in Deutschland 
-* 66,91% weiblich
-* 94,93% ohne Migrationshintergrund
-* *M<sub>Alter</sub>* = 47,70 Jahre (*SD* = 10,82)
-* *M<sub>Lehrerfahrung</sub>* = 17,37 Jahre (*SD* = 11,13)
-* Verschiedene Schularten (z.B. 27,29 % Gymnasiallehrpersonen; 26,09% Grundschullehrpersonen; 18,60 % Gesamtschullehrpersonen)
-* Verschiedene Unterrichtsfächer (z.B. 58,45 % unterrichten ein geistes- oder sozialwissenschaftliches Fach; 54,83 % mind. eine Sprache; 43,72 % ein mathematisches oder naturwissenschaftliches Fach)
+-   *N* = 414 Lehrpersonen in Deutschland
+-   66,91% weiblich
+-   94,93% ohne Migrationshintergrund
+-   *M*<sub>Alter</sub> = 47,70 Jahre (*SD* = 10,82)
+-   *M*<sub>Lehrerfahrung</sub> = 17,37 Jahre (*SD* = 11,13)
+-   Verschiedene Schularten (z.B. 27,29 % Gymnasiallehrpersonen; 26,09% Grundschullehrpersonen; 18,60 % Gesamtschullehrpersonen)
+-   Verschiedene Unterrichtsfächer (z.B. 58,45 % unterrichten ein geistes- oder sozialwissenschaftliches Fach; 54,83 % mind. eine Sprache; 43,72 % ein mathematisches oder naturwissenschaftliches Fach)
 
 [vgl. @destatis2019]
 
 ## Studie 1: Hypothesen {{< iconify bi:exclamation-circle >}} {.smaller .scrollable}
 
-* __Hypothese 1__: Statistische Signifikanz Aussage, Beschreibung von Cohen's *U<sub>3</sub>* und die kombinierte Aussage von Inferenzstatistik und Effektstärke werden informativier wahrgenommen als die Definition des *p*-Wertes, die Beschreibung des Bayes Faktors und von Cohen's *d*. 
+-   **Hypothese 1**: Statistische Signifikanz Aussage, Beschreibung von Cohen's *U*<sub>3</sub> und die kombinierte Aussage von Inferenzstatistik und Effektstärke werden informativier wahrgenommen als die Definition des *p*-Wertes, die Beschreibung des Bayes Faktors und die Beschreibung von Cohen's *d*.
 
-* __Hypothese 2__: Wahrgenommene Informativität und korreliert moderat bis stark mit Selbstvertrauen in statistische Interpretationen
+-   **Hypothese 2**: Wahrgenommene Informativität korreliert moderat bis stark mit Selbstvertrauen in statistische Interpretationen.
 
-* __Hypothese 3__: Die Beschreibung von Cohen's *U<sub>3</sub>* wird im Durchschnitt als Effektstärke interpretiert.
+-   **Hypothese 3**: Die Beschreibung von Cohen's *U*<sub>3</sub> wird im Durchschnitt als Effektstärke interpretiert.
 
-* __Hypothese 4__: Die Beschreibung des Bayes Faktors wird im Durchschnitt als Inferenzstatistik interpretiert.
+-   **Hypothese 4**: Die Beschreibung des Bayes Faktors wird im Durchschnitt als Inferenzstatistik interpretiert.
 
-* __Hypothese 5__: Im Durchschnitt wird die Signifikanz-Aussage als Inferenzstatistik und Effektstärke interpretiert.
+-   **Hypothese 5**: Die Signifikanz-Aussage wird im Durchschnitt als Inferenzstatistik und Effektstärke interpretiert.
 
-* __Hypothese 6__: Im Durchschnitt wird die kombinierte Aussage von Inferenzstatistik und Effektstärke als Inferenzstatistik und Effektstärke interpretiert.
+-   **Hypothese 6**: Die kombinierte Aussage von Inferenzstatistik und Effektstärke wird im Durchschnitt als Inferenzstatistik und Effektstärke interpretiert.
 
-* __Hypothese 7__: Die Interpretationen der Beschreibung der Signifikanz-Aussage und der kombinierten Aussage von Inferenzstatistik und Effektstärke sind stärker "verflochten" als die Interpretationen der *p*-Werte, Bayes Faktoren, Cohen's *d* und Cohen's *U<sub>3</sub>*
+-   **Hypothese 7**: Die Interpretationen der Beschreibung der Signifikanz-Aussage und der kombinierten Aussage von Inferenzstatistik und Effektstärke sind stärker "verflochten" als die Interpretationen der *p*-Werte, Bayes Faktoren, Cohen's *d* und Cohen's *U*<sub>3</sub>.
 
-## Studie 1: Weitere abhängige Variablen  {{< iconify gis:measure >}}
+## Studie 1: Weitere abhängige Variablen {{< iconify gis:measure >}}
 
 -   Wahrgenommene Informativität
 
@@ -973,23 +1003,62 @@ Studie 3 estimation
 
 <center>![](img/study1_informativity_product_plot.png){.lightbox width="400"}</center>
 
-<center>![Adaptiert von Schmidt et al. (2023)](img/study1_confidence_plot.png){.lightbox width="400"}</center>
+<center>
 
+![Adaptiert von Schmidt et al. (2023)](img/study1_confidence_plot.png){.lightbox width="400"}
+
+</center>
 
 # Studie 2 {{< iconify fa6-solid file-lines >}}
 
 ## Studie 2: Kovariaten {{< iconify gis:measure >}} {.smaller .scrollable}
 
-| | |
-|----|----|
-|Selbstvertrauen in statistische Interpretation| 5-stufiges Likertitem|
-Interesse in <br> -Wissenschaft und Forschung <br> -Bildungswissenschaft und Bildungsforschung | 5-stufiges Likertitem [@bromme2022]|
-Vertrauen in <br> -Wissenschaft und Forschung <br> -Bildungswissenschaft und Bildungsforschung | 5-stufiges Likertitem [@bromme2022]|
-Wahrgenommene Komplexität von <br> -Wissenschaft und Forschung <br> -Bildungswissenschaft und Bildungsforschung | 5-stufiges Likertitem [@bromme2022]|
-Selbstkonzept bezüglich Bildungswissenschaften | Skala nach @grossophoff2019 und @grossophoff2018 | 
-Überzeugungen zum Theorie-Praxis-Verhältnis | Skala nach @schneider2019|
+-   **persönliche Hintergrundsvariablen**
 
+    -   Geschlecht
+    -   Alter
 
+-   **berufsbezogene Hintergrundsvariablen**
+
+    -   Lehrerfahrung (in Jahren)
+    -   Schulart: Gymnasial vs. Nicht-Gymnasial-Lehrperson
+    -   Studium: Universität vs. Pädagogische Hochschule
+    -   politische Funktion (z.B. Schulleitung, Mitglied einer Kontrollgruppe) vs. keine politische Funktion
+    -   Unterrichtsfach: MINT vs. Nicht-MINT
+
+-   **Selbstvertrauen in statistische Interpretation** (5-stufiges Likertitem)
+
+-   **Interesse in...** (5-stufige Likertitems @bromme2022)
+
+    -   ... Wissenschaft und Forschung
+
+    -   ... Bildungswissenschaft und Bildungsforschung
+
+        <center>![](img/study2_Item_Interesse.png){.lightbox width="300"}</center>
+
+-   **Vertrauen in...** (5-stufige Likertitems @bromme2022)
+
+    -   ... Wissenschaft und Forschung
+
+    -   ... Bildungswissenschaften und Bildungsforschung
+
+        <center>![](img/study2_Item_Vertrauen.png){.lightbox width="300"}</center>
+
+-   **Wahrgenommene Komplexität von...** (5-stufige Likertitems [@bromme2022])
+
+    -   ... Wissenschaft und Forschung
+
+    -   ... Bildungswissenschaften und Bildungsforschung
+
+        <center>![](img/study2_Item_Komplexität.png){.lightbox width="300"}</center>
+
+-   **Skala: Selbstkonzept bezüglich Bildungswissenschaften** [@grossophoff2018]
+
+    <center>![](img/study2_Items_Selbstkonzept-BiWi.png){.lightbox width="200"}</center>
+
+-   **Skala: Überzeugungen zum Theorie-Praxis-Verhältnis** [@schneider2019]
+
+    <center>![](img/study2_Items_TPV.png){.lightbox width="200"}</center>
 
 ## Studie 2: Weitere Ergebnisse {{< iconify fa6-solid file-lines >}}
 
@@ -998,7 +1067,6 @@ Selbstkonzept bezüglich Bildungswissenschaften | Skala nach @grossophoff2019 un
 <center>![](img/study2_covariates_dich_mixed.png){.lightbox width="300"}</center>
 
 <center>![](img/study2_covariates_age_teachingexp_mixed_sample.png){.lightbox width="300"}</center>
-
 
 # Studie 3 {{< iconify fa6-solid chart-area >}}
 
@@ -1010,7 +1078,7 @@ Selbstkonzept bezüglich Bildungswissenschaften | Skala nach @grossophoff2019 un
 
 ::: columns
 ::: {.column width="50%"}
-__Explorative Studie__
+**Explorative Studie**
 
 -   *N* = 40 englischsprachige Lehrpersonen
 -   67,5% weiblich
@@ -1034,15 +1102,18 @@ __Explorative Studie__
 :::
 :::
 
-
 ## Studie 3: Design der explorativen <br> Studie {{< iconify fa6-solid compass-drafting >}} {.smaller .scrollable}
 
 4x6x4 Between-Within-Within Design
 
 -   Between-Faktor 1: Thema
+
     -   Lesen auf Papier vs. Tablet
+
     -   Lernen anhand eines Live-Vortrags vs. Video
+
     -   Lernen mittels Experimentieren vs. Computersimulation
+
     -   Lernen mittels Erklärvideo mit Untertitel vs. Erklärvideo ohne Untertitel
 
         <center>![](img/study3_vignette.png){.lightbox width="400"}</center>
@@ -1051,58 +1122,61 @@ __Explorative Studie__
     *d* ∈ {−.80; −.50; −.20; .20; .50; 80}
 
 -   Within-Faktor 3: Visualisierungsart
+
     -   Halfeye plot mit Gruppen auf der x-Achse
     -   Halfeye plot mit Gruppen auf der y-Achse
     -   Raincloud plot mit Gruppen auf auf der y-Achse
     -   Gardner-Altman Plot
 
-
 ## Studie 3: Weitere abhängige Variablen {{< iconify gis:measure >}} {.scrollable}
 
 -   Akkuratheit in Overlap
 
-<center>![](img/study3_item_overlap.png){.lightbox width="200"}</center>
+<center>![](img/study3_item_overlap.png){.lightbox width="300"}</center>
 
--   Overlap Fehlkonzept: Median der Overlap Ratings einer Person <  68,9% (kleinster plausibler Wert, der *d* = −.8 bzw. *d* = .8 entspricht)
+-   Overlap Fehlkonzept: Median der Overlap Ratings einer Person \< 68,9% (kleinster plausibler Wert, der *d* = −.8 bzw. *d* = .8 entspricht)
 
 -   Sensitivität
 
-<center>![](img/study3_item_sensitivity.png){.lightbox width="200"}</center>
+<center>![](img/study3_item_sensitivity.png){.lightbox width="300"}</center>
 
 -   Effizienz: Zeit bis zum ersten Akkuratheits- oder Sensitivitätsrating
 
 -   Wahrgenommene Informativität
 
-<center>![](img/study3_item_informativity.png){.lightbox width="200"}</center>
+<center>![](img/study3_item_informativity.png){.lightbox width="300"}</center>
 
 -   Wahrgenommener praktischer Wert
 
-<center>![](img/study3_item_value.png){.lightbox width="200"}</center>
+<center>![](img/study3_item_value.png){.lightbox width="300"}</center>
 
 -   Wahrgenommene Schwierigkeit
 
-<center>![](img/study3_item_difficulty.png){.lightbox width="200"}</center>
-    
+<center>![](img/study3_item_difficulty.png){.lightbox width="300"}</center>
+
 ## Studie 3: Hypothesen {{< iconify bi:exclamation-circle >}} {.smaller .scrollable}
 
-- __Benchmarking__...
-  1. ... steigert die Akkuratheit von Interpretationen.
-  2. ... steigert die Sensitivität von Interpretationen.
-  3. ... führt zu einer erhöhten Aufgabenschwierigkeit
-  4. ... führt zu einer erhöhten und Verweildauer.
-  5. ... steigert die wahrgenommene Informativität.
-  6. ... steigert den wahrgenommenen Wert.
+-   **Benchmarking**...
 
-- __Signaling__...
-  1. ... steigert die Akkuratheit von Interpretationen.
-  2. ... steigert die Sensitivität von Interpretationen.
-  3. ... reduziert die Aufgabenschwierigkeit.
-  4. ... reduziert die Verweildauer.
-  5. ... steigert die wahrgenommene Informativität.
-  6. ... steigert den wahrgenommenen Wert.
-  7. ... reduziert Fehlkonzepte: 
-    + Signaling Cohen's *U<sub>3</sub>* reduziert *U<sub>3</sub>*-Fehlkonzepte 
-    * Signaling Overlap reduziert Overlap-Fehlkonzepte
+    1.  ... steigert die Akkuratheit von Interpretationen.
+    2.  ... steigert die Sensitivität von Interpretationen.
+    3.  ... führt zu einer erhöhten Aufgabenschwierigkeit
+    4.  ... führt zu einer erhöhten und Verweildauer.
+    5.  ... steigert die wahrgenommene Informativität.
+    6.  ... steigert den wahrgenommenen Wert.
+
+-   **Signaling**...
+
+    1.  ... steigert die Akkuratheit von Interpretationen.
+    2.  ... steigert die Sensitivität von Interpretationen.
+    3.  ... reduziert die Aufgabenschwierigkeit.
+    4.  ... reduziert die Verweildauer.
+    5.  ... steigert die wahrgenommene Informativität.
+    6.  ... steigert den wahrgenommenen Wert.
+    7.  ... reduziert Fehlkonzepte:
+
+    -   Signaling Cohen's *U*<sub>3</sub> reduziert *U*<sub>3</sub>-Fehlkonzepte
+    -   Signaling Overlap reduziert Overlap-Fehlkonzepte
 
 ## Studie 3: Fehlkonzepte {{< iconify fa:flash >}}
 
@@ -1115,10 +1189,11 @@ __Explorative Studie__
 </center>
 
 ::: {style="font-size: 0.70em"}
-|                    | Akkuratheit                                            | Sensitivität                                                                                                      | Aufgabenschwierigkeit                                                                                           | Effizienz                                                                                                                                                           | Informativität                                                                                                                             | Praktischer Wert                                                                                                 | Fehlkonzept                                                                                                                          |
+|                    | Akkuratheit                                                                                                                                                   | Sensitivität                                                                                                    | Aufgabenschwierigkeit                                                                                           | Effizienz                                                                                                                                                                                            | Informativität                                                                                                                             | Praktischer Wert                                                                                                 | Fehlkonzept                                                                                                                                                                                                                                     |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| Visualisierungsart | [{{<iconify   dashicons:no>}}]{style="color:#96412D;"} | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Halfeye plots       | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Schwierigkeit bei Halfeye plots | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots                                  | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höherer praktischer Wert bei Halfeye plots |                                                                                                                                      |
-| Anreicherungen     | [{{<iconify dashicons:no>}}]{style="color:#96412D;"}   | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Signaling-Bedingung | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | [{{<iconify dashicons:no>}}]{style="color:#8cd000;"} <br> nach mehreren Durchgängen kein Unterschied zwischen Visualisierung mit Signaling U3 und ohne Anreicherung | [{{<iconify fa-solid:question >}}]{style="color:black"}                     | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                          | [{{<iconify  streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an U3-Fehlkonzepten bei Signaling U3-Bedingung |
+| Visualisierungsart | {{<iconify charm:scales>}}                                                                                                                                    | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Halfeye plots       | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Schwierigkeit bei Halfeye plots | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Verweildauer bei Halfeye plots und Raincloud plots                                                                   | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Informativität bei Halfeye plots (v.a. mit Gruppen auf x-Achse) | [{{<iconify   streamline:check-solid>}}]{style="color:#8cd000;"} <br> höherer praktischer Wert bei Halfeye plots |                                                                                                                                                                                                                                                 |
+| Signaling          | {{<iconify charm:scales>}}                                                                                                                                    | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Sensitivität bei Signaling-Bedingung | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | {{<iconify charm:scales>}} & [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> nach mehreren Durchgängen kein Unterschied zwischen Visualisierung mit Signaling und ohne Signaling | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                                                    | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                          | [{{<iconify  streamline:check-solid>}}]{style="color:#8cd000;"} <br> geringere Anzahl an *U*<sub>3</sub>-Fehlkonzepten bei Signaling *U*<sub>3</sub>-Bedingung & <br> geringere Anzahl an Overlap-Fehlkonzepten bei Signaling Overlap-Bedingung |
+| Benchmarking       | {{<iconify charm:scales>}} (Cohen's *U*<sub>3</sub> Metrik, Overlap Metrik) & <br> [{{<iconify fa-solid:question >}}]{style="color:black"} (Abstrakte Metrik) | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                         | [{{<iconify streamline:check-solid>}}]{style="color:#8cd000;"} <br> höhere Verweildauer bei Visualisierung mit Benchmarking                                                                          | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                                                    | [{{<iconify fa-solid:question >}}]{style="color:black"}                                                          |                                                                                                                                                                                                                                                 |
 :::
 
 ## Wahrgenommene Informativität \<--\> Handlung ?
@@ -1133,7 +1208,7 @@ __Explorative Studie__
 
 <!-- nicht in das scss integrierbares css -->
 
-
+```{=html}
 <!--
 
 ::: notes
@@ -1159,27 +1234,28 @@ __Rezeption durch Zielgruppe__
 
 :::
 -->
-
-
+```
+```{=html}
 <!-- 
   + Ausprägungen der unabhängigen Variablen (z.B. Cohen's *U<sub>3</sub>* wird verglichen mit 1) generischen Maßen wie Cohen's *d* vs. 2) intuitiver interpretierbaren und kontextspezifischen Effektstärken z.B. Months of Progress) 
   + Operationalisierungen der unabhängigen Variable (z.B. Probability of Superiority dargestellt in Prozent vs. in natürlichen Häufigkeiten; überlappende vs. nicht-überlappende Normalverteilung)
   + Operationalisierung der abhängigen Variablen (z.B. Verständnis erfasst über einen Slider von -1 bis +1 vs. Overlap vs. Probability of Superiority)
   
 -->
-
+```
+```{=html}
 <!--
 2) Inwieweit hängen Charakterstika der Lehrpersonen (z.B. Geschlecht, Alter, Unterrichtsfach), Selbstvertrauen der Lehrpersonen in die statistische Interpretation, Überzeugungen und Motivationen bezüglich (Bildungs-)Wissenschaft mit den Profilen zusammen? 
 -->
-
-
+```
+```{=html}
 <!--
 - falls ja, inweit diese mit bestimmten Eigenschaften von Lehrpersonen zusammenhängen
   + wie demografische Eigenschaften, 
   + Überzeugungen bezüglich Bildungswissenschaft
 - Fokus nur auf FF 1 explorativer Ansatz -->
-
-
+```
+```{=html}
 <!-- 
 ## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.center}
 
@@ -1237,4 +1313,4 @@ teachers’ understanding of the effect size visualization.
 :::
 
 -->
-
+```
