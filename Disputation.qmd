@@ -905,7 +905,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 -   jetzt erlaube ich mir aber noch etwas herauszuzoomen
 -   vier Jahre mit diesem Thema nutzerfreundliche WK beschäftigt und mir auch immer wieder Gedanken über das größere Ganze gemacht
-    -   dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Visualisierungen gestoßen, das mich auf die folgende Implikation gebracht hat
+    -   dabei bin ich auf ein Modell von Kriz und Hegarty zu Verstehensprozessen bei Animationen gestoßen, das mich auf die folgende Implikation gebracht hat
     -   diesem Modell nach, haben wir mit unserem Ansatz sogenannte bottom-up Verstehensprozesse adressiert
     -   wir haben versucht mithilfe von bestimmten Präsentationsformaten Lehrpersonen die Schritte hin zu einem adäquaten mentalen Modell zu erleichten
     -   und letztendlich Lernprozesse auszulösen, die bei Lehrpersonne zu langfristigem Wissen führen, das für evidenzinformiertes Handeln notwendig ist
