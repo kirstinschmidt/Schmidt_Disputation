@@ -115,8 +115,62 @@ border: none !important;
 
 -   Sie wissen es vermutlich alle: Lehrpersonen sind formal z.B. in den KMK Kompetenzen in DE dazu angehalten solche Ergebnisse in ihrem professionellen Handeln zu berücksichtigen
 
--   diese Forderung kann beispielsweise kognitionspsychologisch begründet werden
+-   der Einbezug solcher empirischer Studien und Theorien der BiWi wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert - beispielsweise unter dem Begriff ...
+    
+:::
 
+# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+
+::: notes
+
+- evidenzinformierte Praxis
+:::
+
+## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
+
+:::: {.columns}
+::: {.column width='50%'}
+
+::: {.r-stack}
+
+![](img/Paper_Retrieval%20practice.png){width=80% fig-align="center"}
+
+![](img/Paper_Beliefs%20in%20sources.png){.lightbox width=90% fig-align="center"}
+
+![](img/Welt_PISA.png){width=70% fig-align="center"}
+
+![](img/PM_virtuelles%20Klassenzimmer.png){width=60% fig-align="center"}
+
+![](img/Podcast_CLT.png){width=50% fig-align="center"}
+
+![](img/CHU_Forschendes%20Lernen.png){.lightbox width=40% fig-align="center"}
+:::
+
+:::
+
+::: {.column width='50%'}
+
+::: {.fragment}
+<br>
+<br>
+
+Evidenz = systematisch gewonnene Informationsquelle [z.B. @bromme2014; @shavelson2021; @doering2016]
+:::
+:::
+::::
+
+::: {.fragment}
+
+<center>
+{{< iconify octicon:goal-16 >}} Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung <br> [z.B. @bell2010; @double2020; @filderman2018; @coldwell2017; @kennedy2017]
+
+</center>
+
+:::
+
+::: notes
+
+-   diese Forderung kann beispielsweise kognitionspsychologisch begründet werden
     -   Forschungsergebnisse werden zum Beispiel im Vergleich zu eigenen Erfahrungen als objektivere Infos angesehen
     -   Denn sie werden systematisch gewonnen und sind dadurch weniger von kognitive Verzerrungen beeinflusst
     -   erste empirische Belege, dass das Berücksichtigen solcher Forschungsergebnisse
@@ -125,16 +179,13 @@ border: none !important;
         -   letztlich Schüler:innenleistung steigern kann
 
 -   Solche Forschungsergebnisse können in der Praxis ganz unterschiedlich genutzt werden
-
     -   Forschungsergebnisse z.B. zu Forschendem Lernen können die eigene Unterrichtspraxis innovieren, indem FL in den eigen Unterricht integriert wird
     -   oder Tipps für Schüler:innen abzuleiten z.B. wie Sie am besten Vokabeln lernen
+
+- wie gelangen Lehrpersonen zu solchen Ableitungen für die Praxis?
+
 :::
 
-# Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}}
-
-::: notes
--   der Einbezug solcher wissenschaftlicher Erkenntnisse <!-- sogenannter wissenschaftlichen Evidenz und Theorien --> wird seit Ende der 1990 unter verschiedenen Schlagwörtern diskutiert - beispielsweise unter dem Begriff evidenzinformierte Praxis
-:::
 
 ## Ablauf evidenzinformierter <br> Schulpraxis {{< iconify fluent-mdl2:processing >}} {.smaller}
 
