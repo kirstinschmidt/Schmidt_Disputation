@@ -67,10 +67,10 @@ sign_profiles <- mplus_output_sig$parameters$unstandardized %>%
   xlab("") +
   ylab("Profil-Mittelwerte") +
   scale_linetype_manual(values=c("dotted", "dotdash", "dashed", "solid"))+
-  scale_color_manual(values = c("#006d00",
-                                "#8cd000",
-                                "#2b961f",                                 
-                                "#88ff00"
+  scale_color_manual(values = c("#f53434",
+                                "#692d1f",
+                                "#96412D",                                 
+                                "#8cd000"
                                 )) +
   theme(legend.position = "bottom",
         legend.title = element_blank(),
@@ -130,10 +130,10 @@ cou3_profiles <- mplus_output_cou3$parameters$unstandardized %>%
   xlab("") +
   ylab("Profil-Mittelwerte") +
   scale_linetype_manual(values=c("dotted", "dotdash", "dashed", "solid"))+
-  scale_color_manual(values = c("#006d00",
-                                "#8cd000",
-                                "#2b961f",                                 
-                                "#88ff00"
+  scale_color_manual(values = c("#f53434",
+                                "#692d1f",
+                                "#96412D",                                 
+                                "#8cd000"
                                 )) +
   theme(legend.position = "bottom",
         legend.title = element_blank(),
