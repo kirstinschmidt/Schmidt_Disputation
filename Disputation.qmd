@@ -901,7 +901,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 > Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
 ::: fragment
-<center>![](img/Modell_bottomup){.lightbox width="940"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
+<center>![](img/Modell_bottomup){.lightbox width="930"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 :::
 
 ::: notes
@@ -922,7 +922,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 > Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
-<center>![](img/Modell_topdown_bottomup){.lightbox width="940"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
+<center>![](img/Modell_topdown_bottomup){.lightbox width="930"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 
 ::: notes
 -   ... dass die Schritte und das Mentale Modell selbst durch das bereits vorhande Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
