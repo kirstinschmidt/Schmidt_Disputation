@@ -468,10 +468,10 @@ plot_diff_am <- data_w  |>
 
 plot_diff_am 
 
-#ggsave("study3_plot_diff_am.png",
-#      width = 8,
-#      height = 8,
-#      dpi = 400)
+ggsave("study3_plot_diff_am.png",
+      width = 8,
+      height = 6,
+      dpi = 400)
 ```
 
 
@@ -499,10 +499,10 @@ plot_diff_u3 <- data_w  |>
 
 plot_diff_u3 
 
-#ggsave("study3_plot_diff_u3.png",
-#      width = 8,
-#      height = 8,
-#      dpi = 400)
+ggsave("study3_plot_diff_u3.png",
+      width = 8,
+      height = 6,
+      dpi = 400)
 ```
 
 ```{r}
@@ -530,9 +530,9 @@ plot_u3_misconceptions <- data_w |>
 
 plot_u3_misconceptions
 
-#ggsave("study3_plot_u3_misconceptions.png",
-#      width = 8,
-#      height = 8,
-#      dpi = 400)
+ggsave("study3_plot_u3_misconceptions.png",
+      width = 8,
+      height = 6,
+      dpi = 400)
 ```
 

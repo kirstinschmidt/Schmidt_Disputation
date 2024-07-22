@@ -190,7 +190,7 @@ Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; 
 
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted.png){.lightbox width="800"}
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted.png){.lightbox width="970"}
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
@@ -315,8 +315,8 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 |                       |                                    Textliche Aufbereitung                                    |                                      Visuelle Aufbereitungen                                      |
 |--------------:|:--------------------------:|:---------------------------:|
-| **Inferenzstatistik** |                         ![](img/CHU_sig.png){.lightbox width="200"}                          |                                                                                                   |
-|     **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
+| **Inferenzstatistik** |                         ![](img/CHU_sig.png){.lightbox width="260"}                          |                                                                                                   |
+|     **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="260"} ![](img/Toolkit_mop.png){.lightbox width="260"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="230"}![](img/WWC_pg_vis.png){.lightbox width="220"} |
 
 <center> [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @EEF2021] </center>
 
@@ -336,26 +336,25 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
-::: fragment
+::: {.fragment}
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers_black.png){.lightbox width="700"}
-
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_misslungen.png){.lightbox width="900"}<br>
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 </center>
+
 :::
 
 ::: notes
--   wenn wir uns erneut das Prozessmodell vor Augen führen, dann führen falsche Interpretationen dazu,...
+-   wenn wir uns nochmals an das Prozessmodell erinnern, dann führen falsche Interpretationen dazu,...
 :::
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_3-Phase_misslungen.png){.lightbox width="700"}
-
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_3-Phase_misslungen.png){.lightbox width="900"}<br>
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 </center>
@@ -369,8 +368,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_inadäquat.png){.lightbox width="700"}
-
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_inadäquat.png){.lightbox width="900"}<br>
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 </center>
@@ -381,7 +379,8 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ## Forschungsdesiderat {{< iconify ph:file-magnifying-glass-bold >}} {.smaller}
 
-<center>![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_gestoppt.png){.lightbox width="700"} <br> Eigene Adaption des Prozessmodells nach @grossophoff2023</center>
+<center>![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_gestoppt.png){.lightbox width="900"} <br> 
+Eigene Adaption des Prozessmodells nach @grossophoff2023</center>
 
 ::: notes
 -  zu keiner Anwendungsphase
@@ -735,7 +734,7 @@ Im Druck in der Zeitschrift für Psychologie
 
     -   Lernen mittels Erklärvideo mit Untertitel vs. Erklärvideo ohne Untertitel
 
-        <center>![](img/study3_vignette.png){.lightbox width="400"}</center>
+        <center>![](img/study3_vignette.png){.lightbox width="850"}</center>
 
 -   Within-Faktor 2: präsentierte Effektstärke\
     *d* ∈ {−.80; −.65; −.50; −.35; −.20; .20; .35; .50; .65; .80}
@@ -774,9 +773,9 @@ Im Druck in der Zeitschrift für Psychologie
 
 -   **Akkuratheit**
     -   Abstrakte Metrik\
-        ![](img/study3_item_am.png){.lightbox width="500"}
+        ![](img/study3_item_am.png){.lightbox width="620"}
     -   Cohen's *U*<sub>3</sub> Metrik\
-        ![](img/study3_item_u3.png){.lightbox width="500"}
+        ![](img/study3_item_u3.png){.lightbox width="670"}
 -   **Cohen's *U***<sub>3</sub> Fehlkonzept: Median der *U*<sub>3</sub> Ratings einer Person \< 21,2% (kleinster plausibler Wert, der *d* = −.8 entspricht)
 
 ::: notes
@@ -884,7 +883,7 @@ zentralen Ergebnisse aller drei Studien nochmals in Take Home Messages zusammenf
 ::: fragment
 <center>
 
-![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers_black.png){.lightbox width="600"} <br>
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers_black.png){.lightbox width="700"} <br>
 
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
@@ -902,7 +901,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 > Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
 ::: fragment
-<center>![](img/Modell_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
+<center>![](img/Modell_bottomup){.lightbox width="940"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 :::
 
 ::: notes
@@ -923,7 +922,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 > Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
-<center>![](img/Modell_topdown_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
+<center>![](img/Modell_topdown_bottomup){.lightbox width="940"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 
 ::: notes
 -   ... dass die Schritte und das Mentale Modell selbst durch das bereits vorhande Wissen einer Lehrperson beeinflusst wird - was als top-down Verstehensprozesse bezeichnet wird
