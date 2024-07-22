@@ -57,7 +57,7 @@ border: none !important;
 </style>
 ```
 ::: footer
-{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter https://bit.ly/XXX
+{{< iconify academicons:open-materials >}} Folien cc-by {{< iconify academicons:creative-commons-by >}} unter https://kirstinschmidt.github.io/Schmidt_Disputation/
 :::
 
 ::: notes
