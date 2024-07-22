@@ -318,7 +318,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 | **Inferenzstatistik** |                         ![](img/CHU_sig.png){.lightbox width="200"}                          |                                                                                                   |
 |     **Effektstärken** | ![](img/CHU_g_U3.png){.lightbox width="200"} ![](img/Toolkit_mop.png){.lightbox width="200"} | ![](img/Tüdibase_U3_vis.png){.lightbox width="200"}![](img/WWC_pg_vis.png){.lightbox width="210"} |
 
-[@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @WWC2022; @EEF2021]
+<center> [@wiesbeck2018; @backfisch2021; @diery2021; @WWC2021; @EEF2021] </center>
 
 ::: notes
 -   Bspe. mitgebracht
