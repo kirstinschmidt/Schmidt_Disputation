@@ -1041,11 +1041,11 @@ Studie 3 estimation
 
 -   Wahrgenommene Informativität
 
-<center>![](img/study1_item_informativity.png){.lightbox width="400"}</center>
+<center>![](img/study1_item_informativity.png){.lightbox width="700"}</center>
 
 -   Selbstvertrauen in statistische Interpretation
 
-<center>![](img/study1_item_conf.png){.lightbox width="400"}</center>
+<center>![](img/study1_item_conf.png){.lightbox width="700"}</center>
 
 ## Studie 1: Weitere Ergebnisse {{< iconify fa6-solid file-lines >}} {.smaller}
 
