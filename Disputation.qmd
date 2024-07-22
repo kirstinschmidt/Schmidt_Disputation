@@ -152,7 +152,7 @@ border: none !important;
 <br>
 <br>
 <br>
-Evidenz = systematisch gewonnene Informationsquelle [z.B. @bromme2014; @shavelson2021; @doering2016]
+Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; @doering2016]
 :::
 :::
 ::::
@@ -170,7 +170,7 @@ Evidenz = systematisch gewonnene Informationsquelle [z.B. @bromme2014; @shavelso
 
 - die Forderung evidenzinformiert Schulpraxis kann beispielsweise kognitionspsychologisch begründet werden
     -   Evidenz ist im Vergleich zu bespielsweise eigenen Erfahrungen als objektivere Informationsquelle anzusehen
-    -   Da sie systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
+    -   Da die Information systematisch nach bestimmten Kriterien gewonnen wird und dadurch weniger von kognitive Verzerrungen beeinflusst ist
     -  Ihr wird daher Potenzial zugeschrieben
         -   Professionalisierung von Lehrpersonen stärken
         -   Unterrichts- und Schulqualität
@@ -811,6 +811,10 @@ Im Druck in der Zeitschrift für Psychologie
     -   gleiche Grafik, aber jetzt U3 Ratings dargestellt: Verzerrungen in der U3 Metrik deutlich. Es liegt ein Bias vor, weil MW von 0 abweichen (Ergebnisse ohne Personen mit U3 Fehlkonzpet); Streuung moderat, die U3-Einschätzungen sind also im Durschnitt nicht akkurat 
 - positiv hervorzuheben ist, dass  wir starke Evidenz dafür finden, dass Signaling U3 U3-Fehlkonzepte deutlich reduziert
 
+
+Ergänzung:
+Effsize < 0 (rating in d – effsize)*(-1), sonst rating_in_d – effsize)
+
 :::
 
 ## Eigene Forschungstätigkeiten {{< iconify fa6-solid file-lines >}} {{< iconify fa6-solid chart-area >}} {.smaller auto-animate="true"}
@@ -859,7 +863,7 @@ zentralen Ergebnisse aller drei Studien nochmals in Take Home Messages zusammenf
 
 ## Take Home Messages {{< iconify fa6-solid lightbulb >}}
 
--   Intuitivere statistische Informationen {{<iconify fa-solid:not-equal>}} weitgehend/allgemein verständliche Informationen
+-   Intuitivere statistische Informationen {{<iconify fa-solid:not-equal>}} allgemein verständliche Informationen
 -   Effektstärke und Effektunsicherheit werden oft verwechselt
 -   Je nach Operationalisierung sind Effektstärkeninterpretationen unterschiedlich akkurat
 -   Signaling reduziert Fehlkonzepte deutlich
@@ -895,7 +899,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
-> Gestaltung verständliche Wissenschaftskommunikation herausfordernd
+> Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
 ::: fragment
 <center>![](img/Modell_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
@@ -917,7 +921,7 @@ Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 ## Diskussion, Ausblick und Limitationen {{< iconify bxs:directions >}} {.smaller}
 
-> Gestaltung verständliche Wissenschaftskommunikation herausfordernd
+> Gestaltung verständlicher Wissenschaftskommunikation herausfordernd
 
 <center>![](img/Modell_topdown_bottomup){.lightbox width="900"} <br> Eigene Adaption des Modells der Verstehensprozesse nach @kriz2007</center>
 
