@@ -948,6 +948,14 @@ ergänzend:
 
 # Vielen Dank für Ihre Aufmerksamkeit! {{< iconify streamline:happy-face >}}
 
+
+::: notes
+”[E]xpected change in percentile rank an average student
+would have made had the student received the
+intervention”
+Prozentränge geben den prozentualen Anteil von Personen in der Vergleichsgruppe an, die einen schlechteren oder gleich guten Wert wie eine Testperson erzielt haben
+:::
+
 # Anhang
 
 ## Begriffsklärungen {{< iconify carbon:concept >}}
@@ -1005,6 +1013,13 @@ Modell evidenzbasierten Unterrichts (EBU) nach @rochnia2022
 
 ::: notes
 Studie 3 estimation
+
+VLMR-likelihood ratio test
+e chose latent profile analysis because it models the data with fewer parameters than latent class analysis.
+
+Bolck, Croon, and Hagenaars method for continuous covariates
+
+three-step method for distal categorical 
 :::
 
 # Studie 1 {{< iconify fa6-solid file-lines >}}
